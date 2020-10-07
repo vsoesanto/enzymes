@@ -1,0 +1,4 @@
+spacy==2.3.2
+ftputil==4.0.0
+pandas==0.24.2
+textacy==0.10.1
