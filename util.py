@@ -4,6 +4,12 @@ import gzip
 
 
 def unzip(path):
+    '''
+    Unzips a given file whose path is given. The file is assumed to be a GNU zip file (.gz)
+
+    :param path: absolute path to a .gz file to be unzipped
+    :return: None
+    '''
     extension = ".gz"
     file_name = os.path.abspath(path)  # get full path of files
     if file_name.endswith(extension):
@@ -17,8 +23,25 @@ def unzip(path):
 
 
 def get_enzymes():
-    path = "../data/enzymes_list.tsv"
-    enzymes_list = pd.read_csv(path, sep="\t")["symbol"].tolist()
-    # print(enzymes_list)
-    # print(len(enzymes_list))
-    return enzymes_list
+    '''
+    Reads a file containing enzymes to be searched in abstracts.
+
+    :return: a list of enzymes
+    '''
+    return pd.read_csv("../data/enzymes_list.tsv", sep="\t")["symbol"].tolist()
+
+
+def write(curated_list=None):
+    '''
+    Writes abstracts to a .tsv file.
+
+    :param curated_list: Contents of curated_list will be used to write to a .tsv file.
+    :return:
+    '''
+    # generate a pandas dataframe
+    data_df = pd.DataFrame(curated_list)
+
+    data_df.to_csv("../data/abstracts.tsv", sep="\t", index=False)
+    data_df.to_csv("../data/abstracts.tsv", sep="\t", index=False)
+    print("Written abstracts to ../data/abstracts.tsv")
+    print(data_df)

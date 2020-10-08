@@ -1,20 +1,25 @@
 import xml.etree.ElementTree as ET
-import os
+import re
 import pandas as pd
 
 
 class XMLReader:
 
     def __init__(self, path):
+        '''
+        Initializes the XMLReader object.
+
+        :param path: path to an XML file to read
+        '''
         self.abstracts = []
-        # self.directory = "./pubmed/baseline-2018-sample"
         self.path = path
 
     def read(self):
         '''
-        An XML file contains many papers, and this function will return
+        An XML file contains many papers, and this function will return all abstracts from each paper in the
+        XML file.
 
-        :return:
+        :return: None
         '''
         file = self.path
         if file.endswith(".xml"):
@@ -37,43 +42,48 @@ class XMLReader:
                         abstract = node[0].text
                         self.abstracts.append(abstract)
 
-    def write(self, curated_list=None):
-        '''
-        Writes abstracts to a .tsv file.
-
-        :param curated_list: Optional argument. If None, contents of self.abstracts will be used
-        :return:
-        '''
-        # generate a pandas dataframe
-        if curated_list is not None:
-            data_df = pd.DataFrame(curated_list)
-        else:
-            data_df = pd.DataFrame(self.abstracts)
-        data_df.to_csv("../data/abstracts.tsv", sep="\t", index=False)
-        data_df.to_csv("../data/abstracts.tsv", sep="\t", index=False)
-        print("Written abstracts to ../data/abstracts.tsv")
-        print(data_df)
-
     def get(self, enzyme=None, enzyme_list=None):
         '''
-        Retrieve only abstracts that contain enzyme
+        Retrieve only abstracts that contain enzyme.
 
-        :param enzyme:
-        :return:
+        :param enzyme: Optional argument used as key to find in abstracts. If None, enzyme_list must be supplied.
+        :param enzyme_list: Optional argument used to iterate over. The enzyme in the list will be matched to tokens in
+         abstracts. If None, enzyme must be supplied.
+        :return: a list of abstracts containing desired enzyme(s)
         '''
         containing = []
         for a in self.abstracts:
-            print("\treading: " + a)
-            for token in a.split():
-                if enzyme is not None:
-                    if token == enzyme:
-                        containing.append(a)
-                        break
-                else:
-                    if token in enzyme_list:
-                        containing.append(a)
-                        break
-        return containing
+            # print("\treading: " + a)
+            if isinstance(a, str):
+                for token in a.split():  # split string by whitespace
+                    token = self.clean(token)
+                    # need to ensure that both "(AOC1)" and "AOC1" contain the enzyme "AOC1"
+                    # in this setting, "(AOC1)" also contains the enzyme "A0" which may not be desired
+                    if enzyme is not None:
+                        if enzyme == token:
+                            containing.append(a)  # if there is a match, add abstract to a list immediately
+                            break  # and terminate loop that iterates over tokens
+                    else:  # use enzyme list
+                        for e in enzyme_list:  # iterate over given enzyme list
+                            if e == token:  # check if enzyme is contained by the token
+                                containing.append(a)  # if there is a match, add abstract to a list immediately
+                                print("\tFOUND: " + e)
+                                print("\t" + a +"\n")
+                                break  # and terminate loop that iterates over tokens
+                    break
+        self.abstracts = containing
+
+    def clean(self, string):
+        '''
+        Removes unwanted character(s) from string
+
+        :param string: string from which unwanted characters are removed
+        :return: cleaned string
+        '''
+        string = string.lstrip("(")
+        string = string.rstrip(")")
+        return string
+
 
 
 
