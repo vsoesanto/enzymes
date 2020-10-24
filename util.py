@@ -1,6 +1,8 @@
 import pandas as pd
 import os
 import gzip
+import spacy
+from pysbd.utils import PySBDFactory
 
 
 def unzip(path):
@@ -28,7 +30,21 @@ def get_enzymes():
 
     :return: a list of enzymes
     '''
-    return pd.read_csv("../data/enzymes_list.tsv", sep="\t")["symbol"].tolist()
+    return pd.read_csv("data/enzymes_list.tsv", sep="\t")["symbol"].tolist()
+
+
+def get_abstracts(segmented=False):
+    '''
+    Returns a list containing abstracts from NCBI's database.
+
+    :param segmented: Boolean value to determine whether the segmented or unsegmented file is desired.
+    Default value is False.
+    :return: a list of abstracts
+    '''
+    if segmented:
+        return pd.read_csv("data/segmented_abstracts.tsv", sep="\t")["sentences"].tolist()
+    else:
+        return pd.read_csv("data/abstracts.tsv", sep="\t")["abstracts"].tolist()
 
 
 def write(curated_list=None):
@@ -41,7 +57,37 @@ def write(curated_list=None):
     # generate a pandas dataframe
     data_df = pd.DataFrame(curated_list)
 
-    data_df.to_csv("../data/abstracts.tsv", sep="\t", index=False)
-    data_df.to_csv("../data/abstracts.tsv", sep="\t", index=False)
+    data_df.to_csv(".data/abstracts.tsv", sep="\t", index=False)
     print("Written abstracts to ../data/abstracts.tsv")
     print(data_df)
+
+
+def segment_abstracts():
+    '''
+    Performs sentence boundary disambiguation (SBD) on existing abstracts.tsv to retrieve individual sentences
+    from each abstract. After SBD is applied, writes sentences to a .tsv file.
+
+    :return: None
+    '''
+    segmented_abstracts_df = pd.DataFrame(columns=["sentences"])
+    abstracts = get_abstracts()
+    nlp = spacy.blank("en")
+    nlp.add_pipe(PySBDFactory(nlp))
+    for i, a in enumerate(abstracts):
+        doc = nlp(a)
+        for sent in list(doc.sents):
+            segmented_abstracts_df = segmented_abstracts_df.append({"sentences": sent}, ignore_index=True)
+
+        if i < 2:
+            print(list(doc.sents))
+
+    print(segmented_abstracts_df)
+    segmented_abstracts_df.to_csv("data/segmented_abstracts.tsv", sep="\t", index=False)
+
+
+
+
+
+
+
+
