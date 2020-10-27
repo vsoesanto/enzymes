@@ -1,735 +1,981 @@
 No indication of association was found between GPT types and phenotypes within the ABO, Rh, MN, Hp, Gc, C3, PGM1, and ACP1 systems.
 [{'No indication': ('nsubjpass', 'found')}, {'association': ('pobj', 'of')}, {'GPT types': ('pobj', 'between')}, {'phenotypes': ('conj', 'types')}, {'the ABO': ('pobj', 'within')}, {'Rh': ('conj', 'ABO')}, {'MN': ('conj', 'Rh')}, {'Hp': ('conj', 'MN')}, {'Gc': ('conj', 'Hp')}, {'C3': ('conj', 'Gc')}, {'PGM1': ('conj', 'C3')}, {'ACP1 systems': ('conj', 'PGM1')}]
+No indication  --> association  --> GPT types and phenotypes   --> the ABO and Rh  and MN  and Hp  and Gc  and C3  and PGM1  and ACP1 systems 
 
 Efforts to determine further the biochemical defects responsible for a given phenotype have led to the investigation of gene coding for the apolipoproteins, the key enzymes in the lipoproteins pathways (LPL, HDL, and LCAT) and the receptors that process lipoproteins, such as the LDL receptor and the chylomicron remnant receptor.
 [{'Efforts': ('nsubj', 'led')}, {'the biochemical defects': ('dobj', 'determine')}, {'a given phenotype': ('pobj', 'for')}, {'the investigation': ('pobj', 'to')}, {'gene': ('pobj', 'of')}, {'the apolipoproteins': ('pobj', 'for')}, {'the key enzymes': ('appos', 'Efforts')}, {'the lipoproteins pathways': ('pobj', 'in')}, {'LPL': ('nsubj', 'lipoproteins')}, {'HDL': ('conj', 'LPL')}, {'LCAT': ('conj', 'HDL')}, {'the receptors': ('conj', 'HDL')}, {'the LDL receptor': ('pobj', 'as')}, {'the chylomicron remnant receptor': ('conj', 'receptor')}]
+Efforts  --> the biochemical defects  --> a given phenotype  --> the investigation  --> gene  --> the apolipoproteins   --> the lipoproteins pathways LPL and HDL  and LCAT and the receptors   and the chylomicron remnant receptor  --> the LDL receptor 
 
 Erythrocyte membrane abnormalities (e.g., increased erythrocyte PC and cholesterol) that were associated with patients with zero plasma LCAT were also observed in family members with half the LCAT.
 [{'Erythrocyte membrane abnormalities': ('nsubj', 'increased')}, {'erythrocyte PC': ('dobj', 'increased')}, {'cholesterol': ('conj', 'PC')}, {'patients': ('pobj', 'with')}, {'zero plasma LCAT': ('pobj', 'with')}, {'family members': ('pobj', 'in')}, {'half the LCAT': ('pobj', 'with')}]
+Erythrocyte membrane abnormalities  --> erythrocyte PC and cholesterol   --> patients  --> zero plasma LCAT  --> family members  --> half the LCAT
 
 CYP1A1 is a cytochrome P450 which is inducible by polycyclic aromatic hydrocarbons (PAH).
 [{'CYP1A1': ('nsubj', 'is')}, {'a cytochrome P450': ('attr', 'is')}, {'polycyclic aromatic hydrocarbons': ('pobj', 'by')}, {'PAH': ('appos', 'hydrocarbons')}]
+CYP1A1   --> polycyclic aromatic hydrocarbons 
 
 CYP11B1 (11 beta-hydroxylase) and CYP11B2 (aldosterone synthase) are steroidogenic enzymes which mediate the final step (11 beta-hydroxylation) in cortisol synthesis and the final three steps (11 beta-hydroxylation, 18-hydroxylation, and 18-oxidation) in aldosterone synthesis, respectively.
 [{'CYP11B1': ('nsubj', 'are')}, {'11 beta-hydroxylase': ('appos', 'CYP11B1')}, {'CYP11B2': ('conj', 'CYP11B1')}, {'aldosterone synthase': ('appos', 'CYP11B2')}, {'steroidogenic enzymes': ('attr', 'are')}, {'the final step': ('dobj', 'mediate')}, {'11 beta-hydroxylation': ('appos', 'step')}, {'cortisol synthesis': ('pobj', 'in')}, {'the final three steps': ('conj', 'synthesis')}, {'11 beta-hydroxylation': ('appos', 'steps')}, {'aldosterone synthesis': ('pobj', 'in')}]
+CYP11B1 and CYP11B2      --> the final step   --> cortisol synthesis and the final three steps    --> aldosterone synthesis
 
 ABO blood groups; serum proteins, including transferring (Tf), group-specific component (Gc), proteinase inhibitor (PI), and haptoglobin (Hp); and erythrocytic enzymes, including acid phosphatase (ACP1) and phosphoglucomutase (PGM1), were studied in two ethnic groups from the Marii EI Republic-Highland and Meadow Mari.
 [{'ABO blood groups': ('nsubjpass', 'studied')}, {'serum proteins': ('conj', 'groups')}, {'Tf': ('dobj', 'transferring')}, {'group-specific component': ('conj', 'transferring')}, {'Gc': ('appos', 'component')}, {'proteinase inhibitor': ('conj', 'component')}, {'PI': ('appos', 'inhibitor')}, {'haptoglobin': ('conj', 'inhibitor')}, {'erythrocytic enzymes': ('conj', 'inhibitor')}, {'acid phosphatase': ('pobj', 'including')}, {'ACP1': ('appos', 'phosphatase')}, {'PGM1': ('appos', 'phosphoglucomutase')}, {'two ethnic groups': ('pobj', 'in')}, {'the Marii EI Republic-Highland': ('pobj', 'from')}, {'Meadow Mari': ('conj', 'Highland')}]
+ABO blood groups and serum proteins   --> Tf  and group-specific component and proteinase inhibitor   and haptoglobin and erythrocytic enzymes     --> acid phosphatase    --> two ethnic groups  --> the Marii EI Republic-Highland and Meadow Mari 
 
 Associative learning specifically enhanced synaptic transmission between CA3 and CA1 immediately after training.
 [{'Associative learning': ('ROOT', 'learning')}, {'specifically enhanced synaptic transmission': ('dobj', 'learning')}, {'CA3': ('pobj', 'between')}, {'CA1': ('conj', 'CA3')}, {'training': ('pobj', 'after')}]
+  --> specifically enhanced synaptic transmission  --> CA3 and CA1   --> training
 
 MAOA and MAOB are key iso-enzymes that degrade biogenic and dietary amines.
 [{'MAOA': ('nsubj', 'are')}, {'MAOB': ('conj', 'MAOA')}, {'key iso-enzymes': ('attr', 'are')}, {'biogenic and dietary amines': ('dobj', 'degrade')}]
+MAOA and MAOB    --> biogenic and dietary amines
 
 MAOA preferentially oxidizes serotonin (5-hydroxytryptamine, or 5-HT) and norepinephrine (NE), whereas MAOB preferentially oxidizes beta-phenylethylamine (PEA).
 [{'MAOA': ('nsubj', 'oxidizes')}, {'serotonin': ('dobj', 'oxidizes')}, {'norepinephrine': ('conj', 'serotonin')}, {'NE': ('appos', 'norepinephrine')}, {'MAOB': ('nsubj', 'oxidizes')}, {'beta-phenylethylamine': ('dobj', 'oxidizes')}, {'(PEA': ('appos', 'phenylethylamine')}]
+MAOA  --> serotonin and norepinephrine   MAOB  --> beta-phenylethylamine 
 
 The incidence of SCD can be significantly reduced by addressing the fundamental pathophysiology of SCD, which primarily is CAD.
 [{'The incidence': ('nsubjpass', 'reduced')}, {'SCD': ('pobj', 'of')}, {'the fundamental pathophysiology': ('dobj', 'addressing')}, {'SCD': ('pobj', 'of')}, {'CAD': ('attr', 'is')}]
+The incidence  --> SCD  --> the fundamental pathophysiology  --> SCD 
 
 CYP11B1 (11beta-hydroxylase) and CYP11B2 (aldosterone synthase) are 93% identical mitochondrial enzymes that both catalyze 11beta-hydroxylation of steroid hormones.
 [{'CYP11B1': ('nsubj', 'are')}, {'11beta-hydroxylase': ('appos', 'CYP11B1')}, {'CYP11B2': ('conj', 'CYP11B1')}, {'aldosterone synthase': ('appos', 'CYP11B2')}, {'93% identical mitochondrial enzymes': ('attr', 'are')}, {'11beta-hydroxylation': ('dobj', 'catalyze')}, {'steroid hormones': ('pobj', 'of')}]
+CYP11B1 and CYP11B2      --> 11beta-hydroxylation  --> steroid hormones
 
 A converted CYP11B1 gene, containing these exons from CYP11B2, would be regulated like CYP11B1, yet encode an enzyme with the activities of CYP11B2, thus causing GSH or essential hypertension.
 [{'A converted CYP11B1 gene': ('nsubjpass', 'regulated')}, {'these exons': ('dobj', 'containing')}, {'CYP11B2': ('pobj', 'from')}, {'CYP11B1': ('pobj', 'like')}, {'an enzyme': ('dobj', 'encode')}, {'the activities': ('pobj', 'with')}, {'CYP11B2': ('pobj', 'of')}, {'GSH': ('dobj', 'causing')}, {'essential hypertension': ('conj', 'GSH')}]
+A converted CYP11B1 gene  --> these exons  --> CYP11B2  --> CYP11B1  --> an enzyme  --> the activities  --> CYP11B2  --> GSH and essential hypertension 
 
 UCP2 and UCP3 are two recently cloned genes with high sequence homology to the gene for uncoupling protein (UCP)-1, which regulates thermogenesis in brown adipose tissue.
 [{'UCP2': ('nsubj', 'are')}, {'UCP3': ('conj', 'UCP2')}, {'two recently cloned genes': ('attr', 'are')}, {'high sequence homology': ('pobj', 'with')}, {'the gene': ('pobj', 'to')}, {'protein': ('dobj', 'uncoupling')}, {'UCP)-1': ('appos', 'protein')}, {'thermogenesis': ('dobj', 'regulates')}, {'brown adipose tissue': ('pobj', 'in')}]
+UCP2 and UCP3    --> high sequence homology  --> the gene  --> protein   --> thermogenesis  --> brown adipose tissue
 
 In the context of the current debate about whether UCP2 and UCP3 in the skeletal muscle may also function as mediators of thermogenesis or as regulators of lipids as fuel substrate, we have examined their mRNA expressions in rat gastrocnemius muscle in response to dietary manipulations known to differentially affect thermogenesis during the phase of weight recovery after starvation.
 [{'the context': ('pobj', 'In')}, {'the current debate': ('pobj', 'of')}, {'UCP2': ('nsubj', 'function')}, {'UCP3': ('conj', 'UCP2')}, {'the skeletal muscle': ('pobj', 'in')}, {'mediators': ('pobj', 'as')}, {'thermogenesis': ('pobj', 'of')}, {'regulators': ('pobj', 'as')}, {'lipids': ('pobj', 'of')}, {'fuel substrate': ('pobj', 'as')}, {'we': ('nsubj', 'examined')}, {'their mRNA expressions': ('dobj', 'examined')}, {'rat gastrocnemius muscle': ('pobj', 'in')}, {'response': ('pobj', 'in')}, {'dietary manipulations': ('pobj', 'to')}, {'thermogenesis': ('dobj', 'affect')}, {'the phase': ('pobj', 'during')}, {'weight recovery': ('pobj', 'of')}, {'starvation': ('pobj', 'after')}]
+ --> the context  --> the current debate UCP2 and UCP3   --> the skeletal muscle  --> mediators  --> thermogenesis  --> regulators  --> lipids  --> fuel substrate we  --> their mRNA expressions  --> rat gastrocnemius muscle  --> response  --> dietary manipulations  --> thermogenesis  --> the phase  --> weight recovery  --> starvation
 
 Compared with ad libitum-fed control rats, the refeeding of isocaloric amounts of a low-fat (high-carbohydrate) diet resulted in lower energy expenditure and lower mRNA levels of muscle UCP2 and UCP3.
 [{'ad libitum-fed control rats': ('pobj', 'with')}, {'the refeeding': ('nsubj', 'resulted')}, {'isocaloric amounts': ('pobj', 'of')}, {'(high-carbohydrate': ('appos', 'fat')}, {'lower energy expenditure': ('pobj', 'in')}, {'lower mRNA levels': ('conj', 'expenditure')}, {'muscle UCP2': ('pobj', 'of')}, {'UCP3': ('conj', 'UCP2')}]
+ --> ad libitum-fed control rats the refeeding  --> isocaloric amounts   --> lower energy expenditure and lower mRNA levels   --> muscle UCP2 and UCP3 
 
 Taken together, these data are at variance with a role for skeletal muscle UCP2 and UCP3 in dietary regulation (or modulation) of thermogenesis.
 [{'these data': ('nsubj', 'are')}, {'variance': ('pobj', 'at')}, {'a role': ('pobj', 'with')}, {'skeletal muscle UCP2': ('pobj', 'for')}, {'UCP3': ('conj', 'UCP2')}, {'dietary regulation': ('pobj', 'in')}, {'modulation': ('conj', 'regulation')}, {'thermogenesis': ('pobj', 'of')}]
+these data  --> variance  --> a role  --> skeletal muscle UCP2 and UCP3   --> dietary regulation and modulation   --> thermogenesis
 
 However, they are consistent with the notion that these UCP homologs may function as regulators of lipids as fuel substrate and raise the possibility that high-fat induced upregulation of muscle UCP2 and UCP3 may be more closely linked to insulin resistance than to changes in circulating FFAs.
 [{'they': ('nsubj', 'are')}, {'the notion': ('pobj', 'with')}, {'these UCP homologs': ('nsubj', 'function')}, {'regulators': ('pobj', 'as')}, {'lipids': ('pobj', 'of')}, {'fuel substrate': ('pobj', 'as')}, {'the possibility': ('dobj', 'raise')}, {'high-fat induced upregulation': ('nsubjpass', 'linked')}, {'muscle UCP2': ('pobj', 'of')}, {'UCP3': ('conj', 'UCP2')}, {'insulin resistance': ('pobj', 'to')}, {'changes': ('pobj', 'to')}, {'FFAs': ('dobj', 'circulating')}]
+they  --> the notion these UCP homologs  --> regulators  --> lipids  --> fuel substrate  --> the possibility high-fat induced upregulation  --> muscle UCP2 and UCP3   --> insulin resistance  --> changes  --> FFAs
 
 UCP3 is an isoform of UCP1, expressed primarily in skeletal muscle.
 [{'UCP3': ('nsubj', 'is')}, {'an isoform': ('attr', 'is')}, {'UCP1': ('pobj', 'of')}, {'skeletal muscle': ('pobj', 'in')}]
+UCP3   --> UCP1  --> skeletal muscle
 
 Here, we report about the expression of UCP3 and of UCP1 in inclusion bodies of Escherichia coli.
 [{'we': ('nsubj', 'report')}, {'the expression': ('pobj', 'about')}, {'UCP3': ('pobj', 'of')}, {'UCP1': ('pobj', 'of')}, {'inclusion bodies': ('pobj', 'in')}, {'Escherichia coli': ('pobj', 'of')}]
+we  --> the expression  --> UCP3  --> UCP1  --> inclusion bodies  --> Escherichia coli
 
 The specificity of inhibition by nucleoside tri- and diphosphate is different between UCP1 and UCP3.
 [{'The specificity': ('nsubj', 'is')}, {'inhibition': ('pobj', 'of')}, {'UCP1': ('pobj', 'between')}, {'UCP3': ('conj', 'UCP1')}]
+The specificity  --> inhibition  --> UCP1 and UCP3 
 
 UCP1 is more sensitive to tri- than diphosphate whereas in UCP3, the gradient is reverse.
 [{'UCP1': ('nsubj', 'is')}, {'UCP3': ('pobj', 'in')}, {'the gradient': ('nsubj', 'is')}]
+UCP1  --> UCP3 the gradient
 
 Lastly, when expressed in oocytes, the pH2O conferred by MIP is not sensitive to Hg2+ whereas that of CHIP28 (AQP1) is blocked by Hg2+.
 [{'oocytes': ('pobj', 'in')}, {'MIP': ('pobj', 'by')}, {'Hg2': ('pobj', 'to')}, {'(AQP1': ('appos', 'CHIP28')}, {'Hg2': ('pobj', 'by')}]
+ --> oocytes  --> MIP  --> Hg2   --> Hg2
 
 UCP3 is a mitochondrial protein with high homology to the established uncoupling protein, UCP1.
 [{'UCP3': ('nsubj', 'is')}, {'a mitochondrial protein': ('attr', 'is')}, {'high homology': ('pobj', 'with')}, {'the established uncoupling protein': ('pobj', 'to')}, {'UCP1': ('appos', 'protein')}]
+UCP3   --> high homology  --> the established uncoupling protein 
 
 Its high degree of homology to UCP1 suggests that UCP3 may be a true uncoupling protein.
 [{'Its high degree': ('nsubj', 'suggests')}, {'homology': ('pobj', 'of')}, {'UCP1': ('pobj', 'to')}, {'UCP3': ('nsubj', 'be')}, {'a true uncoupling protein': ('attr', 'be')}]
+Its high degree  --> homology  --> UCP1 UCP3 
 
 Pretreatment with 8-cyclopenthyltheophylline (CPT), an A1 adenosine receptor antagonist, significantly exacerbated KA-induced neuronal cell loss in both the CA1 and CA3.
 [{'8-cyclopenthyltheophylline (CPT': ('pobj', 'with')}, {'an A1 adenosine receptor antagonist, significantly exacerbated KA-induced neuronal cell loss': ('appos', 'CPT')}, {'both the CA1': ('pobj', 'in')}, {'CA3': ('conj', 'CA1')}]
+ --> 8-cyclopenthyltheophylline (CPT   --> both the CA1 and CA3 
 
 Pretreatment with CPT induced c-Jun phosphorylation in both the CA1 and CA3.
 [{'CPT': ('pobj', 'with')}, {'c-Jun phosphorylation': ('dobj', 'induced')}, {'both the CA1': ('pobj', 'in')}, {'CA3': ('conj', 'CA1')}]
+ --> CPT  --> c-Jun phosphorylation  --> both the CA1 and CA3 
 
 Coadministration of N6-cyclopenthyladenosine (CHA), an A1 adenosine receptor agonist, attenuated the neuronal cell loss in the CA1 and CA3 with or without pretreatment with CPT.
 [{'Coadministration': ('nsubj', 'attenuated')}, {'N6-cyclopenthyladenosine': ('pobj', 'of')}, {'(CHA': ('appos', 'N6-cyclopenthyladenosine')}, {'an A1 adenosine receptor agonist': ('appos', 'N6-cyclopenthyladenosine')}, {'the neuronal cell loss': ('dobj', 'attenuated')}, {'the CA1': ('pobj', 'in')}, {'CA3': ('conj', 'CA1')}, {'CPT': ('pobj', 'with')}]
+Coadministration  --> N6-cyclopenthyladenosine    --> the neuronal cell loss  --> the CA1 and CA3   --> CPT
 
 UCP2 and UCP3 are newly discovered uncoupling proteins, which are thought to underlie the variability in energy metabolism in humans.
 [{'UCP2': ('nsubj', 'are')}, {'UCP3': ('conj', 'UCP2')}, {'newly discovered uncoupling proteins': ('attr', 'are')}, {'the variability': ('dobj', 'underlie')}, {'energy metabolism': ('pobj', 'in')}, {'humans': ('pobj', 'in')}]
+UCP2 and UCP3    --> the variability  --> energy metabolism  --> humans
 
 EXT1 and EXT2 are two genes responsible for the majority of cases of hereditary multiple exostoses (HME), a dominantly inherited bone disorder.
 [{'EXT1': ('nsubj', 'are')}, {'EXT2': ('conj', 'EXT1')}, {'two genes': ('attr', 'are')}, {'the majority': ('pobj', 'for')}, {'cases': ('pobj', 'of')}, {'hereditary multiple exostoses': ('pobj', 'of')}, {'(HME': ('appos', 'exostoses')}, {'a dominantly inherited bone disorder': ('appos', 'exostoses')}]
+EXT1 and EXT2    --> the majority  --> cases  --> hereditary multiple exostoses  
 
 In order to develop an efficient screening strategy for mutations in these genes, we performed two independent blind screens of EXT1 and EXT2 in 34 unrelated patients with HME, using denaturing high-performance liquid chromatography (DHPLC) and fluorescent single-strand conformation polymorphism analysis (F-SSCP).
 [{'order': ('pobj', 'In')}, {'an efficient screening strategy': ('dobj', 'develop')}, {'mutations': ('pobj', 'for')}, {'these genes': ('pobj', 'in')}, {'we': ('nsubj', 'performed')}, {'two independent blind screens': ('dobj', 'performed')}, {'EXT1': ('pobj', 'of')}, {'EXT2': ('conj', 'EXT1')}, {'34 unrelated patients': ('pobj', 'in')}, {'HME': ('pobj', 'with')}, {'high-performance liquid chromatography': ('dobj', 'denaturing')}, {'DHPLC': ('appos', 'chromatography')}, {'fluorescent single-strand conformation polymorphism analysis': ('conj', 'chromatography')}, {'F-SSCP': ('appos', 'analysis')}]
+ --> order  --> an efficient screening strategy  --> mutations  --> these genes we  --> two independent blind screens  --> EXT1 and EXT2   --> 34 unrelated patients  --> HME  --> high-performance liquid chromatography and fluorescent single-strand conformation polymorphism analysis   
 
 Germ-line mutations of PTEN cause Cowden's syndrome (CS), a multiple hamartoma condition resulting in increased susceptibility for the development of cancer.
 [{'Germ-line mutations': ('nsubj', 'cause')}, {'PTEN': ('pobj', 'of')}, {"Cowden's syndrome": ('dobj', 'cause')}, {'(CS': ('appos', 'syndrome')}, {'a multiple hamartoma condition': ('appos', 'syndrome')}, {'increased susceptibility': ('pobj', 'in')}, {'the development': ('pobj', 'for')}, {'cancer': ('pobj', 'of')}]
+Germ-line mutations  --> PTEN  --> Cowden's syndrome    --> increased susceptibility  --> the development  --> cancer
 
 The exon-intron organization of PDE10A was different from those of PDE5A and PDE6B, although these three PDEs include two GAF domains and have similar amino-acid sequences.
 [{'The exon-intron organization': ('nsubj', 'was')}, {'PDE10A': ('pobj', 'of')}, {'PDE6B': ('conj', 'PDE5A')}, {'these three PDEs': ('nsubj', 'include')}, {'two GAF domains': ('dobj', 'include')}, {'similar amino-acid sequences': ('dobj', 'have')}]
+The exon-intron organization  --> PDE10A  and PDE6B these three PDEs  --> two GAF domains  --> similar amino-acid sequences
 
 In Caenorhabditis elegans, the C32E12.2 gene encoding a probable PDE that is 48% identical to the human PDE10A protein showed similar exon organization to PDE10A but not PDE5A and PDE6B.
 [{'Caenorhabditis elegans': ('pobj', 'In')}, {'the C32E12.2 gene': ('nsubj', 'showed')}, {'a probable PDE': ('dobj', 'encoding')}, {'the human PDE10A protein': ('pobj', 'to')}, {'similar exon organization': ('dobj', 'showed')}, {'PDE10A': ('pobj', 'to')}, {'but not PDE5A': ('conj', 'showed')}]
+ --> Caenorhabditis elegans the C32E12.2 gene  --> a probable PDE  --> the human PDE10A protein  --> similar exon organization  --> PDE10A  and but not PDE5A
 
 However, other GAF-PDEs, PDE2A and PDE10A, displayed different exon organization from PDE11A although these three PDEs are similar in their amino-acid sequences to each other.
 [{'other GAF-PDEs': ('nsubj', 'displayed')}, {'PDE2A': ('appos', 'PDEs')}, {'PDE10A': ('conj', 'PDE2A')}, {'different exon organization': ('dobj', 'displayed')}, {'PDE11A': ('pobj', 'from')}, {'these three PDEs': ('nsubj', 'are')}, {'their amino-acid sequences': ('pobj', 'in')}]
+other GAF-PDEs  and PDE10A   --> different exon organization  --> PDE11A these three PDEs  --> their amino-acid sequences
 
 The findings suggested that PDE11A has a common ancestral gene with PDE5A and PDE6s, whereas PDE2A and PDE10A are generated separately from these three GAF-PDEs.
 [{'The findings': ('nsubj', 'suggested')}, {'PDE11A': ('nsubj', 'has')}, {'a common ancestral gene': ('dobj', 'has')}, {'PDE5A': ('pobj', 'with')}, {'PDE6s': ('conj', 'PDE5A')}, {'PDE10A': ('conj', 'PDE2A')}, {'these three GAF-PDEs': ('pobj', 'from')}]
+The findings PDE11A  --> a common ancestral gene  --> PDE5A and PDE6s   and PDE10A  --> these three GAF-PDEs
 
 Histological analysis showed moderate cell loss in CA1 (31%) and CA3 (12%) and minimal cell loss in CA2 (4%) with 5-min ischemia.
 [{'Histological analysis': ('nsubj', 'showed')}, {'moderate cell loss': ('dobj', 'showed')}, {'CA1': ('pobj', 'in')}, {'31%': ('appos', 'loss')}, {'CA3': ('conj', 'loss')}, {'12%': ('appos', 'CA3')}, {'minimal cell loss': ('conj', 'CA3')}, {'CA2': ('pobj', 'in')}, {'4%': ('appos', 'CA2')}, {'5-min ischemia': ('pobj', 'with')}]
+Histological analysis  --> moderate cell loss and CA3  --> CA1   and minimal cell loss    --> CA2   --> 5-min ischemia
 
 Increased cell loss was seen in CA1 (68%), CA2 (16%), and CA3 (23%) with 10-min ischemia.
 [{'Increased cell loss': ('nsubjpass', 'seen')}, {'CA1': ('pobj', 'in')}, {'68%': ('appos', 'CA1')}, {'16%': ('appos', 'CA2')}, {'23%': ('appos', 'CA3')}, {'10-min ischemia': ('pobj', 'with')}]
+Increased cell loss  --> CA1     --> 10-min ischemia
 
 Constitutive ALDH3A1 levels, as well as those of certain other drug-metabolizing enzymes, e.g. NQO1 and CYP1A1, are relatively low in cultured, relatively oxazaphosphorine-sensitive, human breast adenocarcinoma MCF-7 cells.
 [{'Constitutive ALDH3A1 levels': ('nsubj', 'are')}, {'certain other drug-metabolizing enzymes': ('pobj', 'of')}, {'e.g. NQO1': ('appos', 'enzymes')}, {'CYP1A1': ('conj', 'NQO1')}, {'cultured, relatively oxazaphosphorine-sensitive, human breast adenocarcinoma MCF-7 cells': ('pobj', 'in')}]
+Constitutive ALDH3A1 levels  --> certain other drug-metabolizing enzymes  and CYP1A1   --> cultured, relatively oxazaphosphorine-sensitive, human breast adenocarcinoma MCF-7 cells
 
 However, transient cellular insensitivity to the oxazaphosphorines can be brought about in these cells by transiently elevating ALDH3A1 levels in them as a consequence of transient exposure to: (1) electrophiles such as catechol that induce the transcription of a battery of genes, e.g. ALDH3A1 and NQO1, having in common an electrophile responsive element (EpRE) in their 5'-upstream regions; or (2) Ah-receptor agonists, e.g. indole-3-carbinol and polycyclic aromatic hydrocarbons such as 3-methylcholanthrene, that induce the transcription of a battery of genes, e.g. ALDH3A1, NQO1 and CYP1A1, having in common a xenobiotic responsive element (XRE) in their 5'-upstream regions.
 [{'transient cellular insensitivity': ('nsubjpass', 'brought')}, {'the oxazaphosphorines': ('pobj', 'to')}, {'these cells': ('pobj', 'in')}, {'ALDH3A1 levels': ('dobj', 'elevating')}, {'them': ('pobj', 'in')}, {'a consequence': ('pobj', 'as')}, {'transient exposure': ('pobj', 'of')}, {': (1) electrophiles': ('pobj', 'to')}, {'catechol': ('pobj', 'as')}, {'the transcription': ('dobj', 'induce')}, {'a battery': ('pobj', 'of')}, {'genes': ('pobj', 'of')}, {'e.g. ALDH3A1': ('conj', 'genes')}, {'NQO1': ('conj', 'ALDH3A1')}, {'an electrophile responsive element': ('dobj', 'having')}, {'EpRE': ('appos', 'element')}, {"their 5'-upstream regions": ('pobj', 'in')}, {'(2) Ah-receptor agonists': ('conj', 'element')}, {'e.g. indole-3-carbinol': ('conj', 'agonists')}, {'polycyclic aromatic hydrocarbons': ('conj', 'indole-3-carbinol')}, {'the transcription': ('dobj', 'induce')}, {'a battery': ('pobj', 'of')}, {'genes': ('pobj', 'of')}, {'e.g. ALDH3A1': ('appos', 'battery')}, {'NQO1': ('conj', 'ALDH3A1')}, {'CYP1A1': ('conj', 'NQO1')}, {'common a xenobiotic responsive element': ('pobj', 'in')}, {'XRE': ('appos', 'element')}, {"their 5'-upstream regions": ('pobj', 'in')}]
+transient cellular insensitivity  --> the oxazaphosphorines  --> these cells  --> ALDH3A1 levels and NQO1 and NQO1  --> them  --> a consequence  --> transient exposure  --> : (1) electrophiles  --> catechol  --> the transcription  --> a battery  --> genes and e.g. ALDH3A1   and CYP1A1  --> an electrophile responsive element and (2) Ah-receptor agonists   --> their 5'-upstream regions  and e.g. indole-3-carbinol  and polycyclic aromatic hydrocarbons   --> the transcription  --> a battery  --> genes     --> common a xenobiotic responsive element   --> their 5'-upstream regions
 
 Still further, the three sublines may facilitate study of the signaling pathway that leads to transactivation of the EpREs present in the 5'-upstream regions of ALDH3A1, NQO1 and other gene loci.
 [{'the three sublines': ('nsubj', 'facilitate')}, {'study': ('dobj', 'facilitate')}, {'the signaling pathway': ('pobj', 'of')}, {'transactivation': ('pobj', 'to')}, {"the 5'-upstream regions": ('pobj', 'in')}, {'ALDH3A1': ('pobj', 'of')}, {'NQO1': ('conj', 'ALDH3A1')}, {'other gene loci': ('conj', 'NQO1')}]
+the three sublines  --> study  --> the signaling pathway  --> transactivation  --> the 5'-upstream regions  --> ALDH3A1 and NQO1  and other gene loci 
 
 Phenacetin O-deethylation (CYP1A2), coumarin 7-hydroxylation (CYP2A6), diclofenac 4'-hydroxylation (CYP2C9), omeprazole 5-hydroxylation (CYP2C19), dextromethorphan O-demethylation (CYP2D6), 7-ethoxy-4-trifluoromethylcoumarin deethylation (CYP2B6), p-nitrophenol hydroxylation (CYP2E1), and omeprazole sulfonation (CYP3A4) were used as index reactions.
 [{'Phenacetin O-deethylation': ('nsubjpass', 'used')}, {'(CYP1A2': ('appos', 'deethylation')}, {'coumarin 7-hydroxylation (CYP2A6': ('appos', 'deethylation')}, {"diclofenac 4'-hydroxylation (CYP2C9), omeprazole 5-hydroxylation (CYP2C19": ('appos', 'deethylation')}, {'dextromethorphan O-demethylation': ('nsubjpass', 'used')}, {'CYP2D6': ('appos', 'demethylation')}, {'7-ethoxy-4-trifluoromethylcoumarin deethylation': ('conj', 'demethylation')}, {'CYP2B6': ('appos', 'deethylation')}, {'p-nitrophenol hydroxylation': ('conj', 'deethylation')}, {'CYP2E1': ('appos', 'hydroxylation')}, {'omeprazole sulfonation': ('conj', 'deethylation')}, {'CYP3A4': ('appos', 'sulfonation')}, {'index reactions': ('pobj', 'as')}]
+Phenacetin O-deethylation and p-nitrophenol hydroxylation and omeprazole sulfonation    dextromethorphan O-demethylation and 7-ethoxy-4-trifluoromethylcoumarin deethylation         --> index reactions
 
 PPT1 and PPT2 encode two lysosomal thioesterases that catalyze the hydrolysis of long chain fatty acyl CoAs.
 [{'PPT1': ('nsubj', 'encode')}, {'PPT2': ('conj', 'PPT1')}, {'two lysosomal thioesterases': ('dobj', 'encode')}, {'the hydrolysis': ('dobj', 'catalyze')}, {'long chain fatty acyl CoAs': ('pobj', 'of')}]
+PPT1 and PPT2   --> two lysosomal thioesterases  --> the hydrolysis  --> long chain fatty acyl CoAs
 
 These studies provide a mouse model for infantile neuronal ceroid lipofuscinosis and further suggest that PPT2 serves a role in the brain that is not carried out by PPT1.
 [{'These studies': ('nsubj', 'provide')}, {'a mouse model': ('dobj', 'provide')}, {'infantile neuronal ceroid lipofuscinosis': ('pobj', 'for')}, {'PPT2': ('nsubj', 'serves')}, {'a role': ('dobj', 'serves')}, {'the brain': ('pobj', 'in')}, {'PPT1': ('pobj', 'by')}]
+These studies  --> a mouse model  --> infantile neuronal ceroid lipofuscinosis PPT2  --> a role  --> the brain  --> PPT1
 
 Based on the crucial role of macrophage LPL in atherogenesis, we determined in the present study macrophage LPL expression in patients with FH.
 [{'the crucial role': ('pobj', 'on')}, {'macrophage LPL': ('pobj', 'of')}, {'atherogenesis': ('pobj', 'in')}, {'we': ('nsubj', 'determined')}, {'the present study macrophage LPL expression': ('pobj', 'in')}, {'patients': ('pobj', 'in')}, {'FH': ('pobj', 'with')}]
+ --> the crucial role  --> macrophage LPL  --> atherogenesis we  --> the present study macrophage LPL expression  --> patients  --> FH
 
 Cross validation by a leave-one-out method also showed good predictive capability within the subset with a q(2) value of 0.98 for UGT1A6 and q(2) value of 0.73 for UGT1A9.
 [{'Cross validation': ('nsubj', 'showed')}, {'a leave-one-out method': ('pobj', 'by')}, {'good predictive capability': ('dobj', 'showed')}, {'the subset': ('pobj', 'within')}, {'UGT1A6': ('pobj', 'for')}, {'UGT1A9': ('pobj', 'for')}]
+Cross validation  --> a leave-one-out method  --> good predictive capability  --> the subset  --> UGT1A6  --> UGT1A9
 
 EXT1 and EXT2 are genes that have been shown to cause hereditary multiple exostosis (HME), a syndrome marked by the formation of bony growths juxtaposed to the growth plate.
 [{'EXT1': ('nsubj', 'are')}, {'EXT2': ('conj', 'EXT1')}, {'genes': ('attr', 'are')}, {'hereditary multiple exostosis': ('dobj', 'cause')}, {'HME': ('appos', 'exostosis')}, {'a syndrome': ('appos', 'exostosis')}, {'the formation': ('pobj', 'by')}, {'bony growths': ('pobj', 'of')}, {'the growth plate': ('pobj', 'to')}]
+EXT1 and EXT2    --> hereditary multiple exostosis    --> the formation  --> bony growths  --> the growth plate
 
 Also [3H]GTP ([3H]ATP) binding to isolated Escherichia coli (Kd, approximately 5 microm) or yeast-expressed UCP2 (Kd, approximately 1.5 microm) or UCP3 exhibited high affinity, similar to UCP1.
 [{'Escherichia coli': ('dobj', 'isolated')}, {'Kd': ('appos', 'coli')}, {'approximately 5 microm': ('appos', 'Kd')}, {'yeast-expressed UCP2': ('conj', 'Kd')}, {'(Kd': ('appos', 'UCP2')}, {'approximately 1.5 microm': ('appos', 'Kd')}, {'UCP3': ('conj', 'UCP2')}, {'high affinity': ('dobj', 'exhibited')}, {'UCP1': ('pobj', 'to')}]
+ --> Escherichia coli  and yeast-expressed UCP2   and UCP3     --> high affinity  --> UCP1
 
 Whereas mevinolin increased the mRNA for EBP and DHCR7 (delta7-sterol reductase) in HepG2 cells, it had no effect on mRNAs for EBPL and sigma1 receptor, indicating that EBP and EBPL expression are not co-ordinated.
 [{'mevinolin': ('nsubj', 'increased')}, {'the mRNA': ('dobj', 'increased')}, {'EBP': ('pobj', 'for')}, {'DHCR7': ('conj', 'EBP')}, {'(delta7-sterol reductase': ('ROOT', 'reductase')}, {'HepG2 cells': ('pobj', 'in')}, {'it': ('nsubj', 'had')}, {'no effect': ('dobj', 'had')}, {'EBPL and sigma1 receptor': ('pobj', 'for')}, {'EBP and EBPL expression': ('nsubj', 'are')}]
+mevinolin  --> the mRNA  --> EBP and DHCR7    --> HepG2 cells it  --> no effect  --> EBPL and sigma1 receptor EBP and EBPL expression
 
 The results suggest that using a recursive partitioning (tree) technique with augmented atom descriptors enables a statistically significant rank ordering of test-set molecules (Spearman's rho of 0.61 and 0.48 for CYP2D6 and CYP3A4, respectively), which represents an increased rate of identifying the best compounds when compared with the random rate.
 [{'The results': ('nsubj', 'suggest')}, {'(tree': ('appos', 'partitioning')}, {'augmented atom descriptors': ('pobj', 'with')}, {'a statistically significant rank ordering': ('dobj', 'enables')}, {'test-set molecules': ('pobj', 'of')}, {"Spearman's rho": ('appos', 'ordering')}, {'CYP2D6': ('pobj', 'for')}, {'CYP3A4': ('conj', 'CYP2D6')}, {'an increased rate': ('dobj', 'represents')}, {'the best compounds': ('dobj', 'identifying')}, {'the random rate': ('pobj', 'with')}]
+The results   --> augmented atom descriptors  --> a statistically significant rank ordering  --> test-set molecules   --> CYP2D6 and CYP3A4   --> an increased rate  --> the best compounds  --> the random rate
 
 ABCG5 (G5) and ABCG8 (G8) are ATP-binding cassette (ABC) transporters that limit intestinal absorption and promote biliary excretion of neutral sterols.
 [{'ABCG5': ('nsubj', 'are')}, {'(G5': ('appos', 'ABCG5')}, {'ABCG8': ('conj', 'G5')}, {'G8': ('appos', 'ABCG8')}, {'intestinal absorption': ('dobj', 'limit')}, {'biliary excretion': ('dobj', 'promote')}, {'neutral sterols': ('pobj', 'of')}]
+ABCG5 and ABCG8     --> intestinal absorption  --> biliary excretion  --> neutral sterols
 
 Mutations in either ABCG5 or ABCG8 result in an identical clinical phenotype, suggesting that these two half-transporters function as heterodimers.
 [{'Mutations': ('nsubj', 'result')}, {'either ABCG5': ('pobj', 'in')}, {'ABCG8': ('conj', 'ABCG5')}, {'an identical clinical phenotype': ('pobj', 'in')}, {'heterodimers': ('pobj', 'as')}]
+Mutations  --> either ABCG5 and ABCG8   --> an identical clinical phenotype  --> heterodimers
 
 To investigate the protective role of SOD against CYP2E1-dependent toxicity, a transfected HepG2 cell line overexpressing CYP2E1 (E47 cells) was infected with adenoviral vectors containing Cu/Zn-SOD complementary DNA (cDNA) (Ad.SOD1) and Mn-SOD cDNA (Ad.SOD2).
 [{'the protective role': ('dobj', 'investigate')}, {'SOD': ('pobj', 'of')}, {'CYP2E1-dependent toxicity': ('pobj', 'against')}, {'a transfected HepG2 cell line': ('appos', 'toxicity')}, {'(E47 cells': ('nsubjpass', 'infected')}, {'adenoviral vectors': ('pobj', 'with')}, {'Cu/Zn-SOD complementary DNA': ('dobj', 'containing')}, {'cDNA': ('appos', 'DNA')}, {'Ad': ('appos', 'DNA')}, {'SOD1': ('appos', 'DNA')}, {'Mn-SOD': ('conj', 'DNA')}, {'cDNA (Ad': ('ROOT', 'Ad')}, {'SOD2': ('ROOT', 'SOD2')}]
+ --> the protective role  --> SOD  --> CYP2E1-dependent toxicity  (E47 cells  --> adenoviral vectors  --> Cu/Zn-SOD complementary DNA and Mn-SOD      
 
 In the present study, formalin-fixed and paraffin embedded tissues from 101 patients with breast carcinomas, including 88 cases of invasive ductal carcinomas and 13 cases of ductal carcinoma in situ (DCIS), were evaluated by immunohistochemical methods for the expression of PTEN and vascular endothelial growth factor (VEGF), as well as microvessel density (MVD).
 [{'the present study': ('pobj', 'In')}, {'embedded tissues': ('nsubjpass', 'evaluated')}, {'101 patients': ('pobj', 'from')}, {'breast carcinomas': ('pobj', 'with')}, {'88 cases': ('pobj', 'including')}, {'invasive ductal carcinomas': ('pobj', 'of')}, {'13 cases': ('conj', 'cases')}, {'ductal carcinoma': ('pobj', 'of')}, {'situ': ('pobj', 'in')}, {'DCIS': ('appos', 'situ')}, {'immunohistochemical methods': ('pobj', 'by')}, {'the expression': ('pobj', 'for')}, {'PTEN': ('pobj', 'of')}, {'vascular endothelial growth factor': ('conj', 'PTEN')}, {'VEGF': ('appos', 'factor')}, {'microvessel density': ('conj', 'methods')}, {'(MVD': ('appos', 'density')}]
+ --> the present study embedded tissues  --> 101 patients  --> breast carcinomas  --> 88 cases and 13 cases  --> invasive ductal carcinomas   --> ductal carcinoma  --> situ   --> immunohistochemical methods and microvessel density  --> the expression  --> PTEN and vascular endothelial growth factor    
 
 CYP11B1 and the closely related CYP11B2 are involved in the production of adrenal steroid hormones.
 [{'CYP11B1': ('nsubjpass', 'involved')}, {'the closely related CYP11B2': ('conj', 'CYP11B1')}, {'the production': ('pobj', 'in')}, {'adrenal steroid hormones': ('pobj', 'of')}]
+CYP11B1 and the closely related CYP11B2   --> the production  --> adrenal steroid hormones
 
 ACE2 is a novel homologue of angiotensin converting enzyme (ACE).
 [{'ACE2': ('nsubj', 'is')}, {'a novel homologue': ('attr', 'is')}, {'angiotensin': ('pobj', 'of')}, {'enzyme': ('dobj', 'converting')}, {'ACE': ('appos', 'enzyme')}]
+ACE2   --> angiotensin  --> enzyme 
 
 Since overactivity of the renin-angiotensin system contributes to the progression of heart failure, this investigation assessed changes in gene expression of ACE2, ACE, AT1 receptor and renin in the human failing heart.
 [{'overactivity': ('nsubj', 'contributes')}, {'the renin-angiotensin system': ('pobj', 'of')}, {'the progression': ('pobj', 'to')}, {'heart failure': ('pobj', 'of')}, {'this investigation': ('nsubj', 'assessed')}, {'changes': ('dobj', 'assessed')}, {'gene expression': ('pobj', 'in')}, {'ACE2': ('pobj', 'of')}, {'ACE': ('conj', 'ACE2')}, {'AT1 receptor': ('conj', 'ACE')}, {'the human failing heart': ('pobj', 'in')}]
+overactivity  --> the renin-angiotensin system  --> the progression  --> heart failure this investigation  --> changes  --> gene expression  --> ACE2 and ACE and AT1 receptor    --> the human failing heart
 
 Missence polymorphisms (Gln604Glu in the ABCG5 and Asp19His, Tyr54Cys, Thr400Lys, and Ala632Val in the ABCG8) in these genes have been described.
 [{'Missence polymorphisms': ('nsubjpass', 'described')}, {'(Gln604Glu': ('appos', 'polymorphisms')}, {'the ABCG5': ('pobj', 'in')}, {'the ABCG8': ('pobj', 'in')}, {'these genes': ('pobj', 'in')}]
+Missence polymorphisms   --> the ABCG5  --> the ABCG8  --> these genes
 
 Plasma lipid levels and changes in plasma lipid levels were independent of the Gln604Glu polymorphism in ABCG5 and Asp19His and the Ala632Val polymorphisms in ABCG8.
 [{'Plasma lipid levels': ('nsubj', 'were')}, {'changes': ('conj', 'levels')}, {'plasma lipid levels': ('pobj', 'in')}, {'the Gln604Glu polymorphism': ('pobj', 'of')}, {'ABCG5': ('pobj', 'in')}, {'Asp19His': ('conj', 'polymorphism')}, {'the Ala632Val polymorphisms': ('conj', 'polymorphism')}, {'ABCG8': ('pobj', 'in')}]
+Plasma lipid levels and changes   --> plasma lipid levels  --> the Gln604Glu polymorphism and Asp19His and the Ala632Val polymorphisms  --> ABCG5    --> ABCG8
 
 Using two sets of human liver microsomes with equivalent CYP3A4-specific content but markedly different CYP3A5 content (group 1, predominantly CYP3A4; group 2, CYP3A4 + CYP3A5), we assessed the contribution of CYP3A5 to product formation rates determined at low substrate concentrations (< or = Km).
 [{'two sets': ('dobj', 'Using')}, {'equivalent CYP3A4-specific content': ('pobj', 'with')}, {'markedly different CYP3A5 content': ('conj', 'content')}, {'group': ('appos', 'content')}, {'predominantly CYP3A4': ('appos', 'group')}, {'group': ('appos', 'content')}, {'CYP3A5': ('conj', 'group')}, {'we': ('nsubj', 'assessed')}, {'the contribution': ('dobj', 'assessed')}, {'CYP3A5': ('pobj', 'of')}, {'product formation rates': ('pobj', 'to')}, {'low substrate concentrations': ('pobj', 'at')}]
+ --> two sets  --> equivalent CYP3A4-specific content and markedly different CYP3A5 content   and CYP3A5    we  --> the contribution  --> CYP3A5  --> product formation rates  --> low substrate concentrations
 
 CYP1A1 plays an important role in the metabolic activation of polycyclic aromatic hydrocarbons (PAH), carcinogenic components of air pollution.
 [{'CYP1A1': ('nsubj', 'plays')}, {'an important role': ('dobj', 'plays')}, {'the metabolic activation': ('pobj', 'in')}, {'polycyclic aromatic hydrocarbons': ('pobj', 'of')}, {'PAH': ('appos', 'hydrocarbons')}, {'carcinogenic components': ('conj', 'plays')}, {'air pollution': ('pobj', 'of')}]
+CYP1A1  --> an important role  --> the metabolic activation  --> polycyclic aromatic hydrocarbons   and carcinogenic components  --> air pollution
 
 We did not detect the expression of constructs in which the C-terminus of AQP5 was replaced by the C-terminus of AQP8.
 [{'We': ('nsubj', 'detect')}, {'the expression': ('dobj', 'detect')}, {'constructs': ('pobj', 'of')}, {'the C-terminus': ('nsubjpass', 'replaced')}, {'AQP5': ('pobj', 'of')}, {'the C-terminus': ('pobj', 'by')}, {'AQP8': ('pobj', 'of')}]
+We  --> the expression  --> constructs the C-terminus  --> AQP5  --> the C-terminus  --> AQP8
 
 Substitution of the N-terminus of AQP8 for the N-terminus of AQP5 generated a construct which was trapped intracellularly and did not significantly facilitate transepithelial fluid movement.
 [{'Substitution': ('nsubj', 'generated')}, {'the N-terminus': ('pobj', 'of')}, {'AQP8': ('pobj', 'of')}, {'the N-terminus': ('pobj', 'for')}, {'AQP5': ('pobj', 'of')}, {'a construct': ('dobj', 'generated')}, {'transepithelial fluid movement': ('dobj', 'facilitate')}]
+Substitution  --> the N-terminus  --> AQP8  --> the N-terminus  --> AQP5  --> a construct  --> transepithelial fluid movement
 
 PDE4B and PDE4D provide >90% of PDE4 cAMP phosphodiesterase activity in human embryonic kidney (HEK293B2) cells.
 [{'PDE4B': ('ROOT', 'PDE4B')}, {'PDE4D': ('nsubj', 'provide')}, {'90%': ('dobj', 'provide')}, {'PDE4 cAMP phosphodiesterase activity': ('pobj', 'of')}, {'human embryonic kidney (HEK293B2) cells': ('pobj', 'in')}]
+ PDE4D  --> 90%  --> PDE4 cAMP phosphodiesterase activity  --> human embryonic kidney (HEK293B2) cells
 
 The expression of SLC7A11 showed significant correlation with that of SLC3A2 (r = 0.66), which in turn correlated with SLC7A5 (r = 0.68), another known partner for SLC3A2, and with T1A-2 (r = 0.60; all P < 0.0001).
 [{'The expression': ('nsubj', 'showed')}, {'significant correlation': ('dobj', 'showed')}, {'SLC3A2': ('pobj', 'of')}, {'(r': ('ROOT', 'r')}, {'turn': ('pobj', 'in')}, {'SLC7A5': ('pobj', 'with')}, {'(r = 0.68), another known partner': ('appos', 'r')}, {'SLC3A2': ('pobj', 'for')}, {'T1A-2 (r = 0.60; all P': ('ROOT', 'P')}]
+The expression  --> significant correlation  --> SLC3A2   --> turn  --> SLC7A5   --> SLC3A2 
 
 ABCG5 and ABCG8 are two ATP-binding cassette half-transporters that belong to the G family members.
 [{'ABCG5': ('nsubj', 'are')}, {'ABCG8': ('conj', 'ABCG5')}, {'two ATP-binding cassette half-transporters': ('attr', 'are')}, {'the G family members': ('pobj', 'to')}]
+ABCG5 and ABCG8    --> the G family members
 
 A chimera that was composed of the amino terminal fragment of SLC26A7 and the carboxyl terminal fragment of SLC26A1, and a C-terminal-truncated SLC26A7 were retained in the cytoplasm in hypertonicity.
 [{'A chimera': ('nsubjpass', 'retained')}, {'the amino terminal fragment': ('pobj', 'of')}, {'SLC26A7': ('pobj', 'of')}, {'the carboxyl terminal fragment': ('conj', 'fragment')}, {'SLC26A1': ('pobj', 'of')}, {'a C-terminal-truncated SLC26A7': ('conj', 'chimera')}, {'the cytoplasm': ('pobj', 'in')}, {'hypertonicity': ('pobj', 'in')}]
+A chimera and a C-terminal-truncated SLC26A7  --> the amino terminal fragment and the carboxyl terminal fragment  --> SLC26A7   --> SLC26A1   --> the cytoplasm  --> hypertonicity
 
 Both CYP3A5 and CYP3A4 showed sigmoid and substrate inhibition patterns for testosterone 6beta-hydroxylation and terfenadine t-butylhydroxylation (TFDOH), respectively.
 [{'Both CYP3A5': ('nsubj', 'showed')}, {'CYP3A4': ('conj', 'CYP3A5')}, {'inhibition patterns': ('dobj', 'substrate')}, {'testosterone 6beta-hydroxylation and terfenadine t-butylhydroxylation (TFDOH': ('pobj', 'for')}]
+Both CYP3A5 and CYP3A4   --> inhibition patterns  --> testosterone 6beta-hydroxylation and terfenadine t-butylhydroxylation (TFDOH
 
 alphaNF stimulated nifedipine oxidation catalysed by CYP3A5, but did not stimulate that catalysed by CYP3A4.
 [{'alphaNF': ('nsubj', 'stimulated')}, {'nifedipine oxidation': ('dobj', 'stimulated')}, {'CYP3A5': ('pobj', 'by')}, {'CYP3A4': ('pobj', 'by')}]
+alphaNF  --> nifedipine oxidation  --> CYP3A5  --> CYP3A4
 
 alphaNF at less than 32 microM inhibited TFDOH catalysed by CYP3A5, but did not inhibit that catalysed by CYP3A4.
 [{'less than 32 microM': ('pobj', 'at')}, {'inhibited TFDOH': ('pobj', 'at')}, {'CYP3A5': ('pobj', 'by')}, {'CYP3A4': ('pobj', 'by')}]
+ --> less than 32 microM  --> inhibited TFDOH  --> CYP3A5  --> CYP3A4
 
 Acquired or hereditary deficiency of ABCC2, the latter known as Dubin-Johnson syndrome in humans, causes an increased concentration of bilirubin glucuronosides in blood because of their efflux from hepatocytes via the basolateral ABCC3, which compensates for the deficiency in ABCC2-mediated apical efflux.
 [{'Acquired or hereditary deficiency': ('nsubj', 'causes')}, {'ABCC2': ('pobj', 'of')}, {'the latter': ('appos', 'ABCC2')}, {'Dubin-Johnson syndrome': ('pobj', 'as')}, {'humans': ('pobj', 'in')}, {'an increased concentration': ('dobj', 'causes')}, {'bilirubin glucuronosides': ('pobj', 'of')}, {'blood': ('pobj', 'in')}, {'their efflux': ('pobj', 'because')}, {'hepatocytes': ('pobj', 'from')}, {'the basolateral ABCC3': ('pobj', 'via')}, {'the deficiency': ('pobj', 'for')}, {'ABCC2-mediated apical efflux': ('pobj', 'in')}]
+Acquired or hereditary deficiency  --> ABCC2   --> Dubin-Johnson syndrome  --> humans  --> an increased concentration  --> bilirubin glucuronosides  --> blood  --> their efflux  --> hepatocytes  --> the basolateral ABCC3  --> the deficiency  --> ABCC2-mediated apical efflux
 
 We investigated the expression of CYP27A1 in human monocytes, monocyte-derived macrophages, and dendritic cells on mRNA and protein levels as well as its enzymatic activity in comparison with the expression of CYP27B1 and CYP24A1.
 [{'We': ('nsubj', 'investigated')}, {'the expression': ('dobj', 'investigated')}, {'CYP27A1': ('pobj', 'of')}, {'human monocytes': ('pobj', 'in')}, {'monocyte-derived macrophages': ('conj', 'expression')}, {'dendritic cells': ('conj', 'macrophages')}, {'mRNA and protein levels': ('pobj', 'on')}, {'its enzymatic activity': ('conj', 'levels')}, {'comparison': ('pobj', 'in')}, {'the expression': ('pobj', 'with')}, {'CYP27B1': ('pobj', 'of')}, {'CYP24A1': ('conj', 'CYP27B1')}]
+We  --> the expression and monocyte-derived macrophages  --> CYP27A1  --> human monocytes  and dendritic cells   --> mRNA and protein levels and its enzymatic activity   --> comparison  --> the expression  --> CYP27B1 and CYP24A1 
 
 First, to clarify the reason for the differences between CYP3A7 and CYP3A4, a homology model of CYP3A7 was constructed using the CYP3A4 crystal structure.
 [{'the reason': ('dobj', 'clarify')}, {'the differences': ('pobj', 'for')}, {'CYP3A7': ('pobj', 'between')}, {'CYP3A4': ('conj', 'CYP3A7')}, {'a homology model': ('nsubjpass', 'constructed')}, {'CYP3A7': ('pobj', 'of')}, {'the CYP3A4 crystal structure': ('dobj', 'using')}]
+ --> the reason  --> the differences  --> CYP3A7 and CYP3A4  a homology model  --> CYP3A7  --> the CYP3A4 crystal structure
 
 Furthermore, to assess which amino acid in this sequence is important for the substrate specificity of CYP3A7, a one-point mutation of CYP3A7 to CYP3A4 was made by site-directed mutagenesis.
 [{'which amino acid': ('nsubj', 'is')}, {'this sequence': ('pobj', 'in')}, {'the substrate specificity': ('pobj', 'for')}, {'CYP3A7': ('pobj', 'of')}, {'a one-point mutation': ('nsubjpass', 'made')}, {'CYP3A7 to CYP3A4': ('pobj', 'of')}, {'site-directed mutagenesis': ('pobj', 'by')}]
+which amino acid  --> this sequence  --> the substrate specificity  --> CYP3A7 a one-point mutation  --> CYP3A7 to CYP3A4  --> site-directed mutagenesis
 
 UGT1A8 and UGT2B7 are important uridine diphosphate-glucuronosyltransferase isoforms for the glucuronidation of mycophenolic acid (MPA).
 [{'UGT1A8': ('nsubj', 'are')}, {'UGT2B7': ('conj', 'UGT1A8')}, {'important uridine diphosphate-glucuronosyltransferase isoforms': ('attr', 'are')}, {'the glucuronidation': ('pobj', 'for')}, {'mycophenolic acid': ('pobj', 'of')}, {'MPA': ('appos', 'acid')}]
+UGT1A8 and UGT2B7    --> the glucuronidation  --> mycophenolic acid 
 
 Genotyping for NOS3 and MPO was performed using TaqMan, and unconditional logistic regression was used to compute odds ratios (ORs) and 95% confidence intervals (CIs).
 [{'NOS3': ('pobj', 'for')}, {'MPO': ('conj', 'NOS3')}, {'TaqMan': ('dobj', 'using')}, {'unconditional logistic regression': ('nsubjpass', 'used')}, {'odds ratios': ('dobj', 'compute')}, {'ORs': ('appos', 'ratios')}, {'95% confidence intervals': ('conj', 'ratios')}, {'CIs': ('appos', 'intervals')}]
+ --> NOS3 and MPO   --> TaqMan unconditional logistic regression  --> odds ratios and 95% confidence intervals   
 
 CYP1A1 and CYP1B1 are the inducible forms of cytochrome P450 expressed in extrahepatic tissues, which are responsible for the biotransformation of polycyclic aromatic hydrocarbons, heterocyclic amines and estradiol to the carcinogenic intermediates.
 [{'CYP1A1': ('nsubj', 'are')}, {'CYP1B1': ('conj', 'CYP1A1')}, {'the inducible forms': ('attr', 'are')}, {'P450': ('pobj', 'of')}, {'extrahepatic tissues': ('pobj', 'in')}, {'the biotransformation': ('pobj', 'for')}, {'polycyclic aromatic hydrocarbons': ('pobj', 'of')}, {'heterocyclic amines': ('conj', 'hydrocarbons')}, {'the carcinogenic intermediates': ('pobj', 'to')}]
+CYP1A1 and CYP1B1    --> P450  --> extrahepatic tissues  --> the biotransformation  --> polycyclic aromatic hydrocarbons and heterocyclic amines   --> the carcinogenic intermediates
 
 ACE2 appears to counterbalance the vasopressor effect of angiotensin I converting enzyme (ACE) in the reninangiotensin system.
 [{'ACE2': ('nsubj', 'appears')}, {'the vasopressor effect': ('dobj', 'counterbalance')}, {'angiotensin': ('pobj', 'of')}, {'I': ('nsubj', 'converting')}, {'enzyme': ('dobj', 'converting')}, {'ACE': ('appos', 'enzyme')}, {'the reninangiotensin system': ('pobj', 'in')}]
+ACE2  --> the vasopressor effect  --> angiotensin I  --> enzyme   --> the reninangiotensin system
 
 UGT1A7 and UGT1A9 are uridine diphosphate-glucuronosyltransferase isoforms involved in the glucuronidation of mycophenolic acid (MPA).
 [{'UGT1A7': ('nsubj', 'are')}, {'UGT1A9': ('conj', 'UGT1A7')}, {'uridine diphosphate-glucuronosyltransferase isoforms': ('attr', 'are')}, {'the glucuronidation': ('pobj', 'in')}, {'mycophenolic acid': ('pobj', 'of')}, {'MPA': ('appos', 'acid')}]
+UGT1A7 and UGT1A9    --> the glucuronidation  --> mycophenolic acid 
 
 The aim of this study was to elucidate MPA pharmacokinetics in UGT1A7 and UGT1A9 intronic I399 genotypes in Japanese adult renal transplant recipients.
 [{'The aim': ('nsubj', 'was')}, {'this study': ('pobj', 'of')}, {'MPA pharmacokinetics': ('dobj', 'elucidate')}, {'UGT1A7': ('pobj', 'in')}, {'intronic I399 genotypes': ('dobj', 'UGT1A9')}, {'Japanese adult renal transplant recipients': ('pobj', 'in')}]
+The aim  --> this study  --> MPA pharmacokinetics  --> UGT1A7  --> intronic I399 genotypes  --> Japanese adult renal transplant recipients
 
 There were no significant differences in MPA pharmacokinetics among UGT1A7 or UGT1A9 intronic I399 genotype groups.
 [{'no significant differences': ('attr', 'were')}, {'MPA pharmacokinetics': ('pobj', 'in')}, {'UGT1A7': ('pobj', 'among')}, {'UGT1A9': ('conj', 'were')}, {'intronic I399 genotype groups': ('dobj', 'UGT1A9')}]
+  --> MPA pharmacokinetics  --> UGT1A7  and UGT1A9 --> intronic I399 genotype groups 
 
 UGT1A7 and UGT1A9 I399 polymorphisms do not contribute to interindividual differences in MPA pharmacokinetics.
 [{'UGT1A7': ('nsubj', 'contribute')}, {'and UGT1A9': ('conj', 'UGT1A7')}, {'I399 polymorphisms': ('nsubj', 'contribute')}, {'interindividual differences': ('pobj', 'to')}, {'MPA pharmacokinetics': ('pobj', 'in')}]
+UGT1A7 and and UGT1A9  I399 polymorphisms  --> interindividual differences  --> MPA pharmacokinetics
 
 ALDH3A1 (aldehyde dehydrogenase 3A1) is abundant in the mouse cornea but undetectable in the lens, and ALDH1A1 is present at lower (catalytic) levels in the cornea and lens.
 [{'ALDH3A1': ('nsubj', 'is')}, {'(aldehyde dehydrogenase': ('nsubj', 'is')}, {'3A1': ('appos', 'dehydrogenase')}, {'the mouse cornea': ('pobj', 'in')}, {'the lens': ('pobj', 'in')}, {'ALDH1A1': ('nsubj', 'is')}, {'lower (catalytic) levels': ('pobj', 'at')}, {'the cornea': ('pobj', 'in')}, {'lens': ('conj', 'cornea')}]
+ALDH3A1 (aldehyde dehydrogenase   --> the mouse cornea and lens  --> the lens ALDH1A1  --> lower (catalytic) levels  --> the cornea 
 
 The expression of CYP2A6 and CYP2A13 was examined using a high-resolution immunoblotting method, following immunopurification with an anti-CYP2A5 antibody.
 [{'The expression': ('ROOT', 'expression')}, {'CYP2A6': ('pobj', 'of')}, {'CYP2A13': ('nsubjpass', 'examined')}, {'a high-resolution immunoblotting method': ('dobj', 'using')}, {'immunopurification': ('pobj', 'following')}, {'an anti-CYP2A5 antibody': ('pobj', 'with')}]
+  --> CYP2A6 CYP2A13  --> a high-resolution immunoblotting method  --> immunopurification  --> an anti-CYP2A5 antibody
 
 For the majority of microsomal samples analyzed, the level of CYP2A13 was found to be lower than the level of CYP2A6; overall, the highest level of CYP2A13 found ( approximately 20 fmol/mg protein) was approximately 10-fold lower than the highest level of CYP2A6 detected.
 [{'the majority': ('nsubj', 'analyzed')}, {'microsomal samples': ('pobj', 'of')}, {'the level': ('nsubjpass', 'found')}, {'CYP2A13': ('pobj', 'of')}, {'the level': ('pobj', 'than')}, {'CYP2A6': ('pobj', 'of')}, {'the highest level': ('nsubj', 'found')}, {'CYP2A13': ('pobj', 'of')}, {'( approximately 20 fmol/mg protein': ('dobj', 'found')}, {'the highest level': ('pobj', 'than')}, {'CYP2A6': ('pobj', 'of')}]
+the majority  --> microsomal samples the level  --> CYP2A13  --> the level  --> CYP2A6 the highest level  --> CYP2A13  --> ( approximately 20 fmol/mg protein  --> the highest level  --> CYP2A6
 
 It is noteworthy that the level of CYP2A13, but not CYP2A6, was correlated with lung microsomal NNK metabolic activation activity.
 [{'It': ('nsubj', 'is')}, {'the level': ('nsubjpass', 'correlated')}, {'CYP2A13': ('pobj', 'of')}, {'not CYP2A6': ('conj', 'level')}, {'lung microsomal NNK metabolic activation activity': ('pobj', 'with')}]
+It the level and not CYP2A6  --> CYP2A13   --> lung microsomal NNK metabolic activation activity
 
 This contrasts with recent results obtained for the fruitfly Drosophila melanogaster, which indicate that a deficiency of NPC1 (dNPC1a being its Drosophila homologue) leads to activation of an NPC1L1 (Drosophila homologue dNPC1b)-independent cholesterol uptake pathway, underscoring fundamental differences in mammalian and non-mammalian cholesterol metabolism.
 [{'recent results': ('pobj', 'with')}, {'the fruitfly Drosophila melanogaster': ('pobj', 'for')}, {'a deficiency': ('nsubj', 'leads')}, {'NPC1': ('pobj', 'of')}, {'dNPC1a': ('appos', 'NPC1')}, {'its Drosophila homologue': ('attr', 'being')}, {'activation': ('pobj', 'to')}, {'an NPC1L1': ('pobj', 'of')}, {'(Drosophila homologue dNPC1b)-independent cholesterol uptake pathway': ('appos', 'NPC1L1')}, {'fundamental differences': ('dobj', 'underscoring')}, {'mammalian and non-mammalian cholesterol metabolism': ('pobj', 'in')}]
+ --> recent results  --> the fruitfly Drosophila melanogaster a deficiency  --> NPC1    --> activation  --> an NPC1L1   --> fundamental differences  --> mammalian and non-mammalian cholesterol metabolism
 
 We investigated the influence of genetic variation in another potential nicotine-metabolizing enzyme, CYP2B6, and its interaction with CYP2A6, on the metabolism of nicotine.
 [{'We': ('nsubj', 'investigated')}, {'the influence': ('dobj', 'investigated')}, {'genetic variation': ('pobj', 'of')}, {'another potential nicotine-metabolizing enzyme': ('pobj', 'in')}, {'CYP2B6': ('appos', 'enzyme')}, {'its interaction': ('conj', 'CYP2B6')}, {'CYP2A6': ('pobj', 'with')}, {'the metabolism': ('pobj', 'on')}, {'nicotine': ('pobj', 'of')}]
+We  --> the influence  --> genetic variation  --> another potential nicotine-metabolizing enzyme  and its interaction   --> CYP2A6  --> the metabolism  --> nicotine
 
 UCP2 and UCP3 are members of the uncoupling protein family, which may play roles in energy homeostasis.
 [{'UCP2': ('nsubj', 'are')}, {'UCP3': ('conj', 'UCP2')}, {'members': ('attr', 'are')}, {'the uncoupling protein family': ('pobj', 'of')}, {'roles': ('dobj', 'play')}, {'energy homeostasis': ('pobj', 'in')}]
+UCP2 and UCP3    --> the uncoupling protein family  --> roles  --> energy homeostasis
 
 The expression of UCP2 and UCP3 is differentially regulated during muscle differentiation due to the different responsiveness of their promoter regions to myogenin and MyoD.
 [{'The expression': ('nsubjpass', 'regulated')}, {'UCP2': ('pobj', 'of')}, {'UCP3': ('conj', 'UCP2')}, {'muscle differentiation': ('pobj', 'during')}, {'the different responsiveness': ('pobj', 'due')}, {'their promoter regions': ('pobj', 'of')}, {'myogenin': ('pobj', 'to')}]
+The expression  --> UCP2 and UCP3   --> muscle differentiation  --> the different responsiveness  --> their promoter regions  --> myogenin
 
 Molecular dynamics models of AKR1B10 and AKR1B1 with retinaldehyde isomers and site-directed mutagenesis show that subtle differences at the entrance of the retinoid-binding site, especially at position 125, are determinant for the all-trans-retinaldehyde specificity of AKR1B10.
 [{'Molecular dynamics models': ('nsubj', 'show')}, {'AKR1B10': ('pobj', 'of')}, {'AKR1B1': ('conj', 'AKR1B10')}, {'retinaldehyde isomers': ('pobj', 'with')}, {'subtle differences': ('nsubj', 'are')}, {'the entrance': ('pobj', 'at')}, {'the retinoid-binding site': ('pobj', 'of')}, {'position': ('pobj', 'at')}, {'the all-trans-retinaldehyde specificity': ('pobj', 'for')}, {'AKR1B10': ('pobj', 'of')}]
+Molecular dynamics models  --> AKR1B10 and AKR1B1   --> retinaldehyde isomers subtle differences  --> the entrance  --> the retinoid-binding site  --> position  --> the all-trans-retinaldehyde specificity  --> AKR1B10
 
 Quantitative mRNA analysis showed CYP2C18 and CYP2C19 transcripts in liver, kidneys, and heart to be expressed in a sexually dimorphic manner, with male mice having 2- to 100-fold higher levels.
 [{'Quantitative mRNA analysis': ('nsubj', 'showed')}, {'CYP2C18': ('dobj', 'showed')}, {'transcripts': ('dobj', 'CYP2C19')}, {'liver': ('pobj', 'in')}, {'kidneys': ('conj', 'liver')}, {'heart': ('conj', 'kidneys')}, {'a sexually dimorphic manner': ('pobj', 'in')}, {'male mice': ('nsubj', 'having')}, {'2- to 100-fold higher levels': ('dobj', 'having')}]
+Quantitative mRNA analysis  --> CYP2C18  --> transcripts  --> liver and kidneys  and heart   --> a sexually dimorphic manner male mice  --> 2- to 100-fold higher levels
 
 RDH11 and RDH12 are closely related retinol dehydrogenases expressed in the retina.
 [{'RDH11': ('nsubj', 'are')}, {'RDH12': ('conj', 'RDH11')}, {'closely related retinol dehydrogenases': ('attr', 'are')}, {'the retina': ('pobj', 'in')}]
+RDH11 and RDH12    --> the retina
 
 RDH12 has been linked to the early-onset retinal dystrophy Leber congenital amaurosis, whereas RDH11 has not been associated with human disease.
 [{'RDH12': ('nsubjpass', 'linked')}, {'the early-onset retinal dystrophy Leber congenital amaurosis': ('pobj', 'to')}, {'RDH11': ('nsubjpass', 'associated')}, {'human disease': ('pobj', 'with')}]
+RDH12  --> the early-onset retinal dystrophy Leber congenital amaurosis RDH11  --> human disease
 
 These data illustrate the novel finding of UGT1A10 in human breast and confirm the expression of UGT2B7.
 [{'These data': ('nsubj', 'illustrate')}, {'the novel finding': ('dobj', 'illustrate')}, {'UGT1A10': ('pobj', 'of')}, {'human breast': ('pobj', 'in')}, {'the expression': ('dobj', 'confirm')}, {'UGT2B7': ('pobj', 'of')}]
+These data  --> the novel finding  --> UGT1A10  --> human breast  --> the expression  --> UGT2B7
 
 ABCG5 (G5) and ABCG8 (G8) are ATP-binding cassette half-transporters that limit intestinal uptake and promote biliary secretion of neutral sterols.
 [{'ABCG5': ('nsubj', 'are')}, {'(G5': ('appos', 'ABCG5')}, {'ABCG8': ('conj', 'G5')}, {'G8': ('appos', 'ABCG8')}, {'ATP-binding cassette half-transporters': ('attr', 'are')}, {'intestinal uptake': ('dobj', 'limit')}, {'biliary secretion': ('dobj', 'promote')}, {'neutral sterols': ('pobj', 'of')}]
+ABCG5 and ABCG8      --> intestinal uptake  --> biliary secretion  --> neutral sterols
 
 This work demonstrates that one subunit of the serine palmitoyltransferase enzyme, SPTLC1, but not subunit 2 (SPTLC2), is copurified with ABCA1 and negatively regulates its function.
 [{'This work': ('nsubj', 'demonstrates')}, {'that one subunit': ('dobj', 'demonstrates')}, {'the serine palmitoyltransferase enzyme': ('pobj', 'of')}, {'SPTLC1': ('appos', 'enzyme')}, {'(SPTLC2': ('nsubjpass', 'copurified')}, {'ABCA1': ('pobj', 'with')}, {'its function': ('dobj', 'regulates')}]
+This work  --> that one subunit  --> the serine palmitoyltransferase enzyme  (SPTLC2  --> ABCA1  --> its function
 
 These results reveal a double dissociation for the roles of CA3 and CA1 subcortical efferents in encoding and retrieval processes that mirror the double dissociation seen after excitotoxic lesions of CA1 and CA3.
 [{'These results': ('nsubj', 'reveal')}, {'a double dissociation': ('dobj', 'reveal')}, {'the roles': ('pobj', 'for')}, {'CA3 and CA1 subcortical efferents': ('pobj', 'of')}, {'encoding': ('pobj', 'in')}, {'retrieval processes': ('conj', 'encoding')}, {'the double dissociation': ('dobj', 'mirror')}, {'excitotoxic lesions': ('pobj', 'after')}, {'CA1': ('pobj', 'of')}, {'CA3': ('conj', 'CA1')}]
+These results  --> a double dissociation  --> the roles  --> CA3 and CA1 subcortical efferents and CA3  --> encoding and retrieval processes   --> the double dissociation  --> excitotoxic lesions  --> CA1 
 
 By contrast, SO or SR stimuli applied on the subicular side of CA1 triggered events that did not spread "backward" toward CA3.
 [{'contrast': ('pobj', 'By')}, {'SO or SR stimuli': ('nsubj', 'applied')}, {'the subicular side': ('pobj', 'on')}, {'CA1': ('pobj', 'of')}, {'events': ('dobj', 'triggered')}, {'CA3': ('pobj', 'toward')}]
+ --> contrast SO or SR stimuli  --> the subicular side  --> CA1  --> events  --> CA3
 
 Although this collateral system is sparse compared with other hippocampal formation regions, its unidirectionality protects against re-entrant activation of CA3 and may be physiologically significant as a relay from proximal CA1 to distal CA1.
 [{'this collateral system': ('nsubj', 'is')}, {'other hippocampal formation regions': ('pobj', 'with')}, {'its unidirectionality': ('nsubj', 'protects')}, {'re-entrant activation': ('pobj', 'against')}, {'CA3': ('pobj', 'of')}, {'a relay': ('pobj', 'as')}, {'proximal CA1': ('pobj', 'from')}, {'distal CA1': ('pobj', 'to')}]
+this collateral system  --> other hippocampal formation regions its unidirectionality  --> re-entrant activation  --> CA3  --> a relay  --> proximal CA1  --> distal CA1
 
 We did not find any evidence of SLC5A8 being essential for the apical iodide transport in the thyroid gland, even if the ion-cotransporter SLC26A4, causing the human Pendred syndrome, is missing.
 [{'We': ('nsubj', 'find')}, {'any evidence': ('dobj', 'find')}, {'SLC5A8': ('pobj', 'of')}, {'the apical iodide transport': ('pobj', 'for')}, {'the thyroid gland': ('pobj', 'in')}, {'the ion-cotransporter SLC26A4': ('nsubj', 'missing')}, {'the human Pendred syndrome': ('dobj', 'causing')}]
+We  --> any evidence  --> SLC5A8  --> the apical iodide transport  --> the thyroid gland the ion-cotransporter SLC26A4  --> the human Pendred syndrome
 
 CYP2B6 and CYP3A4 are responsible for the metabolism of a number of therapeutic compounds.
 [{'CYP2B6': ('nsubj', 'are')}, {'CYP3A4': ('conj', 'CYP2B6')}, {'the metabolism': ('pobj', 'for')}, {'a number': ('pobj', 'of')}, {'therapeutic compounds': ('pobj', 'of')}]
+CYP2B6 and CYP3A4   --> the metabolism  --> a number  --> therapeutic compounds
 
 With the advances in commercially available antibodies we describe here a simplified technique for the detection of ABCC2, CYP2B6 and CYP3A4 in human peripheral blood mononuclear cells (PBMC) by flow cytometry.
 [{'the advances': ('pobj', 'With')}, {'commercially available antibodies': ('pobj', 'in')}, {'we': ('nsubj', 'describe')}, {'a simplified technique': ('dobj', 'describe')}, {'the detection': ('pobj', 'for')}, {'ABCC2': ('pobj', 'of')}, {'CYP2B6': ('appos', 'ABCC2')}, {'CYP3A4': ('conj', 'CYP2B6')}, {'human peripheral blood mononuclear cells': ('pobj', 'in')}, {'PBMC': ('appos', 'cells')}, {'flow cytometry': ('pobj', 'by')}]
+ --> the advances  --> commercially available antibodies we  --> a simplified technique  --> the detection  --> ABCC2  and CYP3A4   --> human peripheral blood mononuclear cells   --> flow cytometry
 
 We conclude that dexamethasone controls CYP1A1 and CYP1A2 expression and activity in human hepatocytes via multiple mechanisms, which remain to be elucidated.
 [{'We': ('nsubj', 'conclude')}, {'dexamethasone': ('nsubj', 'controls')}, {'CYP1A1': ('dobj', 'controls')}, {'CYP1A2': ('conj', 'CYP1A1')}, {'human hepatocytes': ('pobj', 'in')}, {'multiple mechanisms': ('pobj', 'via')}]
+We dexamethasone  --> CYP1A1 and CYP1A2   --> human hepatocytes  --> multiple mechanisms
 
 UCP2 and UCP3, two novel uncoupling proteins, are important regulators of energy expenditure and thermogenesis in various organisms.
 [{'UCP2': ('nsubj', 'are')}, {'UCP3': ('conj', 'UCP2')}, {'two novel uncoupling proteins': ('appos', 'UCP2')}, {'important regulators': ('attr', 'are')}, {'energy expenditure': ('pobj', 'of')}, {'thermogenesis': ('conj', 'expenditure')}, {'various organisms': ('pobj', 'in')}]
+UCP2 and UCP3     --> energy expenditure and thermogenesis   --> various organisms
 
 In general, CYP1A2 was altered in the more meaningful way than CYP1A1 by isothiocyanates.
 [{'CYP1A2': ('nsubjpass', 'altered')}, {'the more meaningful way': ('pobj', 'in')}, {'CYP1A1': ('pobj', 'than')}, {'isothiocyanates': ('pobj', 'by')}]
+CYP1A2  --> the more meaningful way  --> CYP1A1  --> isothiocyanates
 
 Chronic overexpression of tissue ACE in CAD disrupts the angiotensin II/bradykinin balance with a net result of endothelial dysfunction.
 [{'Chronic overexpression': ('nsubj', 'disrupts')}, {'tissue ACE': ('pobj', 'of')}, {'CAD': ('pobj', 'in')}, {'the angiotensin II/bradykinin balance': ('dobj', 'disrupts')}, {'a net result': ('pobj', 'with')}, {'endothelial dysfunction': ('pobj', 'of')}]
+Chronic overexpression  --> tissue ACE  --> CAD  --> the angiotensin II/bradykinin balance  --> a net result  --> endothelial dysfunction
 
 ABCC2 (MRP2) and ABCG2 (BCRP) transport various endogenous and exogenous compounds, including many anticancer drugs, into bile, feces, and urine.
 [{'ABCC2': ('nsubj', 'transport')}, {'MRP2': ('appos', 'ABCC2')}, {'ABCG2': ('conj', 'ABCC2')}, {'(BCRP': ('appos', 'ABCG2')}, {'various endogenous and exogenous compounds': ('dobj', 'transport')}, {'many anticancer drugs': ('pobj', 'including')}, {'bile': ('pobj', 'into')}, {'feces': ('conj', 'bile')}, {'urine': ('conj', 'feces')}]
+ABCC2 and ABCG2     --> various endogenous and exogenous compounds  --> many anticancer drugs  --> bile and feces  and urine 
 
 ABCC1 and ABCG2 are ubiquitous ATP-binding cassette transmembrane proteins that play an important role in multidrug resistance (MDR).
 [{'ABCC1': ('ROOT', 'ABCC1')}, {'ABCG2': ('nsubj', 'are')}, {'ubiquitous ATP-binding cassette transmembrane proteins': ('attr', 'are')}, {'an important role': ('dobj', 'play')}, {'multidrug resistance': ('pobj', 'in')}, {'MDR': ('appos', 'resistance')}]
+ ABCG2   --> an important role  --> multidrug resistance 
 
 In this study, we evaluated the possible interaction of vandetanib, an orally administered drug inhibiting multiple receptor tyrosine kinases, with ABCC1 and ABCG2 in vitro.
 [{'this study': ('pobj', 'In')}, {'we': ('nsubj', 'evaluated')}, {'the possible interaction': ('dobj', 'evaluated')}, {'vandetanib': ('pobj', 'of')}, {'an orally administered drug': ('nsubj', 'inhibiting')}, {'multiple receptor tyrosine kinases': ('dobj', 'inhibiting')}, {'ABCC1': ('pobj', 'with')}, {'ABCG2': ('conj', 'ABCC1')}]
+ --> this study we  --> the possible interaction  --> vandetanib an orally administered drug  --> multiple receptor tyrosine kinases  --> ABCC1 and ABCG2 
 
 CNVs of both UGT2B17 and UGT2B28, with the co-occurrence of UGT2B15:p.D85Y, generate seven distinct haplotypes.
 [{'CNVs': ('ROOT', 'CNVs')}, {'both UGT2B17': ('pobj', 'of')}, {'UGT2B28': ('conj', 'UGT2B17')}, {'the co-occurrence': ('pobj', 'with')}, {'of UGT2B15:p.D85Y': ('nsubj', 'generate')}, {'seven distinct haplotypes': ('dobj', 'generate')}]
+  --> both UGT2B17 and UGT2B28   --> the co-occurrence of UGT2B15:p.D85Y  --> seven distinct haplotypes
 
 Not surprisingly, CYP1A2 has a relatively small volume of the active site cavity of 375 A(3), which is 44.2% larger than that of CYP2A6 (260 A(3)), but much smaller than that of CYP3A4 (1385 A(3)) and 2C8 (1438 A(3)).
 [{'CYP1A2': ('nsubj', 'has')}, {'a relatively small volume': ('dobj', 'has')}, {'the active site cavity': ('pobj', 'of')}, {'375 A(3': ('pobj', 'of')}, {'CYP2A6': ('pobj', 'of')}, {'CYP3A4': ('pobj', 'of')}, {'A(3': ('appos', '2C8')}]
+CYP1A2  --> a relatively small volume  --> the active site cavity  --> 375 A(3  --> CYP2A6  --> CYP3A4 
 
 P-REX2a mRNA was more abundant in human cancer cells and significantly increased in tumors with wild-type PTEN that expressed an activated mutant of PIK3CA encoding the p110 subunit of phosphoinositide 3-kinase subunit alpha (PI3Kalpha).
 [{'P-REX2a mRNA': ('nsubj', 'was')}, {'human cancer cells': ('pobj', 'in')}, {'tumors': ('pobj', 'in')}, {'wild-type PTEN': ('pobj', 'with')}, {'an activated mutant': ('dobj', 'expressed')}, {'PIK3CA': ('pobj', 'of')}, {'the p110 subunit': ('dobj', 'encoding')}, {'phosphoinositide 3-kinase subunit alpha': ('pobj', 'of')}, {'PI3Kalpha': ('appos', 'alpha')}]
+P-REX2a mRNA  --> human cancer cells  --> tumors  --> wild-type PTEN  --> an activated mutant  --> PIK3CA  --> the p110 subunit  --> phosphoinositide 3-kinase subunit alpha 
 
 Levallorphan acted as a time-dependent inhibitor on CYP3A4, indicating a productive binding mode with this enzyme not observed with CYP2D6 that presumably resulted from close interactions of the N-allyl moiety oriented toward the heme.
 [{'Levallorphan': ('nsubj', 'acted')}, {'a time-dependent inhibitor': ('pobj', 'as')}, {'CYP3A4': ('pobj', 'on')}, {'a productive binding mode': ('dobj', 'indicating')}, {'this enzyme': ('pobj', 'with')}, {'CYP2D6': ('pobj', 'with')}, {'close interactions': ('pobj', 'from')}, {'the N-allyl moiety': ('pobj', 'of')}, {'the heme': ('pobj', 'toward')}]
+Levallorphan  --> a time-dependent inhibitor  --> CYP3A4  --> a productive binding mode  --> this enzyme  --> CYP2D6  --> close interactions  --> the N-allyl moiety  --> the heme
 
 All the results are in agreement with the large and flexible active site of CYP3A4 and the more restricted active site of CYP2D6.
 [{'All the results': ('nsubj', 'are')}, {'agreement': ('pobj', 'in')}, {'the large and flexible active site': ('pobj', 'with')}, {'CYP3A4': ('pobj', 'of')}, {'active site': ('dobj', 'restricted')}, {'CYP2D6': ('pobj', 'of')}]
+All the results  --> agreement  --> the large and flexible active site  --> CYP3A4  --> active site  --> CYP2D6
 
 CYP2C19 converts the tricyclic antidepressant imipramine to its active metabolite desipramine, which is subsequently inactivated by CYP2D6.
 [{'CYP2C19': ('nsubj', 'converts')}, {'the tricyclic antidepressant imipramine': ('dobj', 'converts')}, {'its active metabolite desipramine': ('pobj', 'to')}, {'CYP2D6': ('pobj', 'by')}]
+CYP2C19  --> the tricyclic antidepressant imipramine  --> its active metabolite desipramine  --> CYP2D6
 
 UCP3 (uncoupling protein 3) and its homologues UCP2 and UCP1 are regulators of mitochondrial function.
 [{'UCP3': ('nsubj', 'are')}, {'protein': ('dobj', 'uncoupling')}, {'UCP2': ('nsubj', 'are')}, {'UCP1': ('conj', 'UCP2')}, {'regulators': ('attr', 'are')}, {'mitochondrial function': ('pobj', 'of')}]
+UCP3  --> protein UCP2 and UCP1    --> mitochondrial function
 
 Based on a DNA microarray, we previously found that the CD36 and ABCA1 genes were overexpressed in symptom-causing carotid plaques (CP) compared with nonsymptom-causing CP.
 [{'a DNA microarray': ('pobj', 'on')}, {'we': ('nsubj', 'found')}, {'the CD36': ('nsubjpass', 'overexpressed')}, {'ABCA1 genes': ('conj', 'CD36')}, {'symptom-causing carotid plaques': ('pobj', 'in')}, {'CP': ('appos', 'plaques')}, {'nonsymptom-causing CP': ('pobj', 'with')}]
+ --> a DNA microarray we the CD36 and ABCA1 genes   --> symptom-causing carotid plaques   --> nonsymptom-causing CP
 
 ABCG5 and ABCG8 are half-size ABC transporters that function as heterodimers (ABCG5/G8) to reduce sterol absorption in the intestines and increase sterol excretion from the liver.
 [{'ABCG5': ('nsubj', 'are')}, {'ABCG8': ('conj', 'ABCG5')}, {'heterodimers': ('pobj', 'as')}, {'ABCG5/G8': ('appos', 'heterodimers')}, {'sterol absorption': ('dobj', 'reduce')}, {'the intestines': ('pobj', 'in')}, {'sterol excretion': ('dobj', 'increase')}, {'the liver': ('pobj', 'from')}]
+ABCG5 and ABCG8   --> heterodimers   --> sterol absorption  --> the intestines  --> sterol excretion  --> the liver
 
 To understand why CYP1B1 predominantly hydroxylates the 4-position of estradiol, we constructed three-dimensional structures of CYP1A1 and CYP1B1 by homology modeling, using the crystal structure of CYP1A2, and studied the docking mode of estradiol with CYP1A1, CYP1A2, and CYP1B1.
 [{'why CYP1B1': ('nsubj', 'hydroxylates')}, {'estradiol': ('pobj', 'of')}, {'we': ('nsubj', 'constructed')}, {'three-dimensional structures': ('dobj', 'constructed')}, {'homology modeling': ('pobj', 'by')}, {'the crystal structure': ('dobj', 'using')}, {'CYP1A2': ('pobj', 'of')}, {'the docking mode': ('dobj', 'studied')}, {'estradiol': ('pobj', 'of')}, {'CYP1A1': ('pobj', 'with')}, {'CYP1A2': ('conj', 'CYP1A1')}]
+why CYP1B1  --> estradiol we  --> three-dimensional structures  --> homology modeling  --> the crystal structure  --> CYP1A2  --> the docking mode  --> estradiol  --> CYP1A1 and CYP1A2 
 
 The results demonstrated that two particular amino acid residues for each CYP, namely Thr124 and Phe260 of CYP1A2, Ser122 and Phe258 of CYP1A1, and Ala133 and Asn265 of CYP1B1, play an important role in estradiol recognition.
 [{'The results': ('nsubj', 'demonstrated')}, {'two particular amino acid': ('nsubj', 'residues')}, {'each CYP': ('pobj', 'for')}, {'CYP1A2': ('pobj', 'of')}, {'CYP1B1': ('pobj', 'of')}, {'an important role': ('dobj', 'play')}, {'estradiol recognition': ('pobj', 'in')}]
+The results two particular amino acid  --> each CYP  --> CYP1A2  --> CYP1B1  --> an important role  --> estradiol recognition
 
 DUOX1 and DUOX2 are members of the NADPH oxidase family that are specifically regulated to produce hydrogen peroxide in epithelia of the thyroid, gastrointestinal tract, and respiratory tract.
 [{'DUOX1': ('nsubj', 'are')}, {'DUOX2': ('nsubj', 'are')}, {'members': ('attr', 'are')}, {'the NADPH oxidase family': ('pobj', 'of')}, {'hydrogen peroxide': ('dobj', 'produce')}, {'epithelia': ('pobj', 'in')}, {'the thyroid': ('pobj', 'of')}, {'gastrointestinal tract': ('conj', 'epithelia')}, {'respiratory tract': ('conj', 'tract')}]
+DUOX1 DUOX2   --> the NADPH oxidase family  --> hydrogen peroxide  --> epithelia and gastrointestinal tract  --> the thyroid  and respiratory tract 
 
 It was reported that the -82T→C substitution within the CYP2B6*22 allele creates a functional CCAAT/enhancer-binding protein (C/EBP) binding site and enhances the basal expression of the CYP2B6 gene.
 [{'It': ('nsubjpass', 'reported')}, {'the CYP2B6': ('pobj', 'within')}, {'*22 allele': ('nsubj', 'creates')}, {'(C/EBP': ('appos', 'protein')}, {'the basal expression': ('dobj', 'enhances')}, {'the CYP2B6 gene': ('pobj', 'of')}]
+It  --> the CYP2B6 *22 allele   --> the basal expression  --> the CYP2B6 gene
 
 HSD3B1 and HSD3B2 are crucial enzymes for the synthesis of hormonal steroids, including aldosterone.
 [{'HSD3B1': ('nsubj', 'are')}, {'HSD3B2': ('conj', 'HSD3B1')}, {'crucial enzymes': ('attr', 'are')}, {'the synthesis': ('pobj', 'for')}, {'hormonal steroids': ('pobj', 'of')}, {'aldosterone': ('pobj', 'including')}]
+HSD3B1 and HSD3B2    --> the synthesis  --> hormonal steroids  --> aldosterone
 
 ABCB1 and ABCG2 are efflux transporters which have a major impact on the pharmacological behavior of numerous drugs.
 [{'ABCB1': ('nsubj', 'are')}, {'ABCG2': ('conj', 'ABCB1')}, {'efflux transporters': ('attr', 'are')}, {'a major impact': ('dobj', 'have')}, {'the pharmacological behavior': ('pobj', 'on')}, {'numerous drugs': ('pobj', 'of')}]
+ABCB1 and ABCG2    --> a major impact  --> the pharmacological behavior  --> numerous drugs
 
 It has become evident that ABCB1 and ABCG2 modify the pharmaco/toxicokinetics in the placenta and fetus and may consequently affect the outcome of pregnancy.
 [{'It': ('nsubj', 'become')}, {'ABCB1': ('nsubj', 'modify')}, {'ABCG2': ('conj', 'ABCB1')}, {'the pharmaco/toxicokinetics': ('dobj', 'modify')}, {'the placenta': ('pobj', 'in')}, {'fetus': ('conj', 'placenta')}, {'the outcome': ('dobj', 'affect')}, {'pregnancy': ('pobj', 'of')}]
+It ABCB1 and ABCG2   --> the pharmaco/toxicokinetics  --> the placenta and fetus   --> the outcome  --> pregnancy
 
 Because MEC projects preferentially to the proximal part of the CA1, bordering CA2, whereas LEC innervates only the distal part, bordering subiculum, we asked if spatial tuning is graded along the transverse axis of CA1.
 [{'MEC': ('nsubj', 'projects')}, {'the proximal part': ('pobj', 'to')}, {'the CA1': ('pobj', 'of')}, {'CA2': ('dobj', 'bordering')}, {'LEC': ('nsubj', 'innervates')}, {'only the distal part': ('dobj', 'innervates')}, {'bordering subiculum': ('appos', 'part')}, {'we': ('nsubj', 'asked')}, {'spatial tuning': ('nsubjpass', 'graded')}, {'the transverse axis': ('pobj', 'along')}, {'CA1': ('pobj', 'of')}]
+MEC  --> the proximal part  --> the CA1  --> CA2 LEC  --> only the distal part  we spatial tuning  --> the transverse axis  --> CA1
 
 ESD (esterase D), GLO1 (glyoxalase I), and GPT (glutamate pyruvate transaminase) are human erythrocytic isoenzymes and have previously been applied in forensic medicine caseworks.
 [{'ESD': ('ROOT', 'ESD')}, {'esterase D': ('appos', 'ESD')}, {'GLO1': ('appos', 'ESD')}, {'I': ('dobj', 'glyoxalase')}, {'GPT': ('nsubj', 'are')}, {'glutamate pyruvate transaminase': ('appos', 'GPT')}, {'human erythrocytic isoenzymes': ('attr', 'are')}, {'forensic medicine caseworks': ('pobj', 'in')}]
+    --> I GPT    --> forensic medicine caseworks
 
 NNMT expression significantly decreased SH-SY5Y cell death, which correlated with increased intracellular ATP content, ATP/ADP ratio and Complex I activity, and a reduction in the degradation of the NDUFS3 [NADH dehydrogenase (ubiquinone) iron-sulfur protein 3] subunit of Complex I. These effects were replicated by incubation of SH-SY5Y cells with 1-methylnicotinamide, suggesting that 1-methylnicotinamide mediates the cellular effects of NNMT.
 [{'NNMT expression': ('nsubj', 'decreased')}, {'SH-SY5Y cell death': ('dobj', 'decreased')}, {'increased intracellular ATP content': ('pobj', 'with')}, {'ATP/ADP ratio': ('conj', 'content')}, {'Complex I': ('conj', 'ratio')}, {'activity': ('conj', 'ratio')}, {'a reduction': ('conj', 'content')}, {'the degradation': ('pobj', 'in')}, {'NDUFS3': ('pobj', 'the')}, {'ubiquinone': ('appos', 'dehydrogenase')}, {'iron-sulfur protein': ('appos', 'dehydrogenase')}, {'subunit': ('appos', 'protein')}, {'Complex I.': ('pobj', 'of')}, {'These effects': ('nsubjpass', 'replicated')}, {'incubation': ('pobj', 'by')}, {'SH-SY5Y cells': ('pobj', 'of')}, {'the cellular effects': ('dobj', 'mediates')}, {'NNMT': ('pobj', 'of')}]
+NNMT expression  --> SH-SY5Y cell death  --> increased intracellular ATP content and ATP/ADP ratio and a reduction  and Complex I and activity     --> the degradation  --> NDUFS3     --> Complex I. These effects  --> incubation  --> SH-SY5Y cells  --> the cellular effects  --> NNMT
 
 OAT (organic anion transporter) 2 [human gene symbol SLC22A7 (SLC is solute carrier)] is a member of the SLC22 family of transport proteins.
 [{'OAT': ('ROOT', 'OAT')}, {'(organic anion transporter': ('appos', 'OAT')}, {'[human gene symbol': ('nsubj', 'is')}, {'SLC22A7': ('appos', 'symbol')}, {'SLC': ('nsubj', 'is')}, {'solute carrier': ('attr', 'is')}, {'a member': ('attr', 'is')}, {'the SLC22 family': ('pobj', 'of')}, {'transport proteins': ('pobj', 'of')}]
+  [human gene symbol  SLC    --> the SLC22 family  --> transport proteins
 
 CYP1A1 and CYP1B1 are involved in the metabolism of carcinogens.
 [{'CYP1A1': ('nsubjpass', 'involved')}, {'CYP1B1': ('conj', 'CYP1A1')}, {'the metabolism': ('pobj', 'in')}, {'carcinogens': ('pobj', 'of')}]
+CYP1A1 and CYP1B1   --> the metabolism  --> carcinogens
 
 CYP1A1 and CYP1B1 are two extrahepatic enzymes that have been implicated in carcinogenesis and cancer progression.
 [{'CYP1A1': ('nsubj', 'are')}, {'CYP1B1': ('conj', 'CYP1A1')}, {'two extrahepatic enzymes': ('attr', 'are')}, {'carcinogenesis': ('pobj', 'in')}, {'cancer progression': ('conj', 'carcinogenesis')}]
+CYP1A1 and CYP1B1    --> carcinogenesis and cancer progression 
 
 To evaluate the potential impact of CYP7B1 mutations identified in SPG5 on binding and protein function, a comparative model of cytochrome P450 7B1 (CYP7B1) was constructed using human CYP7A1 as a template during model construction.
 [{'the potential impact': ('dobj', 'evaluate')}, {'CYP7B1 mutations': ('pobj', 'of')}, {'SPG5': ('pobj', 'in')}, {'binding and protein function': ('pobj', 'on')}, {'a comparative model': ('nsubjpass', 'constructed')}, {'cytochrome P450 7B1': ('pobj', 'of')}, {'CYP7B1': ('appos', '7B1')}, {'human CYP7A1': ('dobj', 'using')}, {'a template': ('pobj', 'as')}, {'model construction': ('pobj', 'during')}]
+ --> the potential impact  --> CYP7B1 mutations  --> SPG5  --> binding and protein function a comparative model  --> cytochrome P450 7B1   --> human CYP7A1  --> a template  --> model construction
 
 CYP2S1 and CYP1A1/2, CYP1B1, CYP2B and CYP3A mRNAs were measured in liver, lung, spleen, stomach, kidney, and thymus at different time points.        
 [{'CYP2S1': ('ROOT', 'CYP2S1')}, {'CYP1A1/2, CYP1B1': ('conj', 'CYP2S1')}, {'CYP2B': ('conj', 'CYP1B1')}, {'liver': ('pobj', 'in')}, {'lung': ('conj', 'liver')}, {'spleen': ('conj', 'lung')}, {'stomach': ('conj', 'spleen')}, {'kidney': ('conj', 'stomach')}, {'different time points': ('pobj', 'at')}]
+ and CYP1A1/2, CYP1B1  and CYP2B   --> liver and lung  and spleen  and stomach  and kidney   --> different time points
 
 Our study indicated that the SNP rs11191548, near CYP17A1, was associated with EBP in children.
 [{'Our study': ('nsubj', 'indicated')}, {'the SNP rs11191548': ('nsubjpass', 'associated')}, {'CYP17A1': ('pobj', 'near')}, {'EBP': ('pobj', 'with')}, {'children': ('pobj', 'in')}]
+Our study the SNP rs11191548  --> CYP17A1  --> EBP  --> children
 
 CYP11B1 and CYP11B2 responsible for the final steps of cortisol and aldosterone synthesis, respectively, are believed to be duplicate genes with distinctive promoters.
 [{'CYP11B1': ('nsubjpass', 'believed')}, {'CYP11B2': ('conj', 'CYP11B1')}, {'the final steps': ('pobj', 'for')}, {'cortisol and aldosterone synthesis': ('pobj', 'of')}, {'duplicate genes': ('attr', 'be')}, {'distinctive promoters': ('pobj', 'with')}]
+CYP11B1 and CYP11B2   --> the final steps  --> cortisol and aldosterone synthesis   --> distinctive promoters
 
 This study investigates the clinical impact of genetic variants of CYP2D6 and ABCB1 in breast cancer patients treated with tamoxifen.
 [{'This study': ('nsubj', 'investigates')}, {'the clinical impact': ('dobj', 'investigates')}, {'genetic variants': ('pobj', 'of')}, {'CYP2D6': ('pobj', 'of')}, {'and ABCB1': ('ROOT', 'ABCB1')}, {'breast cancer patients': ('pobj', 'in')}, {'tamoxifen': ('pobj', 'with')}]
+This study  --> the clinical impact  --> genetic variants  --> CYP2D6   --> breast cancer patients  --> tamoxifen
 
 Here, we demonstrate that similar to IDO1, IDO2 also degrades tryptophan into kynurenine and is inhibited more efficiently by Levo-1-methyl tryptophan (L-1MT), an IDO1 competitive inhibitor, than by dextro-methyl tryptophan (D-1MT).
 [{'we': ('nsubj', 'demonstrate')}, {'IDO1': ('pobj', 'to')}, {'IDO2': ('nsubj', 'degrades')}, {'tryptophan': ('dobj', 'degrades')}, {'kynurenine': ('pobj', 'into')}, {'Levo-1-methyl tryptophan': ('pobj', 'by')}, {'an IDO1 competitive inhibitor': ('appos', 'tryptophan')}, {'dextro-methyl tryptophan': ('pobj', 'by')}]
+we  --> IDO1 IDO2  --> tryptophan  --> kynurenine  --> Levo-1-methyl tryptophan   --> dextro-methyl tryptophan
 
 Although IDO2 enzyme activity is weaker than IDO1, it is less sensitive to 1-MT inhibition than IDO1.
 [{'IDO2': ('nsubj', 'enzyme')}, {'activity': ('dobj', 'enzyme')}, {'it': ('nsubj', 'is')}, {'1-MT inhibition': ('pobj', 'to')}, {'IDO1': ('pobj', 'than')}]
+IDO2  --> activity it  --> 1-MT inhibition  --> IDO1
 
 FIG4 is a ubiquitously expressed phosphatase that, in complex with FAB1/PIKFYVE and VAC14, regulates the biosynthesis of the signaling lipid PI(3,5)P(2).
 [{'FIG4': ('nsubj', 'is')}, {'a ubiquitously expressed phosphatase': ('attr', 'is')}, {'complex': ('pobj', 'in')}, {'FAB1/PIKFYVE': ('pobj', 'with')}, {'VAC14': ('conj', 'PIKFYVE')}, {'the biosynthesis': ('dobj', 'regulates')}, {'the signaling lipid PI(3,5)P(2': ('pobj', 'of')}]
+FIG4   --> complex  --> FAB1/PIKFYVE and VAC14   --> the biosynthesis  --> the signaling lipid PI(3,5)P(2
 
 AK1 (Adenylate Kinase 1) plays crucial roles in processes such as cellular phosphotransfer networks, neuronal maturation and regeneration, gating of ABC transporter CFTR, tumor cell metabolism and myocardial energetic homeostasis.
 [{'AK1': ('nsubj', 'plays')}, {'Adenylate Kinase': ('appos', 'AK1')}, {'crucial roles': ('dobj', 'plays')}, {'processes': ('pobj', 'in')}, {'cellular phosphotransfer networks': ('pobj', 'as')}, {'neuronal maturation': ('conj', 'networks')}, {'regeneration': ('conj', 'maturation')}, {'ABC transporter CFTR': ('pobj', 'of')}, {'tumor cell metabolism': ('conj', 'CFTR')}, {'myocardial energetic homeostasis': ('conj', 'metabolism')}]
+AK1   --> crucial roles  --> processes  --> cellular phosphotransfer networks and neuronal maturation  and regeneration   --> ABC transporter CFTR and tumor cell metabolism  and myocardial energetic homeostasis 
 
 ABCG5 and ABCG8 form a complex (G5G8) that opposes the absorption of plant sterols but is also expressed in liver where it promotes the excretion of cholesterol into bile.
 [{'ABCG5': ('nsubj', 'form')}, {'ABCG8': ('conj', 'ABCG5')}, {'a complex (G5G8': ('dobj', 'form')}, {'the absorption': ('dobj', 'opposes')}, {'plant sterols': ('pobj', 'of')}, {'liver': ('pobj', 'in')}, {'it': ('nsubj', 'promotes')}, {'the excretion': ('dobj', 'promotes')}, {'cholesterol': ('pobj', 'of')}, {'bile': ('pobj', 'into')}]
+ABCG5 and ABCG8   --> a complex (G5G8  --> the absorption  --> plant sterols  --> liver it  --> the excretion  --> cholesterol  --> bile
 
 To understand its molecular mechanism of action, we measured expression of phospho-PTEN (Ser380) and phospho-AKT (Ser473) by Western blot and found that suppression of PIK3CA inhibited OSCC growth through downregulation of p-PTEN and p-AKT.
 [{'its molecular mechanism': ('dobj', 'understand')}, {'action': ('pobj', 'of')}, {'we': ('nsubj', 'measured')}, {'expression': ('dobj', 'measured')}, {'phospho-PTEN': ('pobj', 'of')}, {'phospho-AKT': ('conj', 'PTEN')}, {'Western blot': ('pobj', 'by')}, {'suppression': ('nsubj', 'inhibited')}, {'PIK3CA': ('pobj', 'of')}, {'OSCC growth': ('dobj', 'inhibited')}, {'downregulation': ('pobj', 'through')}, {'p-PTEN': ('pobj', 'of')}, {'p-AKT': ('conj', 'PTEN')}]
+ --> its molecular mechanism  --> action we  --> expression  --> phospho-PTEN and phospho-AKT and p-AKT   --> Western blot suppression  --> PIK3CA  --> OSCC growth  --> downregulation  --> p-PTEN 
 
 The equivalent position in UGT1A4 is also known to influence enzyme activity, whilst an N-terminal domain histidine (His37 in UGT1A9) is believed to function as the catalytic base in most UGT enzymes.
 [{'The equivalent position': ('nsubjpass', 'known')}, {'UGT1A4': ('pobj', 'in')}, {'enzyme activity': ('dobj', 'influence')}, {'an N-terminal domain histidine': ('nsubjpass', 'believed')}, {'(His37': ('appos', 'histidine')}, {'UGT1A9': ('pobj', 'in')}, {'the catalytic base': ('pobj', 'as')}, {'most UGT enzymes': ('pobj', 'in')}]
+The equivalent position  --> UGT1A4  --> enzyme activity an N-terminal domain histidine   --> UGT1A9  --> the catalytic base  --> most UGT enzymes
 
 Substitution of Met33 with Val, Ile, Thr, and Gln, as occur in UGT1A1, UGT1A3, UGT1A4 and UGT1A6 respectively, variably affected kinetics and catalytic efficiency.
 [{'Substitution': ('nsubj', 'UGT1A4')}, {'Met33': ('pobj', 'of')}, {'Val': ('pobj', 'with')}, {'Ile': ('conj', 'Val')}, {'Thr': ('conj', 'Ile')}, {'Gln': ('conj', 'Thr')}, {'UGT1A1': ('pobj', 'in')}, {'UGT1A3': ('conj', 'UGT1A1')}, {'UGT1A6': ('conj', 'UGT1A4')}, {'respectively, variably affected kinetics': ('ROOT', 'kinetics')}, {'catalytic efficiency': ('conj', 'kinetics')}]
+Substitution  --> Met33  --> Val and Ile  and Thr  and Gln   --> UGT1A1 and UGT1A3   and UGT1A6  and catalytic efficiency 
 
 CYP1A1 and CYP1A2 are involved in both detoxification and metabolic activation of xenobiotics.
 [{'CYP1A1': ('nsubjpass', 'involved')}, {'CYP1A2': ('conj', 'CYP1A1')}, {'both detoxification and metabolic activation': ('pobj', 'in')}, {'xenobiotics': ('pobj', 'of')}]
+CYP1A1 and CYP1A2   --> both detoxification and metabolic activation  --> xenobiotics
 
 We aimed to investigate the role of MAOA and MAOB in suicidal versus non-suicidal participants and interactions between genetic variation and suicidal status on aggression and anger-related traits.
 [{'We': ('nsubj', 'aimed')}, {'the role': ('dobj', 'investigate')}, {'MAOA': ('pobj', 'of')}, {'MAOB': ('conj', 'MAOA')}, {'non-suicidal participants': ('pobj', 'versus')}, {'interactions': ('conj', 'participants')}, {'genetic variation': ('pobj', 'between')}, {'suicidal status': ('conj', 'variation')}, {'aggression': ('pobj', 'on')}, {'anger-related traits': ('conj', 'aggression')}]
+We  --> the role  --> MAOA and MAOB   --> non-suicidal participants and interactions   --> genetic variation and suicidal status   --> aggression and anger-related traits 
 
 PTEN is a well-described predisposition gene for Cowden syndrome (CS), a familial cancer syndrome characterized by a high risk of breast and other cancers.
 [{'PTEN': ('nsubj', 'is')}, {'a well-described predisposition gene': ('attr', 'is')}, {'Cowden syndrome': ('pobj', 'for')}, {'CS': ('appos', 'syndrome')}, {'a familial cancer syndrome': ('attr', 'is')}, {'a high risk': ('pobj', 'by')}, {'breast': ('pobj', 'of')}, {'other cancers': ('conj', 'breast')}]
+PTEN   --> Cowden syndrome    --> a high risk  --> breast and other cancers 
 
 As 1α-hydroxylation of the primary metabolite of CYP11A1 action, 20S-hydroxyvitamin D3 [20(OH)D3], greatly influences its properties, we examined the ability of both human and mouse CYP27B1 to 1α-hydroxylate six secosteroids generated by CYP11A1.
 [{'1α-hydroxylation': ('pobj', 'As')}, {'the primary metabolite': ('pobj', 'of')}, {'CYP11A1 action': ('pobj', 'of')}, {'20S-hydroxyvitamin D3': ('pobj', ',')}, {'its properties': ('dobj', 'influences')}, {'we': ('nsubj', 'examined')}, {'the ability': ('dobj', 'examined')}, {'both human and mouse CYP27B1': ('pobj', 'of')}, {'1α-hydroxylate six secosteroids': ('pobj', 'to')}, {'CYP11A1': ('pobj', 'by')}]
+ --> 1α-hydroxylation  --> the primary metabolite  --> CYP11A1 action  --> 20S-hydroxyvitamin D3  --> its properties we  --> the ability  --> both human and mouse CYP27B1  --> 1α-hydroxylate six secosteroids  --> CYP11A1
 
 ABCB4 and ABCB1 were mainly distributed in nonraft membranes.
 [{'ABCB4': ('nsubjpass', 'distributed')}, {'ABCB1': ('conj', 'ABCB4')}, {'nonraft membranes': ('pobj', 'in')}]
+ABCB4 and ABCB1   --> nonraft membranes
 
 The expression of ABCB4, but not ABCB1, led to significant increases in the phosphatidylcholine (PC), phosphatidylethanolamine (PE), and sphingomyelin (SM) contents in nonraft membranes and further enrichment of SM and cholesterol in raft membranes.
 [{'The expression': ('nsubj', 'led')}, {'ABCB4': ('pobj', 'of')}, {'not ABCB1': ('conj', 'expression')}, {'significant increases': ('pobj', 'to')}, {'phosphatidylcholine': ('pobj', 'the')}, {'phosphatidylethanolamine': ('conj', 'increases')}, {'PE': ('appos', 'phosphatidylethanolamine')}, {'sphingomyelin (SM) contents': ('conj', 'phosphatidylethanolamine')}, {'nonraft membranes': ('pobj', 'in')}, {'further enrichment': ('conj', 'membranes')}, {'SM': ('pobj', 'of')}, {'cholesterol': ('conj', 'SM')}, {'raft membranes': ('pobj', 'in')}]
+The expression and not ABCB1  --> ABCB4   --> significant increases and phosphatidylethanolamine  --> phosphatidylcholine  and sphingomyelin (SM) contents   and cholesterol  --> nonraft membranes and further enrichment   --> SM   --> raft membranes
 
 In addition, ABCB1 and ABCB4 mediated the efflux of rhodamine 123 and rhodamine 6G from nonraft membranes, which was not affected by taurocholate.
 [{'addition': ('pobj', 'In')}, {'ABCB1': ('nsubj', 'mediated')}, {'ABCB4': ('nsubj', 'mediated')}, {'the efflux': ('dobj', 'mediated')}, {'rhodamine': ('pobj', 'of')}, {'6G': ('dobj', 'rhodamine')}, {'nonraft membranes': ('pobj', 'from')}, {'taurocholate': ('pobj', 'by')}]
+ --> addition ABCB1 ABCB4  --> the efflux  --> rhodamine --> 6G   --> nonraft membranes  --> taurocholate
 
 This propofol inhibition was not observed in AQP1, suggesting the specificity for AQP4.
 [{'This propofol inhibition': ('nsubjpass', 'observed')}, {'AQP1': ('pobj', 'in')}, {'the specificity': ('dobj', 'suggesting')}, {'AQP4': ('pobj', 'for')}]
+This propofol inhibition  --> AQP1  --> the specificity  --> AQP4
 
 In the present work we examined the stability and cellular processing of the Q141K ABCG2 variant, as well as that of the ΔF142 ABCG2, corresponding to the ΔF508 mutation in the CFTR (ABCC7) protein, causing cystic fibrosis.
 [{'the present work': ('pobj', 'In')}, {'we': ('nsubj', 'examined')}, {'the stability': ('dobj', 'examined')}, {'cellular processing': ('conj', 'stability')}, {'the Q141K ABCG2 variant': ('pobj', 'of')}, {'the ΔF142 ABCG2': ('pobj', 'of')}, {'the ΔF508 mutation': ('pobj', 'to')}, {'ABCC7': ('appos', 'CFTR')}, {'cystic fibrosis': ('dobj', 'causing')}]
+ --> the present work we  --> the stability and cellular processing   --> the Q141K ABCG2 variant  --> the ΔF142 ABCG2  --> the ΔF508 mutation   --> cystic fibrosis
 
 ACE2 (angiotensin-converting enzyme 2) counterbalances the actions of ACE (angiotensin-converting enzyme) by metabolizing its catalytic product, the vasoactive and fibrogenic peptide AngII (angiotensin II), into Ang-(1-7) [angiotensin-(1-7)].
 [{'ACE2': ('nsubj', 'counterbalances')}, {'(angiotensin-converting enzyme': ('appos', 'ACE2')}, {'the actions': ('dobj', 'counterbalances')}, {'ACE': ('pobj', 'of')}, {'(angiotensin-converting enzyme': ('appos', 'ACE')}, {'its catalytic product': ('dobj', 'metabolizing')}, {'the vasoactive and fibrogenic peptide': ('appos', 'product')}, {'AngII': ('appos', 'peptide')}, {'(angiotensin II': ('appos', 'AngII')}]
+ACE2   --> the actions  --> ACE   --> its catalytic product   
 
 Here, we report on a patient with a de novo nonsynonymous KCNJ8 SNV (p.V65M) and Cantú syndrome, who tested negative for mutations in ABCC9.
 [{'we': ('nsubj', 'report')}, {'a patient': ('pobj', 'on')}, {'KCNJ8': ('ROOT', 'KCNJ8')}, {'V65M': ('appos', 'p')}, {'who': ('nsubj', 'tested')}, {'mutations': ('pobj', 'for')}, {'ABCC9': ('pobj', 'in')}]
+we  --> a patient   who  --> mutations  --> ABCC9
 
 Our results indicate that ABCG2-ATPase is not modulated by GSH and, in contrast to ABCC1, ABCG2 does not catalyze any significant GSH transport.
 [{'Our results': ('nsubj', 'indicate')}, {'ABCG2-ATPase': ('nsubjpass', 'modulated')}, {'GSH': ('pobj', 'by')}, {'contrast': ('pobj', 'in')}, {'ABCC1': ('pobj', 'to')}, {'ABCG2': ('nsubj', 'catalyze')}, {'any significant GSH transport': ('dobj', 'catalyze')}]
+Our results ABCG2-ATPase  --> GSH  --> contrast  --> ABCC1 ABCG2  --> any significant GSH transport
 
 Inhibitor phenotyping experiments with human liver microsomes validated the central role for CYP2E1 in aniline hydroxylation and indicated minor roles for CYP2A6 and CYP2C9.
 [{'Inhibitor': ('nsubj', 'phenotyping')}, {'experiments': ('dobj', 'phenotyping')}, {'human liver microsomes': ('pobj', 'with')}, {'the central role': ('dobj', 'validated')}, {'CYP2E1': ('pobj', 'for')}, {'aniline hydroxylation': ('pobj', 'in')}, {'minor roles': ('dobj', 'indicated')}, {'CYP2A6': ('pobj', 'for')}]
+Inhibitor  --> experiments  --> human liver microsomes  --> the central role  --> CYP2E1  --> aniline hydroxylation  --> minor roles  --> CYP2A6
 
 Taken together, our results offer an initial glimpse into immune modulation by IDO2, revealing its genetic interaction with IDO1 and distinguishing its non-redundant contributions to inflammation.
 [{'our results': ('nsubj', 'offer')}, {'an initial glimpse': ('dobj', 'offer')}, {'immune modulation': ('pobj', 'into')}, {'IDO2': ('pobj', 'by')}, {'its genetic interaction': ('dobj', 'revealing')}, {'IDO1': ('pobj', 'with')}, {'its non-redundant contributions': ('dobj', 'distinguishing')}, {'inflammation': ('pobj', 'to')}]
+our results  --> an initial glimpse  --> immune modulation  --> IDO2  --> its genetic interaction  --> IDO1  --> its non-redundant contributions  --> inflammation
 
 ABCC1 and ABCG2 are two transporters associated with multi-drug resistance to cancer chemotherapy.
 [{'ABCC1': ('ROOT', 'ABCC1')}, {'ABCG2': ('nsubj', 'are')}, {'two transporters': ('attr', 'are')}, {'multi-drug resistance': ('pobj', 'with')}, {'cancer chemotherapy': ('pobj', 'to')}]
+ ABCG2   --> multi-drug resistance  --> cancer chemotherapy
 
 The present study investigated the effects of physiological concentrations of ouabain on the expression and activity of ABCC1 and ABCG2 in two human breast cancer cell lines, MCF7 and MDA-MB-231, the first known to be responsive to estrogens.
 [{'The present study': ('nsubj', 'investigated')}, {'the effects': ('dobj', 'investigated')}, {'physiological concentrations': ('pobj', 'of')}, {'ouabain': ('pobj', 'of')}, {'the expression': ('pobj', 'on')}, {'activity': ('conj', 'expression')}, {'ABCC1': ('pobj', 'of')}, {'ABCG2': ('conj', 'ABCC1')}, {'two human breast cancer cell lines': ('pobj', 'in')}, {'MCF7': ('conj', 'lines')}, {'MDA-MB-231': ('conj', 'MCF7')}, {'estrogens': ('pobj', 'to')}]
+The present study  --> the effects  --> physiological concentrations  --> ouabain  --> the expression and activity   --> ABCC1 and ABCG2   --> two human breast cancer cell lines and MCF7  and MDA-MB-231   --> estrogens
 
 Treatment of cells under different ouabain concentrations for 24 h did not cause any significant effects in the expression of ABCG2 or ABCC1 in either cell line.
 [{'Treatment': ('nsubj', 'cause')}, {'cells': ('pobj', 'of')}, {'different ouabain concentrations': ('pobj', 'under')}, {'24 h': ('pobj', 'for')}, {'any significant effects': ('dobj', 'cause')}, {'the expression': ('pobj', 'in')}, {'ABCG2': ('pobj', 'of')}, {'ABCC1': ('conj', 'ABCG2')}, {'either cell line': ('pobj', 'in')}]
+Treatment  --> cells  --> different ouabain concentrations  --> 24 h  --> any significant effects  --> the expression  --> ABCG2 and ABCC1   --> either cell line
 
 By changing the hepatic UC pool available for ABCA1, ACAT2 may affect HDL metabolism.
 [{'the hepatic UC pool': ('dobj', 'changing')}, {'ABCA1': ('pobj', 'for')}, {'ACAT2': ('nsubj', 'affect')}, {'HDL metabolism': ('dobj', 'affect')}]
+ --> the hepatic UC pool  --> ABCA1 ACAT2  --> HDL metabolism
 
 Their inhibitory activities against AKR1B10 and AKR1B1 were measured.
 [{'Their inhibitory activities': ('nsubjpass', 'measured')}, {'AKR1B10': ('pobj', 'against')}, {'AKR1B1': ('conj', 'AKR1B10')}]
+Their inhibitory activities  --> AKR1B10 and AKR1B1 
 
 CYP11B1 and CYP11B2 play pivotal roles in adrenocorticosteroids synthesis.
 [{'CYP11B1': ('nsubj', 'play')}, {'CYP11B2': ('conj', 'CYP11B1')}, {'pivotal roles': ('dobj', 'play')}, {'adrenocorticosteroids synthesis': ('pobj', 'in')}]
+CYP11B1 and CYP11B2   --> pivotal roles  --> adrenocorticosteroids synthesis
 
 In APA, heterogenous immunolocalization of CYP11B2 and diffuse immunoreactivity of CYP11B1 were detected in tumor cells, respectively.
 [{'APA': ('pobj', 'In')}, {', heterogenous immunolocalization': ('nsubjpass', 'detected')}, {'CYP11B2': ('pobj', 'of')}, {'diffuse': ('conj', 'CYP11B2')}, {'immunoreactivity': ('pobj', 'of')}, {'CYP11B1': ('pobj', 'of')}, {'tumor cells': ('pobj', 'in')}]
+ --> APA , heterogenous immunolocalization  --> CYP11B2 and diffuse   --> immunoreactivity  --> CYP11B1  --> tumor cells
 
 Four variants (including rs505922) in ABO, and allelic blood group A (AO+AA, odds ratio=1.84, 95%CI=1.20-2.80) were associated with diffuse-type GC; however, conditional models with other ABO variants indicated that the associations were largely due to allelic blood group A. One variant in FUT5 was also associated with diffuse-type GC, and four variants (and haplotypes) in FUT2 (Se), FUT3 (Le) and FUT6 with intestinal-type GC.
 [{'Four variants': ('nsubjpass', 'associated')}, {'rs505922': ('pobj', 'including')}, {'ABO': ('pobj', 'in')}, {'allelic blood group': ('conj', 'variants')}, {'A (AO+AA, odds ratio=1.84': ('appos', 'group')}, {'diffuse-type GC': ('pobj', 'with')}, {'conditional models': ('nsubj', 'indicated')}, {'other ABO variants': ('pobj', 'with')}, {'the associations': ('nsubj', 'were')}, {'allelic blood group A. One variant': ('nsubjpass', 'associated')}, {'FUT5': ('pobj', 'in')}, {'diffuse-type GC': ('pobj', 'with')}, {'four variants': ('conj', 'GC')}, {'haplotypes': ('conj', 'variants')}, {'FUT2': ('pobj', 'in')}, {'(Se': ('appos', 'FUT2')}, {'FUT3': ('conj', 'FUT2')}, {'(Le': ('appos', 'FUT3')}, {'FUT6': ('conj', 'FUT3')}, {'intestinal-type GC': ('pobj', 'with')}]
+Four variants and allelic blood group and haplotypes  --> rs505922  --> ABO    --> diffuse-type GC and four variants conditional models  --> other ABO variants the associations allelic blood group A. One variant  --> FUT5  --> diffuse-type GC    --> FUT2 and FUT3   and FUT6    --> intestinal-type GC
 
 Further, one variant in ABO, two in FUT3 and two in FUT6 were associated with H. pylori infection status in controls, and two of these (in FUT3 and FUT6) were weakly associated with intestinal-type GC risk.
 [{'one variant': ('nsubjpass', 'associated')}, {'ABO': ('pobj', 'in')}, {'FUT3': ('pobj', 'in')}, {'FUT6': ('pobj', 'in')}, {'H. pylori infection status': ('pobj', 'with')}, {'controls': ('pobj', 'in')}, {'FUT3': ('pobj', 'in')}, {'FUT6': ('conj', 'FUT3')}, {'intestinal-type GC risk': ('pobj', 'with')}]
+one variant  --> ABO  --> FUT3 and FUT6  --> FUT6  --> H. pylori infection status  --> controls  --> FUT3   --> intestinal-type GC risk
 
 ABCD1 and ABCD2 are two closely related ATP-binding cassette half-transporters predicted to homodimerize and form peroxisomal importers for fatty acyl-CoAs.
 [{'ABCD1': ('nsubj', 'are')}, {'ABCD2': ('conj', 'ABCD1')}, {'two closely related ATP-binding cassette half-transporters': ('attr', 'are')}, {'peroxisomal importers': ('dobj', 'form')}, {'fatty acyl-CoAs': ('pobj', 'for')}]
+ABCD1 and ABCD2    --> peroxisomal importers  --> fatty acyl-CoAs
 
 Available evidence has shown that ABCD1 and ABCD2 display a distinct but overlapping substrate specificity, although much remains to be learned in this respect as well as in their capability to form functional heterodimers.
 [{'Available evidence': ('nsubj', 'shown')}, {'ABCD1': ('nsubj', 'display')}, {'ABCD2': ('conj', 'ABCD1')}, {'a distinct but overlapping substrate specificity': ('dobj', 'display')}, {'this respect': ('pobj', 'in')}, {'their capability': ('pobj', 'in')}, {'functional heterodimers': ('dobj', 'form')}]
+Available evidence ABCD1 and ABCD2   --> a distinct but overlapping substrate specificity  --> this respect  --> their capability  --> functional heterodimers
 
 Our data demonstrate for the first time that both homo- and heterodimers of ABCD1 and ABCD2 are functionally active.
 [{'Our data': ('nsubj', 'demonstrate')}, {'the first time': ('pobj', 'for')}, {'both homo- and heterodimers': ('nsubj', 'are')}, {'ABCD1': ('pobj', 'of')}, {'ABCD2': ('conj', 'ABCD1')}]
+Our data  --> the first time both homo- and heterodimers  --> ABCD1 and ABCD2 
 
 TYR (Tyrosinase) and TYRP1 (Tyrosinase-related protein 1) play crucial roles in determining the coat color of birds.
 [{'TYR': ('nsubj', 'play')}, {'(Tyrosinase': ('appos', 'TYR')}, {'TYRP1': ('conj', 'TYR')}, {'Tyrosinase-related protein': ('appos', 'TYRP1')}, {'crucial roles': ('dobj', 'play')}, {'the coat color': ('dobj', 'determining')}, {'birds': ('pobj', 'of')}]
+TYR and TYRP1     --> crucial roles  --> the coat color  --> birds
 
 This study suggested that the melanic plumage color in Korean quails may be associated with either increased production of TYR or decreased production of TYRP1.
 [{'This study': ('nsubj', 'suggested')}, {'the melanic plumage color': ('nsubjpass', 'associated')}, {'Korean quails': ('pobj', 'in')}, {'either increased production': ('pobj', 'with')}, {'TYR': ('pobj', 'of')}, {'production': ('dobj', 'decreased')}, {'TYRP1': ('pobj', 'of')}]
+This study the melanic plumage color  --> Korean quails  --> either increased production  --> TYR  --> production  --> TYRP1
 
 PIGF forms a heterodimer with either PIGG or PIGO, two enzymes that transfer an EtNP to the second or third mannoses of GPI respectively.
 [{'PIGF': ('nsubj', 'forms')}, {'a heterodimer': ('dobj', 'forms')}, {'either PIGG': ('pobj', 'with')}, {'PIGO': ('conj', 'PIGG')}, {'an EtNP': ('dobj', 'transfer')}, {'the second or third mannoses': ('pobj', 'to')}, {'GPI': ('pobj', 'of')}]
+PIGF  --> a heterodimer  --> either PIGG and PIGO   --> an EtNP  --> the second or third mannoses  --> GPI
 
 Heterodimer formation is essential for stable and regulated expression of PIGO and PIGG, but the functional significance of PIGF remains obscure.
 [{'Heterodimer formation': ('nsubj', 'is')}, {'stable and regulated expression': ('pobj', 'for')}, {'PIGO': ('pobj', 'of')}, {'PIGG': ('conj', 'PIGO')}, {'the functional significance': ('nsubj', 'remains')}, {'PIGF': ('pobj', 'of')}]
+Heterodimer formation  --> stable and regulated expression  --> PIGO and PIGG  the functional significance  --> PIGF
 
 In the present study, we show that PIGF binds to PIGO and PIGG through distinct molecular domains.
 [{'the present study': ('pobj', 'In')}, {'we': ('nsubj', 'show')}, {'that PIGF binds': ('dobj', 'show')}, {'PIGO': ('pobj', 'to')}, {'PIGG': ('conj', 'PIGO')}, {'distinct molecular domains': ('pobj', 'through')}]
+ --> the present study we  --> that PIGF binds  --> PIGO and PIGG   --> distinct molecular domains
 
 Strikingly, C-terminal half of PIGF was sufficient for its binding to PIGO and PIGG and yet this truncation mutant could not complement the PIGF defective mutant cells, suggesting that heterodimer formation is not sufficient for PIGF function.
 [{'C-terminal half': ('nsubj', 'was')}, {'PIGF': ('pobj', 'of')}, {'its binding': ('pobj', 'for')}, {'PIGO': ('pobj', 'to')}, {'PIGG': ('conj', 'PIGO')}, {'this truncation mutant': ('nsubj', 'complement')}, {'the PIGF defective mutant cells': ('dobj', 'complement')}, {'heterodimer formation': ('nsubj', 'is')}, {'PIGF function': ('pobj', 'for')}]
+C-terminal half  --> PIGF  --> its binding  --> PIGO and PIGG  this truncation mutant  --> the PIGF defective mutant cells heterodimer formation  --> PIGF function
 
 Furthermore, we identified a highly conserved motif in PIGF and demonstrated that the motif is not involved in binding to PIGO or PIGG, but critical for its function.
 [{'we': ('nsubj', 'identified')}, {'a highly conserved motif': ('dobj', 'identified')}, {'PIGF': ('pobj', 'in')}, {'the motif': ('nsubjpass', 'involved')}, {'PIGO': ('pobj', 'to')}, {'PIGG': ('conj', 'PIGO')}, {'its function': ('pobj', 'for')}]
+we  --> a highly conserved motif  --> PIGF the motif  --> PIGO and PIGG   --> its function
 
 These studies demonstrate that intratumoural MVD (microvessels density) may not accurately represent the angiogenic capacity of STS.
 [{'These studies': ('nsubj', 'demonstrate')}, {'intratumoural MVD': ('nsubj', 'represent')}, {'microvessels density': ('appos', 'MVD')}, {'the angiogenic capacity': ('dobj', 'represent')}, {'STS': ('pobj', 'of')}]
+These studies intratumoural MVD   --> the angiogenic capacity  --> STS
 
 Finally, we analyzed INPP5B, a paralogous gene already reported to exhibit functional redundancy with OCRL, and report neither differences in its expression at RNA or protein levels, nor specific allelic variations between fibroblasts of patients.
 [{'we': ('nsubj', 'analyzed')}, {'INPP5B': ('dobj', 'analyzed')}, {'a paralogous gene': ('nsubj', 'reported')}, {'functional redundancy': ('dobj', 'exhibit')}, {'OCRL': ('pobj', 'with')}, {'neither differences': ('dobj', 'report')}, {'its expression': ('pobj', 'in')}, {'RNA': ('pobj', 'at')}, {'protein levels': ('conj', 'RNA')}, {'specific allelic variations': ('conj', 'differences')}, {'fibroblasts': ('pobj', 'between')}, {'patients': ('pobj', 'of')}]
+we  --> INPP5B a paralogous gene  --> functional redundancy  --> OCRL  --> neither differences and specific allelic variations  --> its expression  --> RNA and protein levels    --> fibroblasts  --> patients
 
 Recently, in the cephalochordate amphioxus a primitive CD36 family member was described, which was present before the divergence of CD36 from other scavenger receptor B family members, SCARB1 and SCARB2.
 [{'a primitive CD36 family member': ('nsubjpass', 'described')}, {'the divergence': ('pobj', 'before')}, {'CD36': ('pobj', 'of')}, {'other scavenger receptor B family members': ('pobj', 'from')}, {'SCARB1': ('conj', 'members')}, {'SCARB2': ('conj', 'SCARB1')}]
+a primitive CD36 family member  --> the divergence  --> CD36  --> other scavenger receptor B family members and SCARB1  and SCARB2 
 
 ABCG5 (G5) and ABCG8 (G8) form a sterol transporter that acts in liver and intestine to prevent accumulation of dietary sterols.
 [{'ABCG5': ('nsubj', 'form')}, {'(G5': ('appos', 'ABCG5')}, {'ABCG8': ('conj', 'G5')}, {'G8': ('appos', 'ABCG8')}, {'a sterol transporter': ('dobj', 'form')}, {'liver': ('pobj', 'in')}, {'intestine': ('conj', 'liver')}, {'accumulation': ('dobj', 'prevent')}, {'dietary sterols': ('pobj', 'of')}]
+ABCG5 and ABCG8     --> a sterol transporter  --> liver and intestine   --> accumulation  --> dietary sterols
 
 IDO2 is a relative of IDO1 implicated in tryptophan catabolism and immune modulation but its specific contributions to normal physiology and pathophysiology are not known.
 [{'IDO2': ('nsubj', 'is')}, {'a relative': ('nsubjpass', 'known')}, {'IDO1': ('pobj', 'of')}, {'tryptophan catabolism': ('pobj', 'in')}, {'immune modulation': ('conj', 'catabolism')}, {'its specific contributions': ('conj', 'catabolism')}, {'normal physiology': ('pobj', 'to')}, {'pathophysiology': ('conj', 'physiology')}]
+IDO2 a relative  --> IDO1  --> tryptophan catabolism and immune modulation and its specific contributions    --> normal physiology and pathophysiology 
 
 Evolutionary genetic studies suggest that IDO2 has a unique function ancestral to IDO1.
 [{'Evolutionary genetic studies': ('nsubj', 'suggest')}, {'IDO2': ('nsubj', 'has')}, {'a unique function': ('dobj', 'has')}, {'IDO1': ('pobj', 'to')}]
+Evolutionary genetic studies IDO2  --> a unique function  --> IDO1
 
 Gene expression studies indicate that IDO2 is a basally and more narrowly expressed gene than IDO1 and that IDO2 is uniquely regulated by AhR, which serves as a physiological receptor for the tryptophan catabolite kynurenine.
 [{'Gene expression studies': ('nsubj', 'indicate')}, {'IDO2': ('nsubj', 'is')}, {'a basally and more narrowly expressed gene': ('attr', 'is')}, {'IDO1': ('pobj', 'than')}, {'IDO2': ('nsubjpass', 'regulated')}, {'AhR': ('pobj', 'by')}, {'a physiological receptor': ('pobj', 'as')}, {'the tryptophan catabolite kynurenine': ('pobj', 'for')}]
+Gene expression studies IDO2   --> IDO1 IDO2  --> AhR  --> a physiological receptor  --> the tryptophan catabolite kynurenine
 
 We suggest that IDO2 may act in a distinct manner from IDO1 as a set-point for tolerance to "altered-self" antigens along the self-non-self continuum where immune challenges from cancer and autoimmunity may arise.
 [{'We': ('nsubj', 'suggest')}, {'IDO2': ('nsubj', 'act')}, {'a distinct manner': ('pobj', 'in')}, {'IDO1': ('pobj', 'from')}, {'a set-point': ('pobj', 'as')}, {'tolerance': ('pobj', 'for')}, {'"altered-self" antigens': ('pobj', 'to')}, {'the self-non-self continuum': ('pobj', 'along')}, {'immune challenges': ('nsubj', 'arise')}, {'cancer': ('pobj', 'from')}, {'autoimmunity': ('conj', 'cancer')}]
+We IDO2  --> a distinct manner  --> IDO1  --> a set-point  --> tolerance  --> "altered-self" antigens  --> the self-non-self continuum immune challenges  --> cancer and autoimmunity 
 
 Moreover, we found that UGGT2, an isoform UGGT1, is also capable of glucosylating these synthetic substrates.
 [{'we': ('nsubj', 'found')}, {'UGGT2': ('nsubj', 'is')}, {'an isoform UGGT1': ('appos', 'UGGT2')}, {'these synthetic substrates': ('dobj', 'glucosylating')}]
+we UGGT2   --> these synthetic substrates
 
 PAPSS2 (PAPS synthase 2) provides the universal sulfate donor PAPS (3'-phospho-adenosine-5'-phosphosulfate) to all human sulfotransferases, including SULT2A1, responsible for sulfation of the crucial androgen precursor dehydroepiandrosterone (DHEA).
 [{'PAPSS2': ('nsubj', 'provides')}, {'PAPS synthase': ('appos', 'PAPSS2')}, {'the universal sulfate donor PAPS': ('dobj', 'provides')}, {"3'-phospho-adenosine-5'-phosphosulfate": ('appos', 'PAPS')}, {'all human sulfotransferases': ('pobj', 'to')}, {'SULT2A1': ('pobj', 'including')}, {'sulfation': ('pobj', 'for')}, {'the crucial androgen precursor': ('pobj', 'of')}, {'dehydroepiandrosterone': ('appos', 'precursor')}]
+PAPSS2   --> the universal sulfate donor PAPS   --> all human sulfotransferases  --> SULT2A1  --> sulfation  --> the crucial androgen precursor 
 
 Metabolites generated by ALOX12 and ALOX15 can activate the expression of the potent pro-inflammatory cytokine IL-6, and produce endogenous ligands for PPARG.
 [{'Metabolites': ('nsubj', 'activate')}, {'ALOX12': ('pobj', 'by')}, {'ALOX15': ('conj', 'ALOX12')}, {'the expression': ('dobj', 'activate')}, {'the potent pro-inflammatory cytokine': ('pobj', 'of')}, {'endogenous ligands': ('dobj', 'produce')}, {'PPARG': ('pobj', 'for')}]
+Metabolites  --> ALOX12 and ALOX15   --> the expression  --> the potent pro-inflammatory cytokine  --> endogenous ligands  --> PPARG
 
 CYP11B1 and CYP11B2 are highly homologous genes that can form chimera following unequal crossing-over during meiosis.
 [{'CYP11B1': ('nsubj', 'are')}, {'CYP11B2': ('conj', 'CYP11B1')}, {'highly homologous genes': ('attr', 'are')}, {'chimera': ('dobj', 'form')}, {'unequal crossing': ('pobj', 'following')}, {'meiosis': ('pobj', 'during')}]
+CYP11B1 and CYP11B2    --> chimera  --> unequal crossing  --> meiosis
 
 We found that patient 1 and patient 2 harbored novel homozygotic chimeric CYP11B2/CYP11B1 genes consisting of the promoter, exons 1-6 of CYP11B2, and exons 7-9 of CYP11B1.
 [{'We': ('nsubj', 'found')}, {'patient 1 and patient 2 harbored novel homozygotic chimeric CYP11B2/CYP11B1 genes': ('nsubj', 'exons')}, {'the promoter': ('pobj', 'of')}, {'CYP11B2': ('pobj', 'of')}, {'CYP11B1': ('pobj', 'of')}]
+We patient 1 and patient 2 harbored novel homozygotic chimeric CYP11B2/CYP11B1 genes  --> the promoter  --> CYP11B2  --> CYP11B1
 
 Patient 3 had compound heterozygotic mutation with one allele containing the promoter and exons 1-6 of CYP11B2 and exons 7-9 of CYP11B1, and the other allele comprising novel, previously undescribed p.W56X (c.168G>A) mutation in exon 1 of CYP11B1.
 [{'Patient': ('nsubj', 'had')}, {'heterozygotic mutation': ('dobj', 'compound')}, {'the promoter': ('dobj', 'containing')}, {'exons': ('conj', 'promoter')}, {'CYP11B2': ('pobj', 'of')}, {'CYP11B1': ('pobj', 'of')}, {'the other allele': ('nsubj', 'comprising')}, {'novel': ('dobj', 'comprising')}, {'previously undescribed p.W56X': ('conj', 'novel')}, {'(c.168G>A) mutation': ('ROOT', 'mutation')}, {'exon': ('pobj', 'in')}, {'CYP11B1': ('pobj', 'of')}]
+Patient  --> heterozygotic mutation  --> the promoter and exons   --> CYP11B2  --> CYP11B1 the other allele  --> novel and previously undescribed p.W56X    --> exon  --> CYP11B1
 
 CYP1A2 and CYP2A6 are polymorphic enzymes that metabolise several compounds of clinical importance.
 [{'CYP1A2': ('nsubj', 'are')}, {'CYP2A6': ('nsubj', 'are')}, {'polymorphic enzymes': ('attr', 'are')}, {'several compounds': ('dobj', 'metabolise')}, {'clinical importance': ('pobj', 'of')}]
+CYP1A2 CYP2A6   --> several compounds  --> clinical importance
 
 SLC2A9 encodes a UA transporter present in the proximal tubule of the kidney, and gene expression levels of SLC2A9 and other genes in the uricosuric pathway (ABCG2, SLC17A1, SLC17A3, and SLC22A12) could potentially mediate the relationship between SLC2A9 gene variants and urinary UA excretion.
 [{'SLC2A9': ('nsubj', 'encodes')}, {'a UA transporter': ('dobj', 'encodes')}, {'the proximal tubule': ('pobj', 'in')}, {'the kidney': ('pobj', 'of')}, {'gene expression levels': ('nsubj', 'mediate')}, {'SLC2A9 and other genes': ('pobj', 'of')}, {'the uricosuric pathway': ('pobj', 'in')}, {'SLC17A3': ('conj', 'SLC17A1')}, {'SLC22A12': ('conj', 'SLC17A3')}, {'the relationship': ('dobj', 'mediate')}, {'SLC2A9 gene variants': ('pobj', 'between')}, {'urinary UA excretion': ('conj', 'variants')}]
+SLC2A9  --> a UA transporter  --> the proximal tubule  --> the kidney gene expression levels  --> SLC2A9 and other genes  --> the uricosuric pathway  and SLC17A3 and SLC22A12   --> the relationship  --> SLC2A9 gene variants and urinary UA excretion 
 
 We previously showed that, during pig development, the fold change of DGAT2 mRNA in backfat tissue is much higher than that of DGAT1, implying that DGAT2 is more important in regulating porcine fat deposition.
 [{'We': ('nsubj', 'showed')}, {'pig development': ('pobj', 'during')}, {'the fold change': ('nsubj', 'is')}, {'backfat tissue': ('pobj', 'in')}, {'DGAT1': ('pobj', 'of')}, {'DGAT2': ('nsubj', 'is')}, {'porcine fat deposition': ('dobj', 'regulating')}]
+We  --> pig development the fold change  --> backfat tissue  --> DGAT1 DGAT2  --> porcine fat deposition
 
 UCP1 and UCP3 are members of the uncoupling protein (UCP) subfamily and are localized in the inner mitochondrial membrane.
 [{'UCP1': ('nsubj', 'are')}, {'UCP3': ('conj', 'UCP1')}, {'members': ('attr', 'are')}, {'the uncoupling protein': ('pobj', 'of')}, {'UCP': ('appos', 'protein')}, {'the inner mitochondrial membrane': ('pobj', 'in')}]
+UCP1 and UCP3    --> the uncoupling protein   --> the inner mitochondrial membrane
 
 In this work, we tested whether any correlation exists between the expression of UCP1 and UCP3 in BAT by quantification of protein amounts in mouse tissues at physiological conditions, in cold-acclimated and UCP1 knockout mice.
 [{'this work': ('pobj', 'In')}, {'we': ('nsubj', 'tested')}, {'any correlation': ('nsubj', 'exists')}, {'the expression': ('pobj', 'between')}, {'UCP1': ('pobj', 'of')}, {'UCP3': ('conj', 'UCP1')}, {'BAT': ('pobj', 'in')}, {'quantification': ('pobj', 'by')}, {'protein': ('pobj', 'of')}, {'mouse tissues': ('pobj', 'in')}, {'physiological conditions': ('pobj', 'at')}, {'cold-acclimated and UCP1 knockout mice': ('pobj', 'in')}]
+ --> this work we any correlation  --> the expression  --> UCP1 and UCP3   --> BAT  --> quantification  --> protein  --> mouse tissues  --> physiological conditions  --> cold-acclimated and UCP1 knockout mice
 
 Our results do not support the participation of UCP3 in thermogenesis in the absence of UCP1 in BAT, but clearly demonstrate the correlation in abundance between both proteins.
 [{'Our results': ('nsubj', 'support')}, {'the participation': ('dobj', 'support')}, {'UCP3': ('pobj', 'of')}, {'thermogenesis': ('pobj', 'in')}, {'the absence': ('pobj', 'in')}, {'UCP1': ('pobj', 'of')}, {'BAT': ('pobj', 'in')}, {'the correlation': ('dobj', 'demonstrate')}, {'abundance': ('pobj', 'in')}, {'both proteins': ('pobj', 'between')}]
+Our results  --> the participation  --> UCP3  --> thermogenesis  --> the absence  --> UCP1  --> BAT  --> the correlation  --> abundance  --> both proteins
 
 In this study, we assessed whether animals consciously perceive a ligand of CD36, 1-(palmitoyl)-2-(5-keto-6-octanedioyl)phosphatidylcholine (KOdiA-PC), and if so, whether CD36 is involved in sensing the oxidised phospholipid species.
 [{'this study': ('pobj', 'In')}, {'we': ('nsubj', 'assessed')}, {'animals': ('nsubj', 'perceive')}, {'a ligand': ('dobj', 'perceive')}, {'CD36': ('pobj', 'of')}, {'1-(palmitoyl)-2-(5-keto-6-octanedioyl)phosphatidylcholine (KOdiA-PC': ('appos', 'CD36')}, {'CD36': ('nsubjpass', 'involved')}, {'the oxidised phospholipid species': ('dobj', 'sensing')}]
+ --> this study we animals  --> a ligand  --> CD36  CD36  --> the oxidised phospholipid species
 
 All recipients were genotyped for CYP3A5 (6986A>G), CYP3A4 intron 6 (CYP3A4*22), CYP3A4*18, ABCB1 exon 26 (3435C>T), exon 12 (1236C>T) and 2677G>T/A SNPs by HRM analysis (high-resolution melting curve analysis).
 [{'All recipients': ('nsubjpass', 'genotyped')}, {'CYP3A5': ('pobj', 'for')}, {'(6986A': ('ROOT', '6986A')}, {'CYP3A4 intron 6 (CYP3A4*22), CYP3A4*18, ABCB1': ('nsubj', 'exon')}, {'(3435C': ('appos', '26')}, {'>T': ('ROOT', 'T')}, {'exon': ('appos', 'T')}, {'T': ('appos', '1236C')}, {'>T/A SNPs': ('ROOT', 'SNPs')}, {'HRM analysis': ('pobj', 'by')}, {'high-resolution melting curve analysis': ('appos', 'analysis')}]
+All recipients  --> CYP3A5  CYP3A4 intron 6 (CYP3A4*22), CYP3A4*18, ABCB1       --> HRM analysis 
 
 PLA2G7 encodes Lp-PLA2 having role in the formation of atherosclerotic plaques by catalyzing its substrate, phosphatydilcholine (PC), to be pro-inflammatory substances.
 [{'PLA2G7': ('nsubj', 'encodes')}, {'role': ('dobj', 'having')}, {'the formation': ('pobj', 'in')}, {'atherosclerotic plaques': ('pobj', 'of')}, {'its substrate': ('dobj', 'catalyzing')}, {'phosphatydilcholine': ('conj', 'substrate')}, {'(PC': ('appos', 'phosphatydilcholine')}, {'pro-inflammatory substances': ('attr', 'be')}]
+PLA2G7  --> role  --> the formation  --> atherosclerotic plaques  --> its substrate and phosphatydilcholine   
 
 Epidemiological data was collected by a standard questionnaire and presence or absence of GSTM1 and GSTT1 gene was observed by multiplex PCR using CYP1A1 as housekeeping gene.
 [{'Epidemiological data': ('nsubjpass', 'collected')}, {'a standard questionnaire': ('pobj', 'by')}, {'presence': ('conj', 'questionnaire')}, {'absence': ('conj', 'presence')}, {'GSTM1': ('pobj', 'of')}, {'GSTT1 gene': ('conj', 'GSTM1')}, {'multiplex PCR': ('pobj', 'by')}, {'CYP1A1': ('dobj', 'using')}, {'housekeeping gene': ('pobj', 'as')}]
+Epidemiological data  --> a standard questionnaire and presence  and absence   --> GSTM1 and GSTT1 gene   --> multiplex PCR  --> CYP1A1  --> housekeeping gene
 
 BCAT1, which encodes a branched-chain amino acid transaminase, was identified as one of the target genes controlled by DOT1L through the regulation of H3K79 methylation.
 [{'BCAT1': ('nsubjpass', 'identified')}, {'a branched-chain amino acid transaminase': ('dobj', 'encodes')}, {'the target genes': ('pobj', 'of')}, {'DOT1L': ('pobj', 'by')}, {'the regulation': ('pobj', 'through')}, {'H3K79 methylation': ('pobj', 'of')}]
+BCAT1  --> a branched-chain amino acid transaminase  --> the target genes  --> DOT1L  --> the regulation  --> H3K79 methylation
 
 IDH1 and IDH2 are homodimeric enzymes that catalyze the conversion of isocitrate to α-ketoglutarate (α-KG) and concomitantly produce reduced NADPH from NADP(+) Mutations in the genes encoding IDH1 and IDH2 have recently been found in a variety of human cancers, most commonly glioma, acute myeloid leukemia (AML), chondrosarcoma, and intrahepatic cholangiocarcinoma.
 [{'IDH1': ('nsubj', 'are')}, {'IDH2': ('conj', 'IDH1')}, {'homodimeric enzymes': ('attr', 'are')}, {'the conversion': ('dobj', 'catalyze')}, {'isocitrate': ('pobj', 'of')}, {'α-ketoglutarate': ('pobj', 'to')}, {'α-KG': ('appos', 'ketoglutarate')}, {'reduced NADPH': ('dobj', 'produce')}, {'NADP(+': ('pobj', 'from')}, {') Mutations': ('pobj', 'from')}, {'the genes': ('pobj', 'in')}, {'IDH1': ('dobj', 'encoding')}, {'IDH2': ('conj', 'IDH1')}, {'a variety': ('pobj', 'in')}, {'human cancers': ('pobj', 'of')}, {'most commonly glioma': ('appos', 'are')}, {'acute myeloid leukemia': ('conj', 'glioma')}, {'AML': ('appos', 'leukemia')}, {'chondrosarcoma': ('conj', 'leukemia')}, {'intrahepatic cholangiocarcinoma': ('conj', 'chondrosarcoma')}]
+IDH1 and IDH2 and IDH2    --> the conversion  --> isocitrate  --> α-ketoglutarate   --> reduced NADPH  --> NADP(+  --> ) Mutations  --> the genes  --> IDH1   --> a variety  --> human cancers  and acute myeloid leukemia  and chondrosarcoma   and intrahepatic cholangiocarcinoma 
 
 The inventory of identified BetaM interactors includes lamina-associated protein LAP-1, myocyte nuclear envelope protein Syne1, BetaM itself, heme oxidases HMOX1 and HMOX2; transcription factor LZIP/CREB3, ERGIC3, PHF3, reticulocalbin-3, and β-sarcoglycan.
 [{'The inventory': ('nsubj', 'includes')}, {'identified BetaM interactors': ('pobj', 'of')}, {'lamina-associated protein LAP-1': ('dobj', 'includes')}, {'itself': ('appos', 'BetaM')}, {'heme': ('nsubj', 'oxidases')}, {'HMOX1': ('dobj', 'oxidases')}, {'HMOX2': ('conj', 'HMOX1')}, {'transcription factor LZIP/CREB3': ('ROOT', 'CREB3')}]
+The inventory  --> identified BetaM interactors  --> lamina-associated protein LAP-1  heme  --> HMOX1 and HMOX2  
 
 Subjects underwent PET scans under conditions when ABCB1 and ABCG2 were functional and during ABCB1 inhibition with high-dose tariquidar.
 [{'Subjects underwent PET scans': ('ROOT', 'scans')}, {'conditions': ('pobj', 'under')}, {'ABCB1': ('nsubj', 'were')}, {'ABCG2': ('conj', 'ABCB1')}, {'ABCB1 inhibition': ('pobj', 'during')}, {'high-dose tariquidar': ('pobj', 'with')}]
+  --> conditions ABCB1 and ABCG2   --> ABCB1 inhibition  --> high-dose tariquidar
 
 EGFR inhibitors synergized with TCDD and resulted in transient CYP1A1 and CYP1A2 mRNA accumulations ∼8-fold greater (maximum at 5 hours) than that achieved with only TCDD.
 [{'EGFR inhibitors': ('nsubj', 'synergized')}, {'TCDD': ('pobj', 'with')}, {'transient CYP1A1': ('pobj', 'in')}, {'and CYP1A2': ('pobj', 'CYP1A1')}, {'mRNA accumulations': ('ROOT', 'accumulations')}, {'greater (maximum': ('appos', 'accumulations')}, {'5 hours': ('pobj', 'at')}, {'only TCDD': ('pobj', 'with')}]
+EGFR inhibitors  --> TCDD  --> transient CYP1A1  --> and CYP1A2    --> 5 hours  --> only TCDD
 
 Our goal was to explore the relationships between GSTM1 deletion polymorphism and single nucleotide polymorphisms (SNPs) in the region of the GSTM cluster that includes GSTM2, GSTM3, GSTM4, and GSTM5 in addition to GSTM1.
 [{'Our goal': ('nsubj', 'was')}, {'the relationships': ('dobj', 'explore')}, {'GSTM1 deletion polymorphism': ('pobj', 'between')}, {'single nucleotide polymorphisms': ('conj', 'polymorphism')}, {'SNPs': ('appos', 'polymorphisms')}, {'the region': ('pobj', 'in')}, {'the GSTM cluster': ('pobj', 'of')}, {'GSTM2': ('dobj', 'includes')}, {'GSTM4': ('conj', 'GSTM2')}, {'GSTM5': ('conj', 'GSTM2')}, {'addition': ('pobj', 'in')}, {'GSTM1': ('pobj', 'to')}]
+Our goal  --> the relationships  --> GSTM1 deletion polymorphism and single nucleotide polymorphisms    --> the region  --> the GSTM cluster  --> GSTM2 and GSTM4 and GSTM5    --> addition  --> GSTM1
 
 Meanwhile, we examined the genetic polymorphisms, including ALDH2, EXPH1, GSTM1, GSTT1 and CYP2E1, and also analyzed the levels of styrene exposure through detecting urinary styrene metabolites and styrene concentration in air.
 [{'we': ('nsubj', 'examined')}, {'the genetic polymorphisms': ('dobj', 'examined')}, {'ALDH2': ('pobj', 'including')}, {'EXPH1': ('appos', 'ALDH2')}, {'GSTM1': ('conj', 'ALDH2')}, {'GSTT1': ('conj', 'GSTM1')}, {'the levels': ('dobj', 'analyzed')}, {'styrene exposure': ('pobj', 'of')}, {'urinary styrene metabolites': ('dobj', 'detecting')}, {'styrene concentration': ('conj', 'metabolites')}, {'air': ('pobj', 'in')}]
+we  --> the genetic polymorphisms  --> ALDH2 and GSTM1   and GSTT1   --> the levels  --> styrene exposure  --> urinary styrene metabolites and styrene concentration   --> air
 
 Although other family members e.g., ABCA1 and ABCC7 have been shown to function as oligomers, the oligomerization state of ABCA3 is unknown.
 [{'other family members': ('nsubjpass', 'shown')}, {'ABCA1': ('nsubjpass', 'shown')}, {'oligomers': ('pobj', 'as')}, {'the oligomerization state': ('nsubj', 'is')}, {'ABCA3': ('pobj', 'of')}]
+other family members ABCA1  --> oligomers the oligomerization state  --> ABCA3
 
 Microarray analysis indicated that expression of WWOX and CADM1, tumor suppressor genes, was significantly enhanced in MKN74 cells after SETDB2 knockdown.
 [{'Microarray analysis': ('nsubj', 'indicated')}, {'expression': ('nsubjpass', 'enhanced')}, {'WWOX': ('pobj', 'of')}, {'CADM1': ('conj', 'WWOX')}, {'tumor suppressor genes': ('appos', 'expression')}, {'MKN74 cells': ('pobj', 'in')}, {'SETDB2': ('nsubj', 'knockdown')}]
+Microarray analysis expression  --> WWOX and CADM1    --> MKN74 cells SETDB2
 
 Our data suggest that SETDB2 is associated with transcriptional repression of WWOX and CADM1, and hence overexpression of SETDB2 may contribute to GC progression.
 [{'Our data': ('nsubj', 'suggest')}, {'SETDB2': ('nsubjpass', 'associated')}, {'transcriptional repression': ('pobj', 'with')}, {'WWOX': ('pobj', 'of')}, {'CADM1': ('conj', 'WWOX')}, {'hence overexpression': ('nsubj', 'contribute')}, {'SETDB2': ('pobj', 'of')}, {'GC progression': ('pobj', 'to')}]
+Our data SETDB2  --> transcriptional repression  --> WWOX and CADM1  hence overexpression  --> SETDB2  --> GC progression
 
 Due to paucity of data from Indian population, the present study was undertaken to evaluate the association of genetic polymorphisms of CYP2C19, P2Y12, and ABCB1 with inhibition of platelet aggregation (IPA) by clopidogrel.
 [{'paucity': ('pobj', 'Due')}, {'data': ('pobj', 'of')}, {'Indian population': ('pobj', 'from')}, {'the present study': ('nsubjpass', 'undertaken')}, {'the association': ('dobj', 'evaluate')}, {'genetic polymorphisms': ('pobj', 'of')}, {'CYP2C19': ('pobj', 'of')}, {'P2Y12': ('conj', 'CYP2C19')}, {'ABCB1': ('conj', 'P2Y12')}, {'inhibition': ('pobj', 'with')}, {'platelet aggregation': ('pobj', 'of')}, {'IPA': ('appos', 'aggregation')}, {'clopidogrel': ('pobj', 'by')}]
+ --> paucity  --> data  --> Indian population the present study  --> the association  --> genetic polymorphisms  --> CYP2C19 and P2Y12  and ABCB1   --> inhibition  --> platelet aggregation   --> clopidogrel
 
 Five disease-causing variations in these motifs have been identified in ABCB4 (G535D, G536R, S1076C, S1176L, and G1178S), three of which are homologous to the gating mutations of cystic fibrosis transmembrane conductance regulator (CFTR or ABCC7; i.e., G551D, S1251N, and G1349D), that were previously shown to be function defective and corrected by ivacaftor (VX-770; Kalydeco), a clinically approved CFTR potentiator.
 [{'Five disease-causing variations': ('nsubjpass', 'identified')}, {'these motifs': ('pobj', 'in')}, {'ABCB4': ('pobj', 'in')}, {'(G535D': ('appos', 'ABCB4')}, {'S1076C': ('conj', 'G536R')}, {'S1176L': ('conj', 'S1076C')}, {'G1178S': ('conj', 'S1176L')}, {'the gating mutations': ('pobj', 'to')}, {'cystic fibrosis transmembrane conductance regulator': ('pobj', 'of')}, {'CFTR': ('appos', 'regulator')}, {'; i.e., G551D, S1251N': ('conj', 'are')}, {'G1349D': ('conj', 'S1251N')}, {'ivacaftor': ('pobj', 'by')}, {'VX-770': ('appos', 'ivacaftor')}, {'Kalydeco': ('appos', 'ivacaftor')}, {'a clinically approved CFTR potentiator': ('appos', 'ivacaftor')}]
+Five disease-causing variations  --> these motifs  --> ABCB4   and S1076C and S1176L  and G1178S   --> the gating mutations  --> cystic fibrosis transmembrane conductance regulator   and ; i.e., G551D, S1251N and G1349D   --> ivacaftor   
 
 The specificity profile of SUV39H1 is distinct from its paralog SUV39H2, indicating that they can have different additional substrates.
 [{'The specificity profile': ('nsubj', 'is')}, {'SUV39H1': ('pobj', 'of')}, {'its paralog SUV39H2': ('pobj', 'from')}, {'they': ('nsubj', 'have')}, {'different additional substrates': ('dobj', 'have')}]
+The specificity profile  --> SUV39H1  --> its paralog SUV39H2 they  --> different additional substrates
 
 CYP1A2 and CYP2A6 are polymorphic drug-metabolising enzymes that are also implicated in the activation of procarcinogens in humans.
 [{'CYP1A2': ('ROOT', 'CYP1A2')}, {'CYP2A6': ('nsubj', 'are')}, {'polymorphic drug-metabolising enzymes': ('attr', 'are')}, {'the activation': ('pobj', 'in')}, {'procarcinogens': ('pobj', 'of')}, {'humans': ('pobj', 'in')}]
+ CYP2A6   --> the activation  --> procarcinogens  --> humans
 
 This study assessed the potential influence of some genetic variants of CYP1A2 and CYP2A6 on metabolic phenotypes in Nigerians.
 [{'This study': ('nsubj', 'assessed')}, {'the potential influence': ('dobj', 'assessed')}, {'some genetic variants': ('pobj', 'of')}, {'CYP1A2': ('pobj', 'of')}, {'CYP2A6': ('conj', 'CYP1A2')}, {'metabolic phenotypes': ('pobj', 'on')}, {'Nigerians': ('pobj', 'in')}]
+This study  --> the potential influence  --> some genetic variants  --> CYP1A2 and CYP2A6   --> metabolic phenotypes  --> Nigerians
 
 ABCD1 and its homolog ABCD2 are peroxisomal ATP-binding cassette (ABC) half-transporters of fatty acyl-CoAs with both distinct and overlapping substrate specificities.
 [{'ABCD1': ('nsubj', 'are')}, {'its homolog': ('conj', 'ABCD1')}, {'ABCD2': ('appos', 'homolog')}, {'peroxisomal ATP-binding cassette': ('attr', 'are')}, {'(ABC) half-transporters': ('ROOT', 'transporters')}, {'fatty acyl-CoAs': ('pobj', 'of')}, {'both distinct and overlapping substrate specificities': ('pobj', 'with')}]
+ABCD1 and its homolog      --> fatty acyl-CoAs  --> both distinct and overlapping substrate specificities
 
 Recently, trans-acting opiate metabolism and analgesic response enzymes (UGT2B7, ABCB1, OPRM1 and COMT) have been incorporated into pharmacogenetic studies to generate more comprehensive metabolic profiles of patients.
 [{'trans-acting opiate metabolism': ('nsubjpass', 'incorporated')}, {'analgesic response enzymes': ('conj', 'metabolism')}, {'UGT2B7': ('appos', 'metabolism')}, {'OPRM1': ('appos', 'metabolism')}, {'COMT': ('conj', 'OPRM1')}, {'pharmacogenetic studies': ('pobj', 'into')}, {'more comprehensive metabolic profiles': ('dobj', 'generate')}, {'patients': ('pobj', 'of')}]
+trans-acting opiate metabolism and analgesic response enzymes    and COMT   --> pharmacogenetic studies  --> more comprehensive metabolic profiles  --> patients
 
 The authors describe a further 5 related individuals with a likely pathogenic variant in STT3A, 2 of whom also had variants in TUSC3.
 [{'The authors': ('nsubj', 'describe')}, {'a further 5 related individuals': ('dobj', 'describe')}, {'a likely pathogenic variant': ('pobj', 'with')}, {'STT3A': ('pobj', 'in')}, {'whom': ('pobj', 'of')}, {'variants': ('dobj', 'had')}, {'TUSC3': ('pobj', 'in')}]
+The authors  --> a further 5 related individuals  --> a likely pathogenic variant  --> STT3A  --> whom  --> variants  --> TUSC3
 
 The family were investigated by autozygosity mapping, which revealed both a homozygous region containing STT3A and, in addition, a homozygous deletion of TUSC3 in one child.
 [{'The family': ('nsubjpass', 'investigated')}, {'autozygosity mapping': ('pobj', 'by')}, {'both a homozygous region': ('dobj', 'revealed')}, {'STT3A': ('dobj', 'containing')}, {'addition': ('pobj', 'in')}, {'a homozygous deletion': ('pobj', 'in')}, {'TUSC3': ('pobj', 'of')}, {'one child': ('pobj', 'in')}]
+The family  --> autozygosity mapping  --> both a homozygous region  --> STT3A  --> addition  --> a homozygous deletion  --> TUSC3  --> one child
 
 The function of GMPPA is not well defined, however it is a homolog of GMPPB which catalyzes the reaction that converts mannose-1-phosphate and guanosine-5'-triphosphate to GDP-mannose.
 [{'The function': ('nsubj', 'is')}, {'GMPPA': ('pobj', 'of')}, {'it': ('nsubj', 'is')}, {'a homolog': ('attr', 'is')}, {'GMPPB': ('pobj', 'of')}, {'the reaction': ('dobj', 'catalyzes')}, {'mannose-1-phosphate': ('dobj', 'converts')}, {"guanosine-5'-triphosphate": ('conj', 'mannose-1-phosphate')}, {'GDP-mannose': ('pobj', 'to')}]
+The function  --> GMPPA it   --> GMPPB  --> the reaction  --> mannose-1-phosphate and guanosine-5'-triphosphate   --> GDP-mannose
 
 CYP24A1 and CYP27B1 are critical genes determining 1α,25(OH)
 [{'CYP24A1': ('nsubj', 'are')}, {'CYP27B1': ('conj', 'CYP24A1')}, {'critical genes': ('attr', 'are')}]
+CYP24A1 and CYP27B1  
 
 Slow gamma rhythms are thought to indicate inputs from CA3 to CA1, and such inputs are thought to be strengthened with experience.
 [{'Slow gamma rhythms': ('nsubjpass', 'thought')}, {'inputs': ('dobj', 'indicate')}, {'CA3': ('pobj', 'from')}, {'CA1': ('pobj', 'to')}, {'such inputs': ('nsubjpass', 'thought')}, {'experience': ('pobj', 'with')}]
+Slow gamma rhythms  --> inputs  --> CA3  --> CA1 such inputs  --> experience
 
 Importantly, the reduced expression of HADH was associated with increased expression of p-Akt and reduced expression of PTEN in the gastric carcinoma tumor samples.
 [{'the reduced expression': ('nsubjpass', 'associated')}, {'HADH': ('pobj', 'of')}, {'increased expression': ('pobj', 'with')}, {'p-Akt': ('pobj', 'of')}, {'reduced expression': ('conj', 'expression')}, {'PTEN': ('pobj', 'of')}, {'the gastric carcinoma tumor samples': ('pobj', 'in')}]
+the reduced expression and reduced expression  --> HADH  --> increased expression  --> p-Akt   --> PTEN  --> the gastric carcinoma tumor samples
 
 This is the first report of analyses of CYP2D6 and SULT1A1 CNVs using a digital PCR method with blood sample from Japanese subject.
 [{'the first report': ('attr', 'is')}, {'analyses': ('pobj', 'of')}, {'CYP2D6': ('pobj', 'of')}, {'CNVs': ('dobj', 'SULT1A1')}, {'a digital PCR method': ('dobj', 'using')}, {'blood sample': ('pobj', 'with')}, {'Japanese subject': ('pobj', 'from')}]
+  --> analyses  --> CYP2D6  --> CNVs  --> a digital PCR method  --> blood sample  --> Japanese subject
 
 The effect of oxidative modification of CP induced by oxidants produced by MPO, such as HOCl, HOBr, and HOSCN, on its spectral, enzymatic, and anti-inflammatory properties was studied.
 [{'The effect': ('nsubjpass', 'studied')}, {'oxidative modification': ('pobj', 'of')}, {'CP': ('pobj', 'of')}, {'oxidants': ('pobj', 'by')}, {'MPO': ('pobj', 'by')}, {'HOCl': ('pobj', 'as')}, {'HOBr': ('conj', 'HOCl')}, {'HOSCN': ('conj', 'HOBr')}, {'its spectral, enzymatic, and anti-inflammatory properties': ('nsubjpass', 'studied')}]
+The effect  --> oxidative modification  --> CP  --> oxidants  --> MPO  --> HOCl and HOBr  and HOSCN  its spectral, enzymatic, and anti-inflammatory properties
 
 Furthermore, we observed that inhibition of KMT5A suppressed the expression of SREBP1, SCD, FASN and ACC, key molecules involved in lipid metabolism and decreased the level of malondialdehyde in papillary thyroid cancer cells.
 [{'we': ('nsubj', 'observed')}, {'inhibition': ('nsubj', 'suppressed')}, {'KMT5A': ('pobj', 'of')}, {'the expression': ('dobj', 'suppressed')}, {'SREBP1': ('pobj', 'of')}, {'SCD': ('conj', 'SREBP1')}, {'FASN': ('conj', 'SCD')}, {'ACC': ('conj', 'FASN')}, {'key molecules': ('appos', 'SREBP1')}, {'lipid metabolism': ('pobj', 'in')}, {'the level': ('dobj', 'decreased')}, {'malondialdehyde': ('pobj', 'of')}, {'papillary thyroid cancer cells': ('pobj', 'in')}]
+we inhibition  --> KMT5A  --> the expression  --> SREBP1 and SCD  and FASN  and ACC    --> lipid metabolism  --> the level  --> malondialdehyde  --> papillary thyroid cancer cells
 
 PIK3CA is involved in the PI3K-PTEN-mTOR signalling pathway.
 [{'PIK3CA': ('nsubjpass', 'involved')}, {'PTEN': ('pobj', '-')}]
+PIK3CA  --> PTEN
 
 AQP7 and AQP9 represent glycerol channel in adipose tissue and liver and have been associated with metabolic diseases.
 [{'AQP7': ('nsubj', 'represent')}, {'AQP9': ('conj', 'AQP7')}, {'glycerol channel': ('dobj', 'represent')}, {'adipose tissue': ('pobj', 'in')}, {'liver': ('conj', 'tissue')}, {'metabolic diseases': ('pobj', 'with')}]
+AQP7 and AQP9   --> glycerol channel  --> adipose tissue and liver   --> metabolic diseases
 
 Residues corresponding to Gly-202 and Gly-214 in the related transporter SLC35A1 form a substrate-translocating channel, suggesting that a similar mechanism may be involved in SLC35A2.
 [{'Gly-214': ('conj', 'Gly-202')}, {'the related transporter': ('pobj', 'in')}, {'SLC35A1': ('nsubj', 'form')}, {'a substrate-translocating channel': ('dobj', 'form')}, {'a similar mechanism': ('nsubjpass', 'involved')}, {'SLC35A2': ('pobj', 'in')}]
+ and Gly-214  --> the related transporter SLC35A1  --> a substrate-translocating channel a similar mechanism  --> SLC35A2
 
 The expression of PTEN was significantly higher in DCIS compared to the IBC component in cases with a wild type (WT) PIK3CA status (p=0.007), while it remained similar in both components when PIK3CA was mutated.
 [{'The expression': ('nsubj', 'was')}, {'PTEN': ('pobj', 'of')}, {'DCIS': ('pobj', 'in')}, {'the IBC component': ('pobj', 'to')}, {'cases': ('pobj', 'in')}, {'a wild type (WT) PIK3CA status': ('pobj', 'with')}, {'it': ('nsubj', 'remained')}, {'both components': ('pobj', 'in')}, {'PIK3CA': ('nsubjpass', 'mutated')}]
+The expression  --> PTEN  --> DCIS  --> the IBC component  --> cases  --> a wild type (WT) PIK3CA status it  --> both components PIK3CA
 
 In particular, three genes involved in purine nucleotide cycle (ADSSL1, ADSL, and AMPD1) were significantly downregulated in myopathy group.
 [{'three genes': ('nsubj', 'were')}, {'purine nucleotide cycle': ('pobj', 'in')}, {'ADSSL1': ('appos', 'cycle')}, {'ADSL': ('conj', 'ADSSL1')}, {'AMPD1': ('conj', 'ADSL')}, {'myopathy group': ('pobj', 'in')}]
+three genes  --> purine nucleotide cycle  and ADSL  and AMPD1   --> myopathy group
 
 FUT1 and FUT2 encode alpha 1, 2-fucosyltransferases which catalyze the addition of alpha 1, 2-linked fucose to glycans.
 [{'FUT1': ('nsubj', 'encode')}, {'FUT2': ('conj', 'FUT1')}, {'alpha': ('dobj', 'encode')}, {'the addition': ('dobj', 'catalyze')}, {'alpha': ('pobj', 'of')}, {'glycans': ('pobj', 'to')}]
+FUT1 and FUT2   --> alpha  --> the addition  --> alpha  --> glycans
 
 Glycan products of FUT1 and FUT2, such as Globo H and Lewis Y, are highly expressed on malignant tissues, including breast cancer.
 [{'Glycan products': ('nsubjpass', 'expressed')}, {'FUT1': ('pobj', 'of')}, {'FUT2': ('conj', 'FUT1')}, {'Globo H': ('pobj', 'as')}, {'Lewis Y': ('conj', 'H')}, {'malignant tissues': ('pobj', 'on')}, {'breast cancer': ('pobj', 'including')}]
+Glycan products  --> FUT1 and FUT2   --> Globo H and Lewis Y   --> malignant tissues  --> breast cancer
 
 Herein, we investigated the roles of FUT1 and FUT2 in breast cancer.
 [{'we': ('nsubj', 'investigated')}, {'the roles': ('dobj', 'investigated')}, {'FUT1': ('pobj', 'of')}, {'FUT2': ('conj', 'FUT1')}, {'breast cancer': ('pobj', 'in')}]
+we  --> the roles  --> FUT1 and FUT2   --> breast cancer
 
 Silencing of FUT1 or FUT2 by shRNAs inhibited cell proliferation in vitro and tumorigenicity in mice.
 [{'FUT1': ('pobj', 'of')}, {'FUT2': ('conj', 'FUT1')}, {'shRNAs': ('pobj', 'by')}, {'cell proliferation': ('dobj', 'inhibited')}, {'tumorigenicity': ('conj', 'vitro')}, {'mice': ('pobj', 'in')}]
+ --> FUT1 and FUT2   --> shRNAs  --> cell proliferation  and tumorigenicity  --> mice
 
 Silencing of FUT1 or FUT2 suppressed cell migration in wound healing assay, whereas FUT1 and FUT2 overexpression increased cell migration and invasion in vitro and metastasis of breast cancer in vivo.
 [{'FUT1': ('pobj', 'of')}, {'FUT2': ('conj', 'FUT1')}, {'cell migration': ('dobj', 'suppressed')}, {'wound healing assay': ('pobj', 'in')}, {'FUT1 and FUT2 overexpression': ('nsubj', 'increased')}, {'cell migration': ('dobj', 'increased')}, {'invasion': ('conj', 'migration')}, {'metastasis': ('conj', 'vitro')}, {'breast cancer': ('pobj', 'of')}, {'vivo': ('pobj', 'in')}]
+ --> FUT1 and FUT2   --> cell migration and invasion  --> wound healing assay FUT1 and FUT2 overexpression  --> cell migration   and metastasis  --> breast cancer  --> vivo
 
 A decrease in mesenchymal like markers such as fibronectin, vimentin, and twist, along with increased epithelial like marker, E-cadherin, was observed upon FUT1/2 knockdown, while the opposite was noted by overexpression of FUT1 or FUT2.
 [{'A decrease': ('nsubjpass', 'observed')}, {'mesenchymal': ('pobj', 'in')}, {'markers': ('pobj', 'like')}, {'fibronectin': ('pobj', 'as')}, {'vimentin': ('conj', 'fibronectin')}, {'twist': ('conj', 'vimentin')}, {'increased epithelial': ('pobj', 'with')}, {'marker': ('pobj', 'like')}, {'E-cadherin': ('appos', 'marker')}, {'the opposite': ('nsubjpass', 'noted')}, {'overexpression': ('pobj', 'by')}, {'FUT1': ('pobj', 'of')}, {'FUT2': ('conj', 'FUT1')}]
+A decrease  --> mesenchymal  --> markers  --> fibronectin and vimentin  and twist   --> increased epithelial  --> marker  the opposite  --> overexpression  --> FUT1 and FUT2 
 
 Exogenous addition of Globo H-ceramide reversed the suppression of cell migration by FUT1 knockdown but not the inhibition of cell adhesion by FUT2 silencing, suggesting that at least part of the effects of FUT1/2 knockdown were mediated by Globo H. Our results imply that FUT1 and FUT2 play important roles in regulating growth, adhesion, migration and CSC properties of breast cancer, and may serve as therapeutic targets for breast cancer.
 [{'Exogenous addition': ('nsubj', 'reversed')}, {'Globo H-ceramide': ('pobj', 'of')}, {'the suppression': ('dobj', 'reversed')}, {'cell migration': ('pobj', 'of')}, {'not the inhibition': ('conj', 'suppression')}, {'cell adhesion': ('pobj', 'of')}, {'FUT2': ('pobj', 'by')}, {'at least part': ('nsubjpass', 'mediated')}, {'the effects': ('pobj', 'of')}, {'Globo H.': ('pobj', 'by')}, {'Our results': ('nsubj', 'imply')}, {'FUT1': ('nsubj', 'play')}, {'FUT2': ('conj', 'FUT1')}, {'important roles': ('dobj', 'play')}, {'growth': ('dobj', 'regulating')}, {'adhesion': ('conj', 'growth')}, {'migration': ('conj', 'adhesion')}, {'CSC properties': ('conj', 'migration')}, {'breast cancer': ('pobj', 'of')}, {'therapeutic targets': ('pobj', 'as')}, {'breast cancer': ('pobj', 'for')}]
+Exogenous addition  --> Globo H-ceramide  --> the suppression and not the inhibition  --> cell migration and CSC properties   --> cell adhesion and migration  --> FUT2 at least part  --> the effects  --> Globo H. Our results FUT1 and FUT2   --> important roles  --> growth and adhesion     --> breast cancer  --> therapeutic targets  --> breast cancer
 
 PIGQ (OMIM *605754) encodes phosphatidylinositol glycan biosynthesis class Q (PIGQ) and is required for proper functioning of an N-acetylglucosamine transferase complex in a similar manner to the more established PIGA, PIGC, and PIGH.
 [{'PIGQ': ('nsubj', 'encodes')}, {'(OMIM': ('appos', 'PIGQ')}, {'phosphatidylinositol glycan': ('dobj', 'encodes')}, {'biosynthesis class Q': ('dobj', 'glycan')}, {'PIGQ': ('appos', 'glycan')}, {'proper functioning': ('pobj', 'for')}, {'an N-acetylglucosamine transferase complex': ('pobj', 'of')}, {'a similar manner': ('pobj', 'in')}, {'the more established PIGA': ('pobj', 'to')}, {'PIGC': ('conj', 'PIGA')}, {'PIGH': ('conj', 'PIGC')}]
+PIGQ   --> phosphatidylinositol glycan  --> biosynthesis class Q   --> proper functioning  --> an N-acetylglucosamine transferase complex  --> a similar manner  --> the more established PIGA and PIGC  and PIGH 
 
 Here, we report a PTEN-ARID4B-PI3K axis in which PTEN inhibits expression of ARID4B, while ARID4B is a transcriptional activator of the PI3K subunit genes PIK3CA and PIK3R2 that are crucial for activation of the PI3K/AKT pathway.
 [{'we': ('nsubj', 'report')}, {'a PTEN-ARID4B-PI3K axis': ('dobj', 'report')}, {'PTEN': ('nsubj', 'inhibits')}, {'expression': ('dobj', 'inhibits')}, {'ARID4B': ('pobj', 'of')}, {'ARID4B': ('nsubj', 'is')}, {'a transcriptional activator': ('attr', 'is')}, {'the PI3K subunit genes PIK3CA': ('pobj', 'of')}, {'PIK3R2': ('conj', 'PIK3CA')}, {'activation': ('pobj', 'for')}, {'the PI3K/AKT pathway': ('pobj', 'of')}]
+we  --> a PTEN-ARID4B-PI3K axis PTEN  --> expression  --> ARID4B ARID4B   --> the PI3K subunit genes PIK3CA and PIK3R2   --> activation  --> the PI3K/AKT pathway
 
 Mechanistically, P4HA2 promotes cervical cancer cell glycolysis through upregulation of PGK1 and LDHA.
 [{'P4HA2': ('nsubj', 'promotes')}, {'cervical cancer cell glycolysis': ('dobj', 'promotes')}, {'upregulation': ('pobj', 'through')}, {'PGK1': ('pobj', 'of')}, {'LDHA': ('conj', 'PGK1')}]
+P4HA2  --> cervical cancer cell glycolysis  --> upregulation  --> PGK1 and LDHA 
 
 Importantly, high expression of P4HA2, PGK1 or LDHA has a significantly shorter overall survival period and the survival prediction is enhanced by using combination of P4HA2 and PGK1/LDHA expression.
 [{'high expression': ('nsubj', 'has')}, {'P4HA2': ('pobj', 'of')}, {'PGK1': ('conj', 'P4HA2')}, {'LDHA': ('conj', 'PGK1')}, {'a significantly shorter overall survival period': ('dobj', 'has')}, {'the survival prediction': ('nsubjpass', 'enhanced')}, {'combination': ('dobj', 'using')}, {'P4HA2': ('pobj', 'of')}, {'PGK1/LDHA expression': ('conj', 'P4HA2')}]
+high expression  --> P4HA2 and PGK1 and PGK1/LDHA expression  and LDHA   --> a significantly shorter overall survival period the survival prediction  --> combination  --> P4HA2 
 
 Collectively, we identify P4HA2 as a regulator of glycolysis through PGK1 and LDHA, which may serve as a potential therapeutic target for cervical cancer.
 [{'we': ('nsubj', 'identify')}, {'P4HA2': ('dobj', 'identify')}, {'a regulator': ('pobj', 'as')}, {'glycolysis': ('pobj', 'of')}, {'PGK1': ('pobj', 'through')}, {'LDHA': ('conj', 'PGK1')}, {'a potential therapeutic target': ('pobj', 'as')}, {'cervical cancer': ('pobj', 'for')}]
+we  --> P4HA2  --> a regulator  --> glycolysis  --> PGK1 and LDHA   --> a potential therapeutic target  --> cervical cancer
 
 UGT2B10 exhibits higher affinity than UGT1A4 for numerous substrates making it potentially the more important enzyme for these compounds in vivo.
 [{'UGT2B10': ('nsubj', 'exhibits')}, {'higher affinity': ('dobj', 'exhibits')}, {'UGT1A4': ('pobj', 'than')}, {'numerous substrates': ('pobj', 'for')}, {'it': ('dobj', 'making')}, {'the more important enzyme': ('dobj', 'making')}, {'these compounds': ('pobj', 'for')}, {'vivo': ('pobj', 'in')}]
+UGT2B10  --> higher affinity  --> UGT1A4  --> numerous substrates  --> it  --> the more important enzyme  --> these compounds  --> vivo
 
+245 relations

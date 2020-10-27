@@ -3,6 +3,8 @@ import os
 import gzip
 import spacy
 from pysbd.utils import PySBDFactory
+import re
+import pickle
 
 
 def unzip(path):
@@ -24,13 +26,17 @@ def unzip(path):
             print("Unzipped file: " + file_name[:-3])
 
 
-def get_enzymes():
+def get_enzymes(path=None):
     '''
-    Reads a file containing enzymes to be searched in abstracts.
+    Reads a file containing enzymes to be searched in abstracts. The path must be a .tsv file
+    with a column "symbol" specified.
 
     :return: a list of enzymes
     '''
-    return pd.read_csv("data/enzymes_list.tsv", sep="\t")["symbol"].tolist()
+    if path is None:
+        return pd.read_csv("data/enzyme_symbols/enzymes.tsv", sep="\t")["symbol"].tolist()
+    else:
+        return pd.read_csv(path, sep="\t")["Approved.symbol"].tolist()
 
 
 def get_abstracts(segmented=False):
@@ -42,9 +48,9 @@ def get_abstracts(segmented=False):
     :return: a list of abstracts
     '''
     if segmented:
-        return pd.read_csv("data/segmented_abstracts.tsv", sep="\t")["sentences"].tolist()
+        return pd.read_csv("data/abstracts/segmented_abstracts.tsv", sep="\t")["sentences"].tolist()
     else:
-        return pd.read_csv("data/abstracts.tsv", sep="\t")["abstracts"].tolist()
+        return pd.read_csv("data/abstracts/abstracts.tsv", sep="\t")["abstracts"].tolist()
 
 
 def write(curated_list=None):
@@ -85,9 +91,60 @@ def segment_abstracts():
     segmented_abstracts_df.to_csv("data/segmented_abstracts.tsv", sep="\t", index=False)
 
 
+def convert_to_tsv(path):
+    '''
+    Parses .xls file of enzyme symbols and their aliases. Stores a serialized mapping object of symbols --> aliases
+    as a pickle file. Stores mapping as a .tsv file.
+
+    :param path: path to excel file containing symbols and aliases
+    :return: None
+    '''
+    enzymes_list = pd.read_excel(path)
+    aliases = {}
+
+    for symbol in enzymes_list["Approved.symbol"]:
+        if symbol not in aliases:
+            if isinstance(symbol, str):
+                aliases[symbol] = []
+        else:
+            print(symbol + " already exists")
+
+    for column_name in enzymes_list:
+        if column_name != "Approved.symbol":
+            # this column has already been processed above
+            print(column_name)
+            for i, item in enumerate(enzymes_list[column_name]):
+                # retrieve symbol for this row
+                symbol = enzymes_list["Approved.symbol"][i]
+
+                # assert that the elements in cell is a string
+                if isinstance(symbol, str) and isinstance(item, str):
+                    if column_name == "Alias.names":
+                        for x in item.split('", "'):
+                            print("\t after split: " + x)
+                            aliases[symbol].append(x.strip('"'))
+                    elif column_name == "Alias.symbols" or column_name == "Previous.symbols":
+                        for x in item.split(", "):
+                            aliases[symbol].append(x)
+                    elif column_name == "Approved.name":
+                        aliases[symbol].append(item)
+
+    # sanity check
+    # for symbol in aliases:
+    #     print(symbol + ": " + str(aliases[symbol]))
+
+    # write to .tsv
+    df = pd.DataFrame.from_dict(aliases, orient="index")
+    df.to_csv("data/enzymes_alias1.tsv", sep="\t", header=False)
+
+    # pickle
+    pickle_file = open("data/enzyme_symbols/enzymes_alias1.pickle", mode="wb")
+    pickle.dump(aliases, pickle_file)
+    pickle_file.close()
+    print(df)
 
 
-
-
+if __name__ == "__main__":
+    convert_to_tsv("~/Desktop/data/aliases1.xlsx")
 
 

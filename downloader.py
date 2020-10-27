@@ -6,7 +6,7 @@ import util
 base_path = "../pubmed/baseline-2018-sample"  # local folder where downloaded files will reside in
 host = ftputil.FTPHost('ftp.ncbi.nlm.nih.gov', 'anonymous', 'password')  # set up FTP server credentials
 host.chdir('/pubmed/baseline-2018-sample/')  # change into desired directory
-enzyme_list = util.get_enzymes()  # retrieve given list of enzymes to find in abstracts
+enzyme_list = util.get_enzymes()  # retrieve given list of enzyme_symbols to find in abstracts
 
 # downloading files from host: ftp.ncbi.nlm.nih.gov/pubmed/baseline-2018-sample/
 abstracts = []
