@@ -2,6 +2,7 @@ import ftputil
 import os
 from read_xml import XMLReader
 import util
+import pandas as pd
 
 base_path = "../pubmed/baseline-2018-sample"  # local folder where downloaded files will reside in
 host = ftputil.FTPHost('ftp.ncbi.nlm.nih.gov', 'anonymous', 'password')  # set up FTP server credentials
@@ -36,6 +37,8 @@ for i, file_name in enumerate(file_list):
         print()
 
 
-util.write(abstracts)
+data_df = pd.DataFrame(abstracts)
+data_df.to_csv("data/abstracts/" + abstracts + ".tsv", sep="\t", header=False, index=False)
+print("Written abstracts to data/abstracts/" + abstracts + ".tsv")
 
 

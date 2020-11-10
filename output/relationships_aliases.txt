@@ -1,0 +1,741 @@
+SMS 201 995 is a new long acting analogue of somatostatin.
+[{'SMS': ('nsubj', 'is')}, {'a new long acting analogue': ('attr', 'is')}, {'somatostatin': ('pobj', 'of')}]
+SMS   --> somatostatin
+
+SMS 201-995 is an octapeptide analogue of natural somatostatin characterized by pharmacological properties similar to those of somatostatin itself.
+[{'SMS': ('nsubj', 'is')}, {'an octapeptide analogue': ('attr', 'is')}, {'natural somatostatin': ('pobj', 'of')}, {'pharmacological properties': ('pobj', 'by')}, {'somatostatin': ('pobj', 'of')}, {'itself': ('appos', 'somatostatin')}]
+SMS   --> natural somatostatin  --> pharmacological properties  --> somatostatin 
+
+SMS 201-995 is a new somatostatin analog which is 10-60 times more potent and specific than somatostatin as an inhibitor of GH and insulin release.
+[{'SMS': ('nsubj', 'is')}, {'a new somatostatin analog': ('attr', 'is')}, {'somatostatin': ('pobj', 'than')}, {'an inhibitor': ('pobj', 'as')}, {'GH': ('pobj', 'of')}, {'insulin release': ('conj', 'GH')}]
+SMS   --> somatostatin  --> an inhibitor  --> GH and insulin release 
+
+SMS 201-995 (5-100 micrograms) injected subcutaneously in normal and type-2 diabetic subjects 30 min before a test meal caused dose-related suppression of plasma concentrations of insulin, glucagon, and several regulatory gut peptide hormones (gastrin, gastric inhibitory peptide, pancreatic polypeptide, secretin, neurotensin, and motilin).
+[{'SMS': ('nsubj', 'injected')}, {'201-995 (5-100 micrograms': ('appos', 'SMS')}, {'type-2 diabetic subjects': ('conj', 'injected')}, {'30 min': ('appos', 'subjects')}, {'a test meal': ('pobj', 'before')}, {'dose-related suppression': ('dobj', 'caused')}, {'plasma concentrations': ('pobj', 'of')}, {'insulin': ('pobj', 'of')}, {'glucagon': ('conj', 'insulin')}, {'several regulatory gut peptide hormones': ('conj', 'glucagon')}, {'gastrin': ('appos', 'hormones')}, {'gastric inhibitory peptide': ('conj', 'gastrin')}, {'pancreatic polypeptide': ('conj', 'peptide')}, {'secretin': ('conj', 'polypeptide')}, {'neurotensin': ('conj', 'secretin')}, {'motilin': ('conj', 'neurotensin')}]
+SMS   and type-2 diabetic subjects   --> a test meal  --> dose-related suppression  --> plasma concentrations  --> insulin and glucagon  and several regulatory gut peptide hormones  and pancreatic polypeptide  and gastric inhibitory peptide   and secretin  and neurotensin  and motilin 
+
+SMS 201-995 (SMS) is a long-acting analog of somatostatin.
+[{'SMS': ('nsubj', 'is')}, {'(SMS': ('appos', 'SMS')}, {'a long-acting analog': ('attr', 'is')}, {'somatostatin': ('pobj', 'of')}]
+SMS    --> somatostatin
+
+SMS 201-995 (SMS), a synthetic analogue of somatostatin (SRIF) has been shown to be effective in the treatment of the hypersecretion of hormones such as in acromegaly.
+[{'SMS': ('nsubjpass', 'shown')}, {'(SMS': ('appos', 'SMS')}, {'a synthetic analogue': ('nsubjpass', 'shown')}, {'somatostatin': ('pobj', 'of')}, {'(SRIF': ('appos', 'somatostatin')}, {'the treatment': ('pobj', 'in')}, {'the hypersecretion': ('pobj', 'of')}, {'hormones': ('pobj', 'of')}, {'acromegaly': ('pobj', 'in')}]
+SMS  a synthetic analogue  --> somatostatin   --> the treatment  --> the hypersecretion  --> hormones  --> acromegaly
+
+SMS 201-995 is an octapeptide analogue of somatostatin.
+[{'SMS': ('nsubj', 'is')}, {'an octapeptide analogue': ('attr', 'is')}, {'somatostatin': ('pobj', 'of')}]
+SMS   --> somatostatin
+
+PTA is becoming a valuable adjunct to treatment of CSAD, and intraoperative dilatation also has potential attributes.
+[{'PTA': ('nsubj', 'becoming')}, {'a valuable adjunct': ('attr', 'becoming')}, {'treatment': ('pobj', 'to')}, {'CSAD': ('pobj', 'of')}, {'intraoperative dilatation': ('nsubj', 'has')}, {'potential attributes': ('dobj', 'has')}]
+PTA   --> treatment  --> CSAD intraoperative dilatation  --> potential attributes
+
+We show now that MP70 can be solubilized separately from MIP in mild detergent solutions, and that this treatment results in the dissociation of the fibre gap junctions.
+[{'We': ('nsubj', 'show')}, {'MP70': ('nsubjpass', 'solubilized')}, {'MIP': ('pobj', 'from')}, {'mild detergent solutions': ('pobj', 'in')}, {'the dissociation': ('pobj', 'in')}, {'the fibre gap junctions': ('pobj', 'of')}]
+We MP70  --> MIP  --> mild detergent solutions  --> the dissociation  --> the fibre gap junctions
+
+ADA in the serum of amyloidotic and cirrhotic patients was markedly decreased due to the presence of an inhibitor of ADF.
+[{'ADA': ('nsubjpass', 'decreased')}, {'the serum': ('pobj', 'in')}, {'amyloidotic and cirrhotic patients': ('pobj', 'of')}, {'the presence': ('pobj', 'due')}, {'an inhibitor': ('pobj', 'of')}, {'ADF': ('pobj', 'of')}]
+ADA  --> the serum  --> amyloidotic and cirrhotic patients  --> the presence  --> an inhibitor  --> ADF
+
+GPD1 (encoding glyceraldehyde-3-phosphate dehydrogenase) is a constitutively expressed gene in Cochliobolus heterostrophus that produces a single transcript.
+[{'GPD1': ('nsubj', 'is')}, {'glyceraldehyde-3-phosphate dehydrogenase': ('dobj', 'encoding')}, {'a constitutively expressed gene': ('attr', 'is')}, {'Cochliobolus': ('pobj', 'in')}, {'a single transcript': ('dobj', 'produces')}]
+GPD1  --> glyceraldehyde-3-phosphate dehydrogenase   --> Cochliobolus  --> a single transcript
+
+UCP3 is an isoform of UCP1, expressed primarily in skeletal muscle.
+[{'UCP3': ('nsubj', 'is')}, {'an isoform': ('attr', 'is')}, {'UCP1': ('pobj', 'of')}, {'skeletal muscle': ('pobj', 'in')}]
+UCP3   --> UCP1  --> skeletal muscle
+
+UCP1 is more sensitive to tri- than diphosphate whereas in UCP3, the gradient is reverse.
+[{'UCP1': ('nsubj', 'is')}, {'UCP3': ('pobj', 'in')}, {'the gradient': ('nsubj', 'is')}]
+UCP1  --> UCP3 the gradient
+
+CD36 is one of the major glycoproteins of platelets and known as GPIV.
+[{'CD36': ('nsubj', 'is')}, {'the major glycoproteins': ('pobj', 'of')}, {'platelets': ('pobj', 'of')}, {'GPIV': ('pobj', 'as')}]
+CD36  --> the major glycoproteins  --> platelets  --> GPIV
+
+Homology and secondary structural predictions have revealed that LTC4S is a member of a novel gene family that includes FLAP, mGST II, and mGST III.
+[{'Homology': ('nsubj', 'revealed')}, {'secondary structural predictions': ('conj', 'Homology')}, {'LTC4S': ('nsubj', 'is')}, {'a member': ('attr', 'is')}, {'a novel gene family': ('pobj', 'of')}, {'FLAP': ('dobj', 'includes')}, {'mGST II': ('conj', 'FLAP')}]
+Homology and secondary structural predictions  LTC4S   --> a novel gene family  --> FLAP and mGST II 
+
+ACE takes part in the renin-angiotensin and kallikrein-kininogen systems by creating angiotensin-II and inactivating bradykinin.
+[{'ACE': ('nsubj', 'takes')}, {'part': ('dobj', 'takes')}, {'the renin-angiotensin and kallikrein-kininogen systems': ('pobj', 'in')}, {'angiotensin-II': ('dobj', 'creating')}, {'bradykinin': ('dobj', 'inactivating')}]
+ACE  --> part  --> the renin-angiotensin and kallikrein-kininogen systems  --> angiotensin-II  --> bradykinin
+
+CD38 was lower in AML-M3 compared to other FAB subtypes (5% vs. 41%; P < 0.001), but was similar among ALL subtypes (56.6%; P = 0.69).
+[{'CD38': ('nsubj', 'was')}, {'AML-M3': ('pobj', 'in')}, {'other FAB subtypes': ('pobj', 'to')}, {'5%': ('appos', 'subtypes')}, {'41%': ('pobj', 'vs.')}, {'P': ('pobj', 'compared')}, {'ALL subtypes': ('pobj', 'among')}, {'56.6%': ('appos', 'subtypes')}]
+CD38  --> AML-M3  --> other FAB subtypes   --> 41%  --> P  --> ALL subtypes 
+
+The mutation likely to cause HME was found in 29 (85%) of the 34 probands: in 22 of these (76%), the mutation was in EXT1; seven patients (24%) had EXT2 mutations.
+[{'The mutation': ('nsubjpass', 'found')}, {'HME': ('nsubjpass', 'found')}, {'85%': ('appos', '29')}, {'the 34 probands': ('pobj', 'of')}, {'(76%': ('pobj', 'in')}, {'the mutation': ('nsubj', 'was')}, {'EXT1': ('pobj', 'in')}, {'seven patients': ('nsubj', 'had')}, {'24%': ('appos', 'patients')}, {'EXT2 mutations': ('nsubj', 'had')}]
+The mutation HME   --> the 34 probands  --> (76% the mutation  --> EXT1 seven patients  EXT2 mutations
+
+MAGI-2 enhances the ability of PTEN to suppress Akt activation.
+[{'MAGI-2': ('nsubj', 'enhances')}, {'the ability': ('dobj', 'enhances')}, {'PTEN': ('pobj', 'of')}, {'Akt activation': ('dobj', 'suppress')}]
+MAGI-2  --> the ability  --> PTEN  --> Akt activation
+
+We propose that MAGI-2 improves the efficiency of PTEN signaling through assembly of a multiprotein complex at the cell membrane.
+[{'We': ('nsubj', 'propose')}, {'MAGI-2': ('nsubj', 'improves')}, {'the efficiency': ('dobj', 'improves')}, {'PTEN': ('pobj', 'of')}, {'assembly': ('pobj', 'through')}, {'a multiprotein complex': ('pobj', 'of')}, {'the cell membrane': ('pobj', 'at')}]
+We MAGI-2  --> the efficiency  --> PTEN  --> assembly  --> a multiprotein complex  --> the cell membrane
+
+ABO (H) blood group antigens are covalently linked to the oligosaccharide side-chains of von Willebrand factor (VWF).
+[{'ABO': ('nsubjpass', 'linked')}, {'(H) blood group antigens': ('nsubjpass', 'linked')}, {'the oligosaccharide side-chains': ('pobj', 'to')}, {'von Willebrand factor': ('pobj', 'of')}, {'VWF': ('appos', 'factor')}]
+ABO (H) blood group antigens  --> the oligosaccharide side-chains  --> von Willebrand factor 
+
+In ciliated epithelial cells, CFTR was inconstantly expressed at the apical cell surface, intense membranous labeling was observed for MDR1, and intense cytoplasmic labeling was observed for MRP1.
+[{'ciliated epithelial cells': ('pobj', 'In')}, {'CFTR': ('nsubjpass', 'expressed')}, {'the apical cell surface': ('pobj', 'at')}, {'intense membranous labeling': ('nsubjpass', 'observed')}, {'MDR1': ('pobj', 'for')}, {'intense cytoplasmic labeling': ('nsubjpass', 'observed')}, {'MRP1': ('pobj', 'for')}]
+ --> ciliated epithelial cells CFTR  --> the apical cell surface intense membranous labeling  --> MDR1 intense cytoplasmic labeling  --> MRP1
+
+As a competitive PARP inhibitor (K(i) = 60 nM), GPI 6150 protected the P388D1 cells against hydrogen peroxide cytotoxicity, by preventing PARP activation and the depletion of NAD(+), the substrate for PARP.
+[{'a competitive PARP inhibitor': ('pobj', 'As')}, {'(K(i': ('appos', 'inhibitor')}, {'GPI': ('nsubj', 'protected')}, {'the P388D1 cells': ('dobj', 'protected')}, {'hydrogen peroxide cytotoxicity': ('pobj', 'against')}, {'PARP activation': ('dobj', 'preventing')}, {'the depletion': ('conj', 'activation')}, {'the substrate': ('dobj', 'protected')}, {'PARP': ('pobj', 'for')}]
+ --> a competitive PARP inhibitor  GPI  --> the P388D1 cells  --> hydrogen peroxide cytotoxicity  --> PARP activation and the depletion   --> the substrate  --> PARP
+
+These attributes render GPI 6150 a useful tool to probe the functions of PARP.
+[{'These attributes': ('nsubj', 'render')}, {'GPI': ('nsubj', '6150')}, {'a useful tool': ('dobj', 'render')}, {'the functions': ('dobj', 'probe')}, {'PARP': ('pobj', 'of')}]
+These attributes GPI  --> a useful tool  --> the functions  --> PARP
+
+The findings suggested that PDE11A has a common ancestral gene with PDE5A and PDE6s, whereas PDE2A and PDE10A are generated separately from these three GAF-PDEs.
+[{'The findings': ('nsubj', 'suggested')}, {'PDE11A': ('nsubj', 'has')}, {'a common ancestral gene': ('dobj', 'has')}, {'PDE5A': ('pobj', 'with')}, {'PDE6s': ('conj', 'PDE5A')}, {'PDE10A': ('conj', 'PDE2A')}, {'these three GAF-PDEs': ('pobj', 'from')}]
+The findings PDE11A  --> a common ancestral gene  --> PDE5A and PDE6s   and PDE10A  --> these three GAF-PDEs
+
+Surprisingly, despite in vitro demonstration that p27 and cyclin D1 lies downstream of PTEN and Akt, there was no correlation between p27 and cyclin D1 expression and PTEN or P-Akt status.
+[{'vitro demonstration': ('pobj', 'in')}, {'p27': ('nsubj', 'lies')}, {'cyclin D1': ('conj', 'p27')}, {'PTEN': ('pobj', 'of')}, {'Akt': ('conj', 'PTEN')}, {'no correlation': ('attr', 'was')}, {'p27 and cyclin D1 expression and PTEN or P-Akt status': ('pobj', 'between')}]
+ --> vitro demonstration p27 and cyclin D1   --> PTEN and Akt    --> p27 and cyclin D1 expression and PTEN or P-Akt status
+
+ABCG2 (also called MXR (3), BCRP (4), or ABCP (5) is a recently-identified ABC half-transporter, which causes multidrug resistance in cancer.
+[{'ABCG2': ('nsubj', 'called')}, {'MXR': ('dobj', 'called')}, {'BCRP': ('nsubj', 'is')}, {'ABCP': ('conj', 'BCRP')}, {'a recently-identified ABC half-transporter': ('attr', 'is')}, {'multidrug resistance': ('dobj', 'causes')}, {'cancer': ('pobj', 'in')}]
+ABCG2  --> MXR BCRP and ABCP    --> multidrug resistance  --> cancer
+
+Thus, when PTEN is overexpressed, both its lipid phosphatase activity and subcellular localization play a role in antagonizing metabolic actions of insulin that are dependent on PI 3-kinase but independent of MAP kinase.
+[{'PTEN': ('nsubjpass', 'overexpressed')}, {'both its lipid phosphatase activity': ('nsubj', 'play')}, {'subcellular localization': ('conj', 'activity')}, {'a role': ('dobj', 'play')}, {'metabolic actions': ('dobj', 'antagonizing')}, {'insulin': ('pobj', 'of')}, {'PI': ('pobj', 'on')}, {'MAP kinase': ('pobj', 'of')}]
+PTEN both its lipid phosphatase activity and subcellular localization   --> a role  --> metabolic actions  --> insulin  --> PI  --> MAP kinase
+
+Conversely, when unphosphorylated, PTEN is in an "open" conformation, is recruited into a high molecular weight complex (PTEN-associated complex), and strongly interacts with PDZ-containing proteins such as MAGI-2.
+[{'PTEN': ('nsubj', 'is')}, {'an "open" conformation': ('pobj', 'in')}, {'a high molecular weight complex': ('pobj', 'into')}, {'PTEN-associated complex': ('appos', 'complex')}, {'PDZ-containing proteins': ('pobj', 'with')}, {'MAGI-2': ('pobj', 'as')}]
+PTEN  --> an "open" conformation  --> a high molecular weight complex   --> PDZ-containing proteins  --> MAGI-2
+
+These studies provide a mouse model for infantile neuronal ceroid lipofuscinosis and further suggest that PPT2 serves a role in the brain that is not carried out by PPT1.
+[{'These studies': ('nsubj', 'provide')}, {'a mouse model': ('dobj', 'provide')}, {'infantile neuronal ceroid lipofuscinosis': ('pobj', 'for')}, {'PPT2': ('nsubj', 'serves')}, {'a role': ('dobj', 'serves')}, {'the brain': ('pobj', 'in')}, {'PPT1': ('pobj', 'by')}]
+These studies  --> a mouse model  --> infantile neuronal ceroid lipofuscinosis PPT2  --> a role  --> the brain  --> PPT1
+
+CAD (caspase-activated DNase) that causes chromosomal DNA fragmentation during apoptosis exists as a complex with ICAD (inhibitor of CAD) in proliferating cells.
+[{'CAD': ('nsubj', 'exists')}, {'caspase-activated DNase': ('appos', 'CAD')}, {'chromosomal DNA fragmentation': ('dobj', 'causes')}, {'apoptosis': ('pobj', 'during')}, {'a complex': ('pobj', 'as')}, {'ICAD': ('pobj', 'with')}, {'inhibitor': ('appos', 'ICAD')}, {'CAD': ('pobj', 'of')}, {'cells': ('dobj', 'proliferating')}]
+CAD   --> chromosomal DNA fragmentation  --> apoptosis  --> a complex  --> ICAD   --> CAD  --> cells
+
+In contrast, ICAD could not suppress the aggregation of CAD, but supported the CAD's renaturation with Hsc70-Hsp40, indicating that ICAD recognizes the quasi-native folding state of CAD that is conferred by Hsc70-Hsp40.
+[{'contrast': ('pobj', 'In')}, {'ICAD': ('nsubj', 'suppress')}, {'the aggregation': ('dobj', 'suppress')}, {'CAD': ('pobj', 'of')}, {"the CAD's renaturation": ('dobj', 'supported')}, {'Hsc70-Hsp40': ('pobj', 'with')}, {'ICAD': ('nsubj', 'recognizes')}, {'the quasi-native folding state': ('dobj', 'recognizes')}, {'CAD': ('pobj', 'of')}, {'Hsc70-Hsp40': ('pobj', 'by')}]
+ --> contrast ICAD  --> the aggregation  --> CAD  --> the CAD's renaturation  --> Hsc70-Hsp40 ICAD  --> the quasi-native folding state  --> CAD  --> Hsc70-Hsp40
+
+These results indicate that ICAD together with Hsc70-Hsp40 assists the folding of CAD during its synthesis, and that the CAD*ICAD heterodimer is formed co-translationally.
+[{'These results': ('nsubj', 'indicate')}, {'ICAD': ('nsubj', 'assists')}, {'Hsc70-Hsp40': ('pobj', 'with')}, {'the folding': ('dobj', 'assists')}, {'CAD': ('pobj', 'of')}, {'its synthesis': ('pobj', 'during')}, {'the CAD*ICAD heterodimer': ('nsubjpass', 'formed')}]
+These results ICAD  --> Hsc70-Hsp40  --> the folding  --> CAD  --> its synthesis the CAD*ICAD heterodimer
+
+However, PTEN inhibited NF-kappaB-dependent transcription by blocking the ability of TNF to stimulate the transactivation domain of the p65 subunit.
+[{'PTEN': ('nsubj', 'inhibited')}, {'NF-kappaB-dependent transcription': ('dobj', 'inhibited')}, {'the ability': ('dobj', 'blocking')}, {'TNF': ('pobj', 'of')}, {'the transactivation domain': ('dobj', 'stimulate')}, {'the p65 subunit': ('pobj', 'of')}]
+PTEN  --> NF-kappaB-dependent transcription  --> the ability  --> TNF  --> the transactivation domain  --> the p65 subunit
+
+PTEN also inhibited the transactivation potential of the cyclic AMP-response element-binding protein, but this was not observed for c-Jun.
+[{'PTEN': ('nsubj', 'inhibited')}, {'the transactivation potential': ('dobj', 'inhibited')}, {'the cyclic AMP-response element-binding protein': ('pobj', 'of')}, {'c-Jun': ('pobj', 'for')}]
+PTEN  --> the transactivation potential  --> the cyclic AMP-response element-binding protein  --> c-Jun
+
+However, CD38 appeared as an independent factor for OS when restricted to Binet stage A. Chromosomal aberrations were re-evaluated during evolution in 31 cases.
+[{'CD38': ('nsubj', 'appeared')}, {'an independent factor': ('pobj', 'as')}, {'OS': ('pobj', 'for')}, {'Binet stage A. Chromosomal aberrations': ('pobj', 'to')}, {'evolution': ('pobj', 'during')}, {'31 cases': ('pobj', 'in')}]
+CD38  --> an independent factor  --> OS  --> Binet stage A. Chromosomal aberrations  --> evolution  --> 31 cases
+
+Our data suggest that NEP is more decisive than ACE in mediating BK degradation and may indicate BK involvement in the cardioprotective effects of AT1 antagonists.
+[{'Our data': ('nsubj', 'suggest')}, {'NEP': ('nsubj', 'is')}, {'ACE': ('pobj', 'than')}, {'BK degradation': ('dobj', 'mediating')}, {'BK involvement': ('dobj', 'indicate')}, {'the cardioprotective effects': ('pobj', 'in')}, {'AT1 antagonists': ('pobj', 'of')}]
+Our data NEP  --> ACE  --> BK degradation  --> BK involvement  --> the cardioprotective effects  --> AT1 antagonists
+
+Deletion mutation analysis demonstrated that MVP binds to the C2 domain of PTEN and that PTEN interacts with MVP through its EF hand-like motif.
+[{'Deletion mutation analysis': ('nsubj', 'demonstrated')}, {'the C2 domain': ('pobj', 'to')}, {'PTEN': ('pobj', 'of')}, {'PTEN': ('nsubj', 'interacts')}, {'MVP': ('pobj', 'with')}, {'its EF hand-like motif': ('pobj', 'through')}]
+Deletion mutation analysis  --> the C2 domain  --> PTEN PTEN  --> MVP  --> its EF hand-like motif
+
+GAD2 maps to chromosome 10p11.23 and encodes the 65-kDa isoform of GAD65, a major autoantigen in type 1 diabetes.
+[{'GAD2': ('nsubj', 'maps')}, {'10p11.23': ('dobj', 'chromosome')}, {'the 65-kDa isoform': ('dobj', 'encodes')}, {'GAD65': ('pobj', 'of')}, {'a major autoantigen': ('appos', 'GAD65')}, {'type 1 diabetes': ('pobj', 'in')}]
+GAD2  --> 10p11.23  --> the 65-kDa isoform  --> GAD65   --> type 1 diabetes
+
+While NQO1 is a known detoxification enzyme, the function of NQO2 is less well understood.
+[{'NQO1': ('nsubj', 'is')}, {'a known detoxification enzyme': ('attr', 'is')}, {'the function': ('nsubj', 'is')}, {'NQO2': ('pobj', 'of')}]
+NQO1  the function  --> NQO2
+
+CD38 is a progression marker in HIV-1 infection, it displays lateral association with CD4, and down-modulates gp120/CD4 binding.
+[{'CD38': ('nsubj', 'is')}, {'a progression marker': ('attr', 'is')}, {'HIV-1 infection': ('pobj', 'in')}, {'it': ('nsubj', 'displays')}, {'lateral association': ('dobj', 'displays')}, {'CD4': ('pobj', 'with')}]
+CD38   --> HIV-1 infection it  --> lateral association  --> CD4
+
+CD38 signaling, either induced by ligation with specific agonistic monoclonal antibody (mAb) or after interaction with CD31, its cognate counter-receptor, is involved in release of IL-1beta, IL-6, and IL-10 cytokines in resting human monocytes.
+[{'CD38': ('nsubj', 'signaling')}, {'ligation': ('pobj', 'by')}, {'specific agonistic monoclonal antibody': ('pobj', 'with')}, {'interaction': ('pobj', 'after')}, {'CD31': ('pobj', 'with')}, {'its cognate counter-receptor': ('appos', 'signaling')}, {'release': ('pobj', 'in')}, {'IL-1beta': ('pobj', 'of')}, {'IL-10 cytokines': ('conj', 'involved')}, {'human monocytes': ('dobj', 'resting')}]
+CD38  --> ligation  --> specific agonistic monoclonal antibody  --> interaction  --> CD31   --> release  --> IL-1beta  and IL-10 cytokines  --> human monocytes
+
+Amino acid sequence alignments and phylogenetic analysis revealed that EBPL is distantly related to EBP (31% identity and 52% similarity) and found in animals but not in plants.
+[{'Amino acid sequence alignments': ('nsubj', 'revealed')}, {'phylogenetic analysis': ('conj', 'alignments')}, {'EBPL': ('nsubjpass', 'related')}, {'EBP': ('pobj', 'to')}, {'31% identity': ('appos', 'EBP')}, {'52% similarity': ('conj', 'identity')}, {'animals': ('pobj', 'in')}, {'plants': ('pobj', 'in')}]
+Amino acid sequence alignments and phylogenetic analysis  EBPL  --> EBP  and 52% similarity   --> animals  --> plants
+
+Although recent studies suggested that p53 and Egr-1 can modulate induced PTEN expression, the mechanism responsible for ubiquitous constitutive expression of PTEN remains elusive.
+[{'recent studies': ('nsubj', 'suggested')}, {'p53': ('nsubj', 'remains')}, {'induced PTEN expression': ('dobj', 'modulate')}, {'the mechanism': ('appos', 'p53')}, {'ubiquitous constitutive expression': ('pobj', 'for')}, {'PTEN': ('pobj', 'of')}]
+recent studies p53  --> induced PTEN expression   --> ubiquitous constitutive expression  --> PTEN
+
+We propose that ARG1 affects the localization and/or activity of PIN or other proteins involved in lateral auxin transport.
+[{'We': ('nsubj', 'propose')}, {'ARG1': ('nsubj', 'affects')}, {'the localization': ('dobj', 'affects')}, {'activity': ('conj', 'localization')}, {'PIN': ('pobj', 'of')}, {'other proteins': ('conj', 'PIN')}, {'lateral auxin transport': ('pobj', 'in')}]
+We ARG1  --> the localization and activity   --> PIN and other proteins   --> lateral auxin transport
+
+CS is synthesized in the ER (endoplasmic reticulum) and is targeted to the TC (terminal cisternae) of SR via mechanisms still largely unknown, but probably involving vesicle transport through the Golgi complex.
+[{'CS': ('nsubjpass', 'synthesized')}, {'the ER': ('pobj', 'in')}, {'endoplasmic reticulum': ('appos', 'ER')}, {'the TC (terminal cisternae': ('pobj', 'to')}, {'SR': ('pobj', 'of')}, {'mechanisms': ('pobj', 'via')}, {'vesicle transport': ('dobj', 'involving')}, {'the Golgi complex': ('pobj', 'through')}]
+CS  --> the ER   --> the TC (terminal cisternae  --> SR  --> mechanisms  --> vesicle transport  --> the Golgi complex
+
+PTEN appears to play a crucial role in modulating apoptosis by reducing the levels of PtdIns(3,4,5)P3, a phospholipid that activates AKT, a central regulator of apoptosis.
+[{'PTEN': ('nsubj', 'appears')}, {'a crucial role': ('dobj', 'play')}, {'apoptosis': ('dobj', 'modulating')}, {'the levels': ('dobj', 'reducing')}, {'a phospholipid': ('appos', 'levels')}, {'AKT': ('dobj', 'activates')}, {'a central regulator': ('appos', 'phospholipid')}, {'apoptosis': ('pobj', 'of')}]
+PTEN  --> a crucial role  --> apoptosis  --> the levels   --> AKT   --> apoptosis
+
+ABCG2 [also known as BCRP (breast cancer resistance protein) or MXR] is an ABC (ATP-binding cassette) protein shown to confer multidrug resistance.
+[{'ABCG2': ('nsubj', 'is')}, {'BCRP': ('pobj', 'as')}, {'breast cancer resistance protein': ('appos', 'BCRP')}, {'MXR': ('conj', 'ABCG2')}, {'(ATP-binding cassette': ('appos', 'ABC')}, {'multidrug resistance': ('dobj', 'confer')}]
+ABCG2 and MXR  --> BCRP     --> multidrug resistance
+
+SLC26A7 is a recently identified Cl(-)/HCO(3)(-) exchanger that co-localizes with AE1 on the basolateral membrane of Alpha intercalated cells (A-IC) in outer medullary collecting duct (OMCD).
+[{'SLC26A7': ('nsubj', 'is')}, {'AE1': ('pobj', 'with')}, {'the basolateral membrane': ('pobj', 'on')}, {'Alpha intercalated cells': ('pobj', 'of')}, {'A-IC': ('appos', 'cells')}, {'outer medullary collecting duct': ('pobj', 'in')}, {'OMCD': ('appos', 'duct')}]
+SLC26A7  --> AE1  --> the basolateral membrane  --> Alpha intercalated cells   --> outer medullary collecting duct 
+
+PRODH maps to 22q11 in the region deleted in the velocardiofacial syndrome/DiGeorge syndrome (VCFS/DGS) and encodes proline oxidase (POX), a mitochondrial inner-membrane enzyme that catalyzes the first step in the proline degradation pathway.
+[{'PRODH': ('nsubj', 'maps')}, {'the region': ('pobj', 'in')}, {'the velocardiofacial syndrome/DiGeorge syndrome': ('pobj', 'in')}, {'(VCFS/DGS': ('appos', 'syndrome')}, {'proline oxidase': ('dobj', 'encodes')}, {'POX': ('appos', 'oxidase')}, {'a mitochondrial inner-membrane enzyme': ('appos', 'oxidase')}, {'the first step': ('dobj', 'catalyzes')}, {'the proline degradation pathway': ('pobj', 'in')}]
+PRODH  --> the region  --> the velocardiofacial syndrome/DiGeorge syndrome   --> proline oxidase    --> the first step  --> the proline degradation pathway
+
+The data suggest that CD36 and the PPARs are components of the FA-sensing machinery to respond to changes in FA flux in a tissue-specific manner.
+[{'The data': ('nsubj', 'suggest')}, {'CD36': ('nsubj', 'are')}, {'the PPARs': ('conj', 'CD36')}, {'components': ('attr', 'are')}, {'the FA-sensing machinery': ('pobj', 'of')}, {'changes': ('pobj', 'to')}, {'FA': ('pobj', 'in')}, {'a tissue-specific manner': ('pobj', 'in')}]
+The data CD36 and the PPARs    --> the FA-sensing machinery  --> changes  --> FA  --> a tissue-specific manner
+
+PIK3CA belongs to the phosphatidylinositol 3-kinases (PI3Ks) family, which play an important role in proliferation, adherence, transformation and cell survival through the PI3K/AKT signaling pathway.
+[{'PIK3CA': ('nsubj', 'belongs')}, {'the phosphatidylinositol': ('pobj', 'to')}, {'3-kinases (PI3Ks) family': ('appos', 'phosphatidylinositol')}, {'an important role': ('dobj', 'play')}, {'proliferation': ('pobj', 'in')}, {'adherence': ('conj', 'proliferation')}, {'transformation': ('conj', 'adherence')}, {'cell survival': ('conj', 'transformation')}, {'PI3K': ('pobj', 'the')}, {'/AKT': ('ROOT', 'AKT')}, {'pathway': ('dobj', 'signaling')}]
+PIK3CA  --> the phosphatidylinositol   --> an important role  --> proliferation and adherence  and transformation  and cell survival   --> PI3K   --> pathway
+
+CYP2E1 is known to be induced in streptozotocin (STZ)-treated diabetic rats (STZ rats), and its induction is improved by insulin.
+[{'CYP2E1': ('nsubjpass', 'known')}, {'streptozotocin': ('pobj', 'in')}, {'diabetic rats': ('pobj', 'STZ)-treated')}, {'its induction': ('nsubjpass', 'improved')}, {'insulin': ('pobj', 'by')}]
+CYP2E1  --> streptozotocin  --> diabetic rats its induction  --> insulin
+
+In conclusion, PTEN could inhibit cell invasion even in the presence of the constitutively active EGFR; this inhibition depended on its protein phosphatase activity, partially by dephosphorylating FAK, but not depended on its lipid phosphatase activity.
+[{'conclusion': ('pobj', 'In')}, {'PTEN': ('nsubj', 'inhibit')}, {'cell invasion': ('dobj', 'inhibit')}, {'the presence': ('pobj', 'in')}, {'the constitutively active EGFR': ('pobj', 'of')}, {'this inhibition': ('nsubj', 'depended')}, {'its protein phosphatase activity': ('pobj', 'on')}, {'FAK': ('dobj', 'dephosphorylating')}, {'its lipid phosphatase activity': ('pobj', 'on')}]
+ --> conclusion PTEN  --> cell invasion  --> the presence  --> the constitutively active EGFR this inhibition  --> its protein phosphatase activity  --> FAK  --> its lipid phosphatase activity
+
+CD36 has recently been shown to facilitate monocyte Toll-like receptor 2 (TLR2) recognition of lipoteichoic acid (LTA), much like CD14 in TLR4 recognition of lipopolysaccharide.
+[{'CD36': ('nsubjpass', 'shown')}, {'monocyte Toll-like receptor 2 (TLR2) recognition': ('dobj', 'facilitate')}, {'lipoteichoic acid': ('pobj', 'of')}, {'(LTA': ('appos', 'acid')}, {'CD14': ('pobj', 'like')}, {'TLR4 recognition': ('pobj', 'in')}, {'lipopolysaccharide': ('pobj', 'of')}]
+CD36  --> monocyte Toll-like receptor 2 (TLR2) recognition  --> lipoteichoic acid   --> CD14  --> TLR4 recognition  --> lipopolysaccharide
+
+ACP6 (acid phosphatase 6, lysophosphatidic) is a lysophosphatidic acid (LPA)-specific phosphatase that hydrolyzes LPA to monoacylglycerol and is involved in lipid metabolism in the mitochondria.
+[{'ACP6': ('nsubj', 'is')}, {'(acid phosphatase': ('appos', 'ACP6')}, {'a lysophosphatidic acid': ('attr', 'is')}, {'phosphatase': ('appos', 'acid')}, {'LPA': ('dobj', 'hydrolyzes')}, {'monoacylglycerol': ('pobj', 'to')}, {'lipid metabolism': ('pobj', 'in')}, {'the mitochondria': ('pobj', 'in')}]
+ACP6     --> LPA  --> monoacylglycerol  --> lipid metabolism  --> the mitochondria
+
+PTEN (phosphatase with tensin homology) is a potent negative regulator of phosphoinositide 3-kinase (PI3K)/Akt signaling, an evolutionarily conserved pathway that signals downstream of growth factors, including insulin and insulin-like growth factor 1.
+[{'PTEN': ('nsubj', 'is')}, {'phosphatase': ('appos', 'PTEN')}, {'tensin homology': ('pobj', 'with')}, {'a potent negative regulator': ('attr', 'is')}, {'pathway': ('dobj', 'conserved')}, {'growth factors': ('pobj', 'of')}, {'insulin': ('pobj', 'including')}, {'insulin-like growth factor': ('conj', 'insulin')}]
+PTEN   --> tensin homology   --> pathway  --> growth factors  --> insulin and insulin-like growth factor 
+
+HNE together with inhibition of PTEN gave increased Ser(473)Akt but not Ser(9)GSK3beta phosphorylation and no effects on the number of viable or early apoptotic cells.
+[{'HNE': ('nsubj', 'gave')}, {'inhibition': ('pobj', 'with')}, {'PTEN': ('pobj', 'of')}, {'increased Ser(473)Akt': ('dobj', 'gave')}, {'phosphorylation': ('conj', 'Ser(473)Akt')}, {'no effects': ('conj', 'Ser(473)Akt')}, {'the number': ('pobj', 'on')}, {'viable or early apoptotic cells': ('pobj', 'of')}]
+HNE  --> inhibition  --> PTEN  --> increased Ser(473)Akt and phosphorylation and no effects    --> the number  --> viable or early apoptotic cells
+
+Collectively, our findings show for the first time that AQP3 is expressed in human skin fibroblasts and that EGF induces AQP3 expression via EGFR, PI3K and ERK signal transduction pathways.
+[{'the first time': ('pobj', 'for')}, {'AQP3': ('nsubjpass', 'expressed')}, {'human skin fibroblasts': ('pobj', 'in')}, {'EGF': ('nsubj', 'induces')}, {'AQP3 expression': ('dobj', 'induces')}, {'EGFR': ('pobj', 'via')}, {'PI3K': ('conj', 'EGFR')}, {'ERK': ('conj', 'K')}, {'signal transduction pathways': ('conj', 'K')}]
+ --> the first time AQP3  --> human skin fibroblasts EGF  --> AQP3 expression  --> EGFR and PI3K  and ERK and signal transduction pathways  
+
+Taken together, these findings demonstrate that PTEN potently modulate HBx-mediated signaling and is a viable target in therapeutic approaches to inhibit the formation of HCC caused by HBV infections.
+[{'these findings': ('nsubj', 'demonstrate')}, {'PTEN': ('nsubj', 'modulate')}, {'HBx-mediated signaling': ('dobj', 'modulate')}, {'a viable target': ('attr', 'is')}, {'therapeutic approaches': ('pobj', 'in')}, {'the formation': ('dobj', 'inhibit')}, {'HCC': ('pobj', 'of')}, {'HBV infections': ('pobj', 'by')}]
+these findings PTEN  --> HBx-mediated signaling   --> therapeutic approaches  --> the formation  --> HCC  --> HBV infections
+
+In addition, PTEN began to localize to the plasma membranes and nuclei at MBT.
+[{'addition': ('pobj', 'In')}, {'PTEN': ('nsubj', 'began')}, {'the plasma membranes': ('pobj', 'to')}, {'nuclei': ('conj', 'membranes')}, {'MBT': ('pobj', 'at')}]
+ --> addition PTEN  --> the plasma membranes and nuclei   --> MBT
+
+ABCA3 was coexpressed with SP-B and proSP-C in type II epithelial cells.
+[{'ABCA3': ('nsubjpass', 'coexpressed')}, {'SP-B': ('pobj', 'with')}, {'proSP-C': ('conj', 'B')}, {'type II epithelial cells': ('pobj', 'in')}]
+ABCA3 and proSP-C  --> SP-B   --> type II epithelial cells
+
+Previous data suggested that SLC25A19, also called DNC, is a mitochondrial deoxyribonucleotide transporter.
+[{'Previous data': ('nsubj', 'suggested')}, {'SLC25A19': ('nsubj', 'called')}, {'DNC': ('dobj', 'called')}, {'a mitochondrial deoxyribonucleotide transporter': ('attr', 'is')}]
+Previous data SLC25A19  --> DNC 
+
+LPS induced the expression of PTEN in a dose and time-dependent manner in NIH3T3 cells (0-1 microg/ml, 0-6h).
+[{'LPS': ('nsubj', 'induced')}, {'the expression': ('dobj', 'induced')}, {'PTEN': ('pobj', 'of')}, {'a dose': ('pobj', 'in')}, {'time-dependent manner': ('conj', 'dose')}, {'NIH3T3 cells': ('pobj', 'in')}, {'0-1 microg/ml': ('appos', 'cells')}]
+LPS  --> the expression  --> PTEN  --> a dose and time-dependent manner   --> NIH3T3 cells 
+
+PTEN (phosphatase and tensin homologue deleted on chromosome 10) is a tumour suppressor that functions as a PtdIns(3,4,5)P3 3-phosphatase to inhibit cell proliferation, survival and growth by antagonizing PI3K (phosphoinositide 3-kinase)-dependent signalling.
+[{'PTEN': ('nsubj', 'deleted')}, {'phosphatase': ('appos', 'PTEN')}, {'tensin homologue': ('conj', 'phosphatase')}, {'chromosome': ('pobj', 'on')}, {'a tumour suppressor': ('attr', 'is')}, {'cell proliferation': ('dobj', 'inhibit')}, {'survival': ('conj', 'proliferation')}, {'growth': ('conj', 'survival')}, {'PI3K': ('dobj', 'antagonizing')}]
+PTEN  and tensin homologue   --> chromosome   --> cell proliferation and survival  and growth   --> PI3K
+
+PTEN (phosphatase and tensin homologue deleted on chromosome 10), also referred to as MMAC1 (mutated in multiple advanced cancers) gene was recently identified as a putative tumor suppressor in a variety of malignant tumors.
+[{'PTEN': ('nsubj', 'deleted')}, {'phosphatase': ('appos', 'PTEN')}, {'tensin homologue': ('conj', 'phosphatase')}, {'chromosome': ('pobj', 'on')}, {'MMAC1': ('pobj', 'as')}, {'multiple advanced cancers': ('pobj', 'in')}, {'gene': ('nsubjpass', 'identified')}, {'a putative tumor suppressor': ('pobj', 'as')}, {'a variety': ('pobj', 'in')}, {'malignant tumors': ('pobj', 'of')}]
+PTEN  and tensin homologue   --> chromosome  --> MMAC1  --> multiple advanced cancers gene  --> a putative tumor suppressor  --> a variety  --> malignant tumors
+
+CD38 is involved in normal airway function, IL-13-induced airway hyperresponsiveness (AHR), and is also regulated by tumor necrosis factor (TNF)-alpha in airway smooth muscle (ASM) cells.
+[{'CD38': ('nsubjpass', 'involved')}, {'normal airway function': ('pobj', 'in')}, {'IL-13-induced': ('conj', 'involved')}, {'airway hyperresponsiveness': ('dobj', 'IL-13-induced')}, {'AHR': ('appos', 'hyperresponsiveness')}, {'tumor necrosis factor': ('pobj', 'by')}, {'airway': ('pobj', 'in')}]
+CD38  --> normal airway function  and IL-13-induced --> airway hyperresponsiveness    --> tumor necrosis factor  --> airway
+
+In conclusion, CD38 contributes to TNF-alpha-induced AHR after a brief airway exposure to the cytokine, likely by mediating changes in ASM contractile responses, and is associated with greater AHR remission following chronic airway exposure to TNF-alpha.
+[{'conclusion': ('pobj', 'In')}, {'CD38': ('nsubj', 'contributes')}, {'TNF-alpha-induced AHR': ('pobj', 'to')}, {'a brief airway exposure': ('pobj', 'after')}, {'the cytokine': ('pobj', 'to')}, {'changes': ('dobj', 'mediating')}, {'ASM contractile responses': ('pobj', 'in')}, {'greater AHR remission': ('pobj', 'with')}, {'chronic airway exposure': ('dobj', 'following')}, {'TNF-alpha': ('pobj', 'to')}]
+ --> conclusion CD38  --> TNF-alpha-induced AHR  --> a brief airway exposure  --> the cytokine  --> changes  --> ASM contractile responses  --> greater AHR remission  --> chronic airway exposure  --> TNF-alpha
+
+Strikingly, FCRL2 demonstrated 94.4% concordance with IGHV mutation compared with 76.6% for CD38 and 80.4% for ZAP-70.
+[{'FCRL2': ('nsubj', 'demonstrated')}, {'94.4% concordance': ('dobj', 'demonstrated')}, {'IGHV mutation': ('pobj', 'with')}, {'76.6%': ('pobj', 'with')}, {'CD38': ('pobj', 'for')}, {'80.4%': ('conj', '%')}]
+FCRL2  --> 94.4% concordance and 80.4%  --> IGHV mutation  --> 76.6%  --> CD38 
+
+PC (phosphatidylcholine) is believed to be the phosphocholine donor of the reaction with consequent production of DAG (diacylglycerol), an important bioactive lipid.
+[{'PC': ('nsubjpass', 'believed')}, {'phosphatidylcholine': ('appos', 'PC')}, {'the phosphocholine donor': ('attr', 'be')}, {'the reaction': ('pobj', 'of')}, {'consequent production': ('pobj', 'with')}, {'DAG': ('pobj', 'of')}, {'(diacylglycerol': ('appos', 'DAG')}, {'an important bioactive lipid': ('appos', 'DAG')}]
+PC    --> the reaction  --> consequent production  --> DAG  
+
+With this approach, we found, using confocal microscopy and subcellular fractionation, that modulation of SMS1 and, to a lesser extent, SMS2 affected the formation of DAG at the Golgi apparatus.
+[{'this approach': ('pobj', 'With')}, {'we': ('nsubj', 'found')}, {'confocal microscopy and subcellular fractionation': ('dobj', 'using')}, {'that modulation': ('appos', 'fractionation')}, {'SMS1': ('pobj', 'of')}, {'a lesser extent': ('pobj', 'to')}, {'SMS2': ('nsubj', 'affected')}, {'the formation': ('dobj', 'affected')}, {'DAG': ('pobj', 'of')}, {'the Golgi apparatus': ('pobj', 'at')}]
+ --> this approach we  --> confocal microscopy and subcellular fractionation   --> SMS1  --> a lesser extent SMS2  --> the formation  --> DAG  --> the Golgi apparatus
+
+Men with the 8590CC genotype had significantly higher systolic BP (CC 156.5 +/- 22.6 versus 148.4 +/- 24.3 mmHg in CT and TT combined; P = 0.04) and pulse pressure (P = 0.04) at baseline; this association was not observed among women.
+[{'Men': ('nsubj', 'had')}, {'the 8590CC genotype': ('pobj', 'with')}, {'significantly higher systolic BP': ('dobj', 'had')}, {'CC': ('appos', 'BP')}, {'CT': ('pobj', 'in')}, {'TT': ('conj', 'CT')}, {'P = 0.04) and pulse pressure': ('nsubjpass', 'observed')}, {'P': ('appos', 'pressure')}, {'baseline': ('pobj', 'at')}, {'this association': ('nsubjpass', 'observed')}, {'women': ('pobj', 'among')}]
+Men  --> the 8590CC genotype  --> significantly higher systolic BP   --> CT and TT  P = 0.04) and pulse pressure   --> baseline this association  --> women
+
+Here we show that SETD2 could interact with p53 and selectively regulate the transcription factor activity of p53.
+[{'we': ('nsubj', 'show')}, {'SETD2': ('nsubj', 'interact')}, {'p53': ('pobj', 'with')}, {'the transcription factor activity': ('dobj', 'regulate')}, {'p53': ('pobj', 'of')}]
+we SETD2  --> p53  --> the transcription factor activity  --> p53
+
+GALNT3 encodes UDP-N-acetyl-alpha-d-galactosamine: polypeptide N-acetylgalactosaminyl-transferarase 3 (ppGalNacT3), a glycosyltransferase which has been suggested to prevent proteolysis of FGF23, a potent phosphaturic protein.
+[{'GALNT3': ('nsubj', 'encodes')}, {'d': ('pobj', 'alpha')}, {': polypeptide': ('appos', 'encodes')}, {'N-acetylgalactosaminyl-transferarase': ('appos', 'polypeptide')}, {'(ppGalNacT3': ('appos', 'polypeptide')}, {'a glycosyltransferase': ('appos', 'polypeptide')}, {'proteolysis': ('dobj', 'prevent')}, {'FGF23': ('pobj', 'of')}, {'a potent phosphaturic protein': ('appos', 'FGF23')}]
+GALNT3  --> d      --> proteolysis  --> FGF23 
+
+PTEN is a dual lipid and protein phosphatase that antagonizes PI3K as well as other signaling pathways and regulates cellular survival and growth.
+[{'PTEN': ('nsubj', 'is')}, {'a dual lipid and protein phosphatase': ('attr', 'is')}, {'PI3K': ('dobj', 'antagonizes')}, {'other signaling pathways': ('conj', 'K')}, {'cellular survival': ('dobj', 'regulates')}, {'growth': ('conj', 'survival')}]
+PTEN   --> PI3K and other signaling pathways   --> cellular survival and growth 
+
+In general, CYP1A2 was altered in the more meaningful way than CYP1A1 by isothiocyanates.
+[{'CYP1A2': ('nsubjpass', 'altered')}, {'the more meaningful way': ('pobj', 'in')}, {'CYP1A1': ('pobj', 'than')}, {'isothiocyanates': ('pobj', 'by')}]
+CYP1A2  --> the more meaningful way  --> CYP1A1  --> isothiocyanates
+
+SMYD3 directly interacts with the ligand binding domain of ER and is recruited to the proximal promoter regions of ER target genes upon gene induction.
+[{'SMYD3': ('nsubj', 'interacts')}, {'the ligand binding domain': ('pobj', 'with')}, {'ER': ('pobj', 'of')}, {'the proximal promoter regions': ('pobj', 'to')}, {'ER target genes': ('pobj', 'of')}, {'gene induction': ('pobj', 'upon')}]
+SMYD3  --> the ligand binding domain  --> ER  --> the proximal promoter regions  --> ER target genes  --> gene induction
+
+In rat fasciculata cells, ACTH induced a massive redistribution of seladin-1 from the cytoplasm (cis-Golgi apparatus) to the nucleus, which was inhibited by preincubation with U18666A.
+[{'rat fasciculata cells': ('pobj', 'In')}, {'ACTH': ('nsubj', 'induced')}, {'a massive redistribution': ('dobj', 'induced')}, {'seladin-1': ('pobj', 'of')}, {'the cytoplasm': ('pobj', 'from')}, {'cis-Golgi apparatus': ('appos', 'cytoplasm')}, {'the nucleus': ('pobj', 'to')}, {'preincubation': ('pobj', 'by')}, {'U18666A.': ('pobj', 'with')}]
+ --> rat fasciculata cells ACTH  --> a massive redistribution  --> seladin-1  --> the cytoplasm   --> the nucleus  --> preincubation  --> U18666A.
+
+Not surprisingly, CYP1A2 has a relatively small volume of the active site cavity of 375 A(3), which is 44.2% larger than that of CYP2A6 (260 A(3)), but much smaller than that of CYP3A4 (1385 A(3)) and 2C8 (1438 A(3)).
+[{'CYP1A2': ('nsubj', 'has')}, {'a relatively small volume': ('dobj', 'has')}, {'the active site cavity': ('pobj', 'of')}, {'375 A(3': ('pobj', 'of')}, {'CYP2A6': ('pobj', 'of')}, {'CYP3A4': ('pobj', 'of')}, {'A(3': ('appos', '2C8')}]
+CYP1A2  --> a relatively small volume  --> the active site cavity  --> 375 A(3  --> CYP2A6  --> CYP3A4 
+
+PTEN is one of the most commonly lost tumor suppressors in human cancer and is known to inhibit insulin signaling.
+[{'PTEN': ('nsubj', 'is')}, {'the most commonly lost tumor suppressors': ('pobj', 'of')}, {'human cancer': ('pobj', 'in')}, {'insulin': ('dobj', 'inhibit')}]
+PTEN  --> the most commonly lost tumor suppressors  --> human cancer  --> insulin
+
+Because CD36 has been shown to cooperate with TLR2, we investigated the roles and interactions of CD36 and TLRs in inflammation and phagocytosis.
+[{'CD36': ('nsubjpass', 'shown')}, {'TLR2': ('pobj', 'with')}, {'we': ('nsubj', 'investigated')}, {'the roles': ('dobj', 'investigated')}, {'interactions': ('conj', 'roles')}, {'CD36': ('pobj', 'of')}, {'TLRs': ('conj', 'CD36')}, {'inflammation': ('pobj', 'in')}, {'phagocytosis': ('conj', 'inflammation')}]
+CD36 and TLRs  --> TLR2 we  --> the roles and interactions   --> CD36   --> inflammation and phagocytosis 
+
+CYP2C19 converts the tricyclic antidepressant imipramine to its active metabolite desipramine, which is subsequently inactivated by CYP2D6.
+[{'CYP2C19': ('nsubj', 'converts')}, {'the tricyclic antidepressant imipramine': ('dobj', 'converts')}, {'its active metabolite desipramine': ('pobj', 'to')}, {'CYP2D6': ('pobj', 'by')}]
+CYP2C19  --> the tricyclic antidepressant imipramine  --> its active metabolite desipramine  --> CYP2D6
+
+PTEN is the second most mutated tumor suppressor gene other than p53.
+[{'PTEN': ('nsubj', 'is')}, {'the second most mutated tumor suppressor gene': ('attr', 'is')}, {'p53': ('pobj', 'than')}]
+PTEN   --> p53
+
+PON3 is a member of the paraoxonase gene family that includes PON1 and PON2.
+[{'PON3': ('nsubj', 'is')}, {'a member': ('attr', 'is')}, {'the paraoxonase gene family': ('pobj', 'of')}, {'PON1': ('dobj', 'includes')}, {'PON2': ('conj', 'PON1')}]
+PON3   --> the paraoxonase gene family  --> PON1 and PON2 
+
+NPR1 (for Nonexpressor of PR genes; also known as NIM1) is a positive regulator of systemic acquired resistance (SAR) in Arabidopsis, which controls the induction of Pathogenesis-Related (PR) genes by salicylic acid (SA).
+[{'NPR1': ('nsubj', 'is')}, {'Nonexpressor': ('pobj', 'for')}, {'PR genes': ('pobj', 'of')}, {'NIM1': ('pobj', 'as')}, {'a positive regulator': ('attr', 'is')}, {'systemic acquired resistance': ('pobj', 'of')}, {'SAR': ('appos', 'resistance')}, {'Arabidopsis': ('pobj', 'in')}, {'the induction': ('dobj', 'controls')}, {'Pathogenesis-Related (PR) genes': ('pobj', 'of')}, {'salicylic acid': ('pobj', 'by')}, {'SA': ('appos', 'acid')}]
+NPR1  --> Nonexpressor  --> PR genes  --> NIM1   --> systemic acquired resistance   --> Arabidopsis  --> the induction  --> Pathogenesis-Related (PR) genes  --> salicylic acid 
+
+MDS was unrelated to the genotype and allele frequencies of c.516G>T SNP in CYP2B6.
+[{'MDS': ('nsubj', 'was')}, {'the genotype': ('pobj', 'to')}, {'allele frequencies': ('conj', 'genotype')}, {'c.516G>T SNP': ('pobj', 'of')}, {'CYP2B6': ('pobj', 'in')}]
+MDS  --> the genotype and allele frequencies   --> c.516G>T SNP  --> CYP2B6
+
+Because MEC projects preferentially to the proximal part of the CA1, bordering CA2, whereas LEC innervates only the distal part, bordering subiculum, we asked if spatial tuning is graded along the transverse axis of CA1.
+[{'MEC': ('nsubj', 'projects')}, {'the proximal part': ('pobj', 'to')}, {'the CA1': ('pobj', 'of')}, {'CA2': ('dobj', 'bordering')}, {'LEC': ('nsubj', 'innervates')}, {'only the distal part': ('dobj', 'innervates')}, {'bordering subiculum': ('appos', 'part')}, {'we': ('nsubj', 'asked')}, {'spatial tuning': ('nsubjpass', 'graded')}, {'the transverse axis': ('pobj', 'along')}, {'CA1': ('pobj', 'of')}]
+MEC  --> the proximal part  --> the CA1  --> CA2 LEC  --> only the distal part  we spatial tuning  --> the transverse axis  --> CA1
+
+In addition, mean (±s.d.) MR was higher among subjects carrying CYP2D6*17 than in CYP2D6 wt/wt (P<0.001).
+[{'addition': ('pobj', 'In')}, {'MR': ('nsubj', 'was')}, {'subjects': ('pobj', 'among')}, {'CYP2D6': ('pobj', 'in')}, {'wt/wt': ('ROOT', 'wt')}, {'P<0.001': ('appos', 'wt')}]
+ --> addition MR  --> subjects  --> CYP2D6  
+
+Finally, USP36 was shown to be a specific deubiquitinating enzyme that reduces the ubiquitination level of SOD2 and was involved in SOD2 protein stability by extending its half-life.
+[{'USP36': ('nsubjpass', 'shown')}, {'a specific deubiquitinating enzyme': ('attr', 'be')}, {'the ubiquitination level': ('dobj', 'reduces')}, {'SOD2': ('pobj', 'of')}, {'SOD2 protein stability': ('pobj', 'in')}, {'its half-life': ('dobj', 'extending')}]
+USP36   --> the ubiquitination level  --> SOD2  --> SOD2 protein stability  --> its half-life
+
+In cultured cells, AKR1B10 was present in lysosomes and was secreted with cathepsin D, a lysosomal marker.
+[{'cultured cells': ('pobj', 'In')}, {'AKR1B10': ('nsubj', 'was')}, {'lysosomes': ('pobj', 'in')}, {'cathepsin D': ('pobj', 'with')}, {'a lysosomal marker': ('appos', 'D')}]
+ --> cultured cells AKR1B10  --> lysosomes  --> cathepsin D 
+
+We further demonstrate that PTPMT1 specifically dephosphorylates PGP in vitro.
+[{'We': ('nsubj', 'demonstrate')}, {'PTPMT1': ('nsubj', 'dephosphorylates')}, {'PGP': ('dobj', 'dephosphorylates')}]
+We PTPMT1  --> PGP
+
+ENPP1 is also expressed in osteoblastic precursor cells when stimulated with FGF2, but the role of ENPP1 in preosteoblastic and other precursor cells is unknown.
+[{'ENPP1': ('nsubjpass', 'expressed')}, {'osteoblastic precursor cells': ('pobj', 'in')}, {'FGF2': ('pobj', 'with')}, {'the role': ('nsubj', 'is')}, {'ENPP1': ('pobj', 'of')}, {'preosteoblastic and other precursor cells': ('pobj', 'in')}]
+ENPP1  --> osteoblastic precursor cells  --> FGF2 the role  --> ENPP1  --> preosteoblastic and other precursor cells
+
+We demonstrate that CHIP and c-Cbl depletion have no effect on CFTR endocytosis, but c-Cbl depletion modestly enhanced the half-life of CFTR.
+[{'We': ('nsubj', 'demonstrate')}, {'CHIP': ('nsubj', 'have')}, {'c-Cbl depletion': ('conj', 'CHIP')}, {'no effect': ('dobj', 'have')}, {'CFTR endocytosis': ('pobj', 'on')}, {'c-Cbl depletion': ('nsubj', 'enhanced')}, {'the half-life': ('dobj', 'enhanced')}, {'CFTR': ('pobj', 'of')}]
+We CHIP and c-Cbl depletion   --> no effect  --> CFTR endocytosis c-Cbl depletion  --> the half-life  --> CFTR
+
+Taken together, these results suggest that AKR1B10 is up-regulated by EGF and insulin through AP-1 mitogenic signalling and may be implicated in hepatocarcinogenesis.
+[{'these results': ('nsubj', 'suggest')}, {'AKR1B10': ('nsubjpass', 'regulated')}, {'EGF': ('pobj', 'by')}, {'insulin': ('conj', 'EGF')}, {'AP-1 mitogenic signalling': ('pobj', 'through')}, {'hepatocarcinogenesis': ('pobj', 'in')}]
+these results AKR1B10  --> EGF and insulin   --> AP-1 mitogenic signalling  --> hepatocarcinogenesis
+
+IDO1 can be induced by interferon gamma (IFN-γ) in multiple cell types.
+[{'IDO1': ('nsubjpass', 'induced')}, {'interferon gamma': ('pobj', 'by')}, {'(IFN-γ': ('appos', 'gamma')}, {'multiple cell types': ('pobj', 'in')}]
+IDO1  --> interferon gamma   --> multiple cell types
+
+PTEN shares a CpG island promoter with another gene known as KLLN.
+[{'PTEN': ('nsubj', 'shares')}, {'a CpG island promoter': ('dobj', 'shares')}, {'another gene': ('pobj', 'with')}, {'KLLN': ('pobj', 'as')}]
+PTEN  --> a CpG island promoter  --> another gene  --> KLLN
+
+Although IDO2 enzyme activity is weaker than IDO1, it is less sensitive to 1-MT inhibition than IDO1.
+[{'IDO2': ('nsubj', 'enzyme')}, {'activity': ('dobj', 'enzyme')}, {'it': ('nsubj', 'is')}, {'1-MT inhibition': ('pobj', 'to')}, {'IDO1': ('pobj', 'than')}]
+IDO2  --> activity it  --> 1-MT inhibition  --> IDO1
+
+PIK3R2 encodes a ubiquitous regulatory subunit (p85β) of PI3K, an enzyme that generates 3-polyphosphoinositides at the plasma membrane.
+[{'PIK3R2': ('nsubj', 'encodes')}, {'a ubiquitous regulatory subunit': ('dobj', 'encodes')}, {'PI3K': ('pobj', 'of')}, {'an enzyme': ('appos', 'K')}, {'the plasma membrane': ('pobj', 'at')}]
+PIK3R2  --> a ubiquitous regulatory subunit  --> PI3K   --> the plasma membrane
+
+We observed that TSA induced an excessive generation of ROS, DNA damage, and dramatic apoptotic cell death in NQO1(+) A549 cells and H596-NQO1 cells, but not in NQO1(-) H596 cells.
+[{'We': ('nsubj', 'observed')}, {'TSA': ('nsubj', 'induced')}, {'an excessive generation': ('dobj', 'induced')}, {'ROS': ('pobj', 'of')}, {'DNA damage': ('conj', 'ROS')}, {'dramatic apoptotic cell death': ('conj', 'damage')}, {'NQO1(+': ('pobj', 'in')}, {'A549 cells': ('ROOT', 'cells')}, {'H596-NQO1 cells': ('conj', 'cells')}, {'NQO1(-': ('pobj', 'in')}, {'H596 cells': ('ROOT', 'cells')}]
+We TSA  --> an excessive generation  --> ROS and DNA damage  and dramatic apoptotic cell death   --> NQO1(+  and H596-NQO1 cells   --> NQO1(- 
+
+Mechanistically, NPM1 in the nucleus opposes HAUSP-mediated deubiquitination and this promotes the shuttle of PTEN to the cytoplasm.
+[{'NPM1': ('nsubj', 'opposes')}, {'the nucleus': ('pobj', 'in')}, {'HAUSP-mediated deubiquitination': ('dobj', 'opposes')}, {'the shuttle': ('dobj', 'promotes')}, {'PTEN': ('pobj', 'of')}, {'the cytoplasm': ('pobj', 'to')}]
+NPM1  --> the nucleus  --> HAUSP-mediated deubiquitination  --> the shuttle  --> PTEN  --> the cytoplasm
+
+These results indicate that WWOX may play an important role in GCA especially in individuals with UGIC family history.
+[{'These results': ('nsubj', 'indicate')}, {'WWOX': ('nsubj', 'play')}, {'an important role': ('dobj', 'play')}, {'GCA': ('pobj', 'in')}, {'individuals': ('pobj', 'in')}, {'UGIC family history': ('pobj', 'with')}]
+These results WWOX  --> an important role  --> GCA  --> individuals  --> UGIC family history
+
+KLLN, which shares a bidirectional promoter with PTEN, causes cell cycle arrest and apoptosis.
+[{'KLLN': ('nsubj', 'causes')}, {'a bidirectional promoter': ('dobj', 'shares')}, {'PTEN': ('pobj', 'with')}, {'cell cycle arrest': ('dobj', 'causes')}, {'apoptosis': ('conj', 'arrest')}]
+KLLN  --> a bidirectional promoter  --> PTEN  --> cell cycle arrest and apoptosis 
+
+PIK3CA encodes the catalytic subunit of PI3K, p110α.
+[{'PIK3CA': ('nsubj', 'encodes')}, {'the catalytic subunit': ('dobj', 'encodes')}, {'PI3K': ('pobj', 'of')}, {'p110α': ('appos', 'K')}]
+PIK3CA  --> the catalytic subunit  --> PI3K 
+
+DDC (diethyldithiocarbamate) could block collagen synthesis in HSC (hepatic stellate cells) through the inhibition of ROS (reactive oxygen species) derived from hepatocyte CYP2E1 (cytochrome P450 2E1).
+[{'DDC': ('nsubj', 'block')}, {'(diethyldithiocarbamate': ('appos', 'DDC')}, {'collagen synthesis': ('dobj', 'block')}, {'HSC': ('pobj', 'in')}, {'(hepatic stellate cells': ('appos', 'HSC')}, {'the inhibition': ('pobj', 'through')}, {'ROS': ('pobj', 'of')}, {'(reactive oxygen species': ('appos', 'ROS')}]
+DDC   --> collagen synthesis  --> HSC   --> the inhibition  --> ROS 
+
+LOXL2 is a copper- and lysine tyrosylquinone-dependent amine oxidase that has been proposed to function both extracellularly and intracellularly to activate oncogenic signaling pathways leading to EMT and invasion of breast cancer cells.
+[{'LOXL2': ('nsubj', 'is')}, {'a copper- and lysine': ('conj', 'is')}, {'tyrosylquinone-dependent amine oxidase': ('dobj', 'lysine')}, {'pathways': ('dobj', 'signaling')}, {'EMT': ('pobj', 'to')}, {'invasion': ('conj', 'EMT')}, {'breast cancer cells': ('pobj', 'of')}]
+LOXL2  and a copper- and lysine  --> tyrosylquinone-dependent amine oxidase  --> pathways  --> EMT and invasion   --> breast cancer cells
+
+Thus, CD36 enhances intracellular metabolism, i.e., esterification, and thereby increases the rate of FA uptake without catalyzing the translocation of FA across the plasma membrane, suggesting that CD36 is central to FA uptake via its effects on intracellular metabolism.
+[{'CD36': ('nsubj', 'enhances')}, {'intracellular metabolism': ('dobj', 'enhances')}, {'esterification': ('conj', 'i.e.')}, {'the rate': ('dobj', 'increases')}, {'FA uptake': ('pobj', 'of')}, {'the translocation': ('dobj', 'catalyzing')}, {'FA': ('pobj', 'of')}, {'the plasma membrane': ('pobj', 'across')}, {'CD36': ('nsubj', 'is')}, {'FA uptake': ('pobj', 'to')}, {'its effects': ('pobj', 'via')}, {'intracellular metabolism': ('pobj', 'on')}]
+CD36  --> intracellular metabolism  and esterification  --> the rate  --> FA uptake  --> the translocation  --> FA  --> the plasma membrane CD36  --> FA uptake  --> its effects  --> intracellular metabolism
+
+ACE2 (angiotensin-converting enzyme 2) counterbalances the actions of ACE (angiotensin-converting enzyme) by metabolizing its catalytic product, the vasoactive and fibrogenic peptide AngII (angiotensin II), into Ang-(1-7) [angiotensin-(1-7)].
+[{'ACE2': ('nsubj', 'counterbalances')}, {'(angiotensin-converting enzyme': ('appos', 'ACE2')}, {'the actions': ('dobj', 'counterbalances')}, {'ACE': ('pobj', 'of')}, {'(angiotensin-converting enzyme': ('appos', 'ACE')}, {'its catalytic product': ('dobj', 'metabolizing')}, {'the vasoactive and fibrogenic peptide': ('appos', 'product')}, {'AngII': ('appos', 'peptide')}, {'(angiotensin II': ('appos', 'AngII')}]
+ACE2   --> the actions  --> ACE   --> its catalytic product   
+
+KMT2D (lysine (K)-specific methyltransferase 2D), formerly named MLL2 (myeloid/lymphoid or mixed-lineage leukemia 2, also known as ALR/MLL4), is a histone methyltransferase that plays an important role in regulating gene transcription.
+[{'KMT2D': ('nsubj', 'is')}, {'(lysine': ('appos', 'KMT2D')}, {'ALR': ('pobj', 'as')}, {'/MLL4': ('appos', 'ALR')}, {'a histone methyltransferase': ('attr', 'is')}, {'an important role': ('dobj', 'plays')}, {'gene transcription': ('dobj', 'regulating')}]
+KMT2D   --> ALR    --> an important role  --> gene transcription
+
+The results showed that RBP2 down-regulated the expression of E-cadherin by inhibiting the promoter activity of E-cadherin and up-regulated the expression of N-cadherin and snail via the activation of Akt signaling, and the overexpression of RBP2 induced epithelial-mesenchymal transition in non-small cell lung cancer cells.
+[{'The results': ('nsubj', 'showed')}, {'RBP2': ('nsubj', 'regulated')}, {'the expression': ('dobj', 'regulated')}, {'E-cadherin': ('pobj', 'of')}, {'the promoter activity': ('dobj', 'inhibiting')}, {'E-cadherin': ('pobj', 'of')}, {'the expression': ('dobj', 'regulated')}, {'N-cadherin': ('pobj', 'of')}, {'snail': ('conj', 'cadherin')}, {'the activation': ('pobj', 'via')}, {'Akt': ('nsubj', 'signaling')}, {'the overexpression': ('nsubj', 'induced')}, {'RBP2': ('pobj', 'of')}, {'epithelial-mesenchymal transition': ('dobj', 'induced')}, {'non-small cell lung cancer cells': ('pobj', 'in')}]
+The results RBP2  --> the expression  --> E-cadherin and snail  --> the promoter activity  --> E-cadherin  --> the expression  --> N-cadherin   --> the activation Akt the overexpression  --> RBP2  --> epithelial-mesenchymal transition  --> non-small cell lung cancer cells
+
+Furthermore, we demonstrate that KO of MTMR14 significantly decreased the mRNA levels of p21 and p27, while increased those of cyclinD and cyclinE.
+[{'we': ('nsubj', 'demonstrate')}, {'KO': ('nsubj', 'decreased')}, {'MTMR14': ('pobj', 'of')}, {'the mRNA levels': ('dobj', 'decreased')}, {'p21': ('pobj', 'of')}, {'p27': ('conj', 'p21')}, {'cyclinD': ('pobj', 'of')}, {'cyclinE.': ('conj', 'cyclinD')}]
+we KO  --> MTMR14  --> the mRNA levels  --> p21 and p27   --> cyclinD and cyclinE. 
+
+Upon (insulin-like growth factor) IGF stimulation, we also found KO of MTMR14 enhanced the phosphorylation levels of AKT and ERK in MEFs.
+[{'(insulin-like growth factor': ('pobj', 'Upon')}, {'we': ('nsubj', 'found')}, {'KO': ('nsubj', 'enhanced')}, {'MTMR14': ('pobj', 'of')}, {'the phosphorylation levels': ('dobj', 'enhanced')}, {'AKT': ('pobj', 'of')}, {'ERK': ('conj', 'AKT')}, {'MEFs': ('pobj', 'in')}]
+ --> (insulin-like growth factor we KO  --> MTMR14  --> the phosphorylation levels  --> AKT and ERK   --> MEFs
+
+These findings show that ABCG2 plays an important role in regulating the migration and invasion of GSC, and represents a potential novel therapeutic agent to target the progression of GSCs.
+[{'These findings': ('nsubj', 'show')}, {'ABCG2': ('nsubj', 'plays')}, {'an important role': ('dobj', 'plays')}, {'the migration': ('dobj', 'regulating')}, {'invasion': ('conj', 'migration')}, {'GSC': ('pobj', 'of')}, {'a potential novel therapeutic agent': ('dobj', 'represents')}, {'the progression': ('dobj', 'target')}, {'GSCs': ('pobj', 'of')}]
+These findings ABCG2  --> an important role  --> the migration and invasion   --> GSC  --> a potential novel therapeutic agent  --> the progression  --> GSCs
+
+PTEN dephosphorylates phosphatidylinositol (3,4,5)-triphosphate, thereby opposing the activity of class I phosphatidylinositol 3-kinases that mediate growth- and survival-factor signalling through phosphatidylinositol 3-kinase effectors such as AKT and mTOR.
+[{'PTEN': ('nsubj', 'dephosphorylates')}, {'phosphatidylinositol': ('dobj', 'dephosphorylates')}, {'the activity': ('dobj', 'opposing')}, {'class': ('pobj', 'of')}, {'I': ('nsubj', 'phosphatidylinositol')}, {'growth- and survival-factor': ('dobj', 'mediate')}, {'phosphatidylinositol 3-kinase effectors': ('pobj', 'through')}, {'AKT': ('pobj', 'as')}, {'mTOR': ('conj', 'AKT')}]
+PTEN  --> phosphatidylinositol  --> the activity  --> class I  --> growth- and survival-factor  --> phosphatidylinositol 3-kinase effectors  --> AKT and mTOR 
+
+When HLCS was overexpressed, the abundance of H3K9ac marks decreased by 50% and 68% in LTRs (long terminal repeats) 15 and 22 respectively in HEK (human embryonic kidney)-293 cells compared with the controls.
+[{'HLCS': ('nsubjpass', 'overexpressed')}, {'the abundance': ('nsubj', 'decreased')}, {'H3K9ac marks': ('pobj', 'of')}, {'50%': ('pobj', 'by')}, {'68%': ('conj', '%')}, {'LTRs': ('pobj', 'in')}, {'HEK': ('pobj', 'in')}, {'human embryonic kidney)-293 cells': ('appos', 'HEK')}, {'the controls': ('pobj', 'with')}]
+HLCS the abundance  --> H3K9ac marks  --> 50% and 68%   --> LTRs  --> HEK   --> the controls
+
+OTC encodes ornithine carbamoyltransferase, mitochondrial matrix enzyme involved in the synthesis of urea.
+[{'OTC': ('nsubj', 'encodes')}, {'ornithine carbamoyltransferase': ('dobj', 'encodes')}, {'mitochondrial matrix enzyme': ('appos', 'carbamoyltransferase')}, {'the synthesis': ('pobj', 'in')}, {'urea': ('pobj', 'of')}]
+OTC  --> ornithine carbamoyltransferase   --> the synthesis  --> urea
+
+PIGF forms a heterodimer with either PIGG or PIGO, two enzymes that transfer an EtNP to the second or third mannoses of GPI respectively.
+[{'PIGF': ('nsubj', 'forms')}, {'a heterodimer': ('dobj', 'forms')}, {'either PIGG': ('pobj', 'with')}, {'PIGO': ('conj', 'PIGG')}, {'an EtNP': ('dobj', 'transfer')}, {'the second or third mannoses': ('pobj', 'to')}, {'GPI': ('pobj', 'of')}]
+PIGF  --> a heterodimer  --> either PIGG and PIGO   --> an EtNP  --> the second or third mannoses  --> GPI
+
+PIK3R1 (p85α regulatory subunit of PI3K) is frequently mutated across cancer lineages.
+[{'PIK3R1': ('nsubjpass', 'mutated')}, {'regulatory subunit': ('dobj', 'p85α')}, {'PI3K': ('pobj', 'of')}, {'cancer lineages': ('pobj', 'across')}]
+PIK3R1  --> regulatory subunit  --> PI3K  --> cancer lineages
+
+IDO2 is a relative of IDO1 implicated in tryptophan catabolism and immune modulation but its specific contributions to normal physiology and pathophysiology are not known.
+[{'IDO2': ('nsubj', 'is')}, {'a relative': ('nsubjpass', 'known')}, {'IDO1': ('pobj', 'of')}, {'tryptophan catabolism': ('pobj', 'in')}, {'immune modulation': ('conj', 'catabolism')}, {'its specific contributions': ('conj', 'catabolism')}, {'normal physiology': ('pobj', 'to')}, {'pathophysiology': ('conj', 'physiology')}]
+IDO2 a relative  --> IDO1  --> tryptophan catabolism and immune modulation and its specific contributions    --> normal physiology and pathophysiology 
+
+Evolutionary genetic studies suggest that IDO2 has a unique function ancestral to IDO1.
+[{'Evolutionary genetic studies': ('nsubj', 'suggest')}, {'IDO2': ('nsubj', 'has')}, {'a unique function': ('dobj', 'has')}, {'IDO1': ('pobj', 'to')}]
+Evolutionary genetic studies IDO2  --> a unique function  --> IDO1
+
+Gene expression studies indicate that IDO2 is a basally and more narrowly expressed gene than IDO1 and that IDO2 is uniquely regulated by AhR, which serves as a physiological receptor for the tryptophan catabolite kynurenine.
+[{'Gene expression studies': ('nsubj', 'indicate')}, {'IDO2': ('nsubj', 'is')}, {'a basally and more narrowly expressed gene': ('attr', 'is')}, {'IDO1': ('pobj', 'than')}, {'IDO2': ('nsubjpass', 'regulated')}, {'AhR': ('pobj', 'by')}, {'a physiological receptor': ('pobj', 'as')}, {'the tryptophan catabolite kynurenine': ('pobj', 'for')}]
+Gene expression studies IDO2   --> IDO1 IDO2  --> AhR  --> a physiological receptor  --> the tryptophan catabolite kynurenine
+
+We suggest that IDO2 may act in a distinct manner from IDO1 as a set-point for tolerance to "altered-self" antigens along the self-non-self continuum where immune challenges from cancer and autoimmunity may arise.
+[{'We': ('nsubj', 'suggest')}, {'IDO2': ('nsubj', 'act')}, {'a distinct manner': ('pobj', 'in')}, {'IDO1': ('pobj', 'from')}, {'a set-point': ('pobj', 'as')}, {'tolerance': ('pobj', 'for')}, {'"altered-self" antigens': ('pobj', 'to')}, {'the self-non-self continuum': ('pobj', 'along')}, {'immune challenges': ('nsubj', 'arise')}, {'cancer': ('pobj', 'from')}, {'autoimmunity': ('conj', 'cancer')}]
+We IDO2  --> a distinct manner  --> IDO1  --> a set-point  --> tolerance  --> "altered-self" antigens  --> the self-non-self continuum immune challenges  --> cancer and autoimmunity 
+
+We found that CHDH is not a substrate of PARK2 but interacts with SQSTM1 independently of PARK2 to recruit SQSTM1 into depolarized mitochondria.
+[{'We': ('nsubj', 'found')}, {'CHDH': ('nsubj', 'is')}, {'a substrate': ('attr', 'is')}, {'PARK2': ('pobj', 'of')}, {'SQSTM1': ('pobj', 'with')}, {'PARK2': ('pobj', 'of')}, {'depolarized mitochondria': ('pobj', 'into')}]
+We CHDH   --> PARK2  --> SQSTM1  --> PARK2  --> depolarized mitochondria
+
+In addition, CHDH, but not the CHDH FB1 deletion mutant, forms a ternary protein complex with SQSTM1 and MAP1LC3 (LC3), leading to loading of LC3 onto the damaged mitochondria via SQSTM1.
+[{'addition': ('pobj', 'In')}, {'CHDH': ('nsubj', 'forms')}, {'not the CHDH FB1 deletion mutant': ('conj', 'CHDH')}, {'a ternary protein complex': ('dobj', 'forms')}, {'SQSTM1': ('pobj', 'with')}, {'LC3': ('appos', 'SQSTM1')}, {'loading': ('pobj', 'to')}, {'LC3': ('pobj', 'of')}, {'the damaged mitochondria': ('pobj', 'onto')}, {'SQSTM1': ('pobj', 'via')}]
+ --> addition CHDH and not the CHDH FB1 deletion mutant   --> a ternary protein complex  --> SQSTM1   --> loading  --> LC3  --> the damaged mitochondria  --> SQSTM1
+
+Overall, our results suggest that CHDH is required for PARK2-mediated mitophagy for the recruitment of SQSTM1 and LC3 onto the mitochondria for cargo recognition.
+[{'our results': ('nsubj', 'suggest')}, {'CHDH': ('nsubjpass', 'required')}, {'PARK2-mediated mitophagy': ('pobj', 'for')}, {'the recruitment': ('pobj', 'for')}, {'SQSTM1': ('pobj', 'of')}, {'the mitochondria': ('pobj', 'onto')}, {'cargo recognition': ('pobj', 'for')}]
+our results CHDH  --> PARK2-mediated mitophagy  --> the recruitment  --> SQSTM1  --> the mitochondria  --> cargo recognition
+
+PAPSS2 (PAPS synthase 2) provides the universal sulfate donor PAPS (3'-phospho-adenosine-5'-phosphosulfate) to all human sulfotransferases, including SULT2A1, responsible for sulfation of the crucial androgen precursor dehydroepiandrosterone (DHEA).
+[{'PAPSS2': ('nsubj', 'provides')}, {'PAPS synthase': ('appos', 'PAPSS2')}, {'the universal sulfate donor PAPS': ('dobj', 'provides')}, {"3'-phospho-adenosine-5'-phosphosulfate": ('appos', 'PAPS')}, {'all human sulfotransferases': ('pobj', 'to')}, {'SULT2A1': ('pobj', 'including')}, {'sulfation': ('pobj', 'for')}, {'the crucial androgen precursor': ('pobj', 'of')}, {'dehydroepiandrosterone': ('appos', 'precursor')}]
+PAPSS2   --> the universal sulfate donor PAPS   --> all human sulfotransferases  --> SULT2A1  --> sulfation  --> the crucial androgen precursor 
+
+SDS is a meiosis specific cyclin-like protein and required for DMC1 mediated double-strand break (DSB) repairing in Arabidopsis.
+[{'SDS': ('nsubj', 'is')}, {'a meiosis specific cyclin-like protein': ('attr', 'is')}, {'DMC1': ('pobj', 'for')}, {'double-strand break': ('dobj', 'mediated')}, {'DSB': ('appos', 'break')}, {'Arabidopsis': ('pobj', 'in')}]
+SDS   --> DMC1  --> double-strand break   --> Arabidopsis
+
+The results indicate that TPT or CDDP activates ATM (ATM serine/threonine kinase), which phosphorylates PTEN at serine 113 and further regulates PTEN nuclear translocation in A549 and HeLa cells.
+[{'The results': ('nsubj', 'indicate')}, {'TPT': ('nsubj', 'activates')}, {'CDDP': ('conj', 'TPT')}, {'ATM': ('dobj', 'activates')}, {'(ATM serine/threonine kinase': ('appos', 'ATM')}, {'PTEN': ('dobj', 'phosphorylates')}, {'serine': ('pobj', 'at')}, {'PTEN nuclear translocation': ('dobj', 'regulates')}, {'A549 and HeLa cells': ('pobj', 'in')}]
+The results TPT and CDDP   --> ATM   --> PTEN  --> serine  --> PTEN nuclear translocation  --> A549 and HeLa cells
+
+After nuclear translocation, PTEN induces autophagy, in association with the activation of the p-JUN-SESN2/AMPK pathway, in response to TPT.
+[{'nuclear translocation': ('pobj', 'After')}, {'PTEN': ('nsubj', 'induces')}, {'autophagy': ('dobj', 'induces')}, {'association': ('pobj', 'in')}, {'the activation': ('pobj', 'with')}, {'-JUN-SESN2': ('dobj', 'p')}, {'response': ('pobj', 'in')}, {'TPT': ('pobj', 'to')}]
+ --> nuclear translocation PTEN  --> autophagy  --> association  --> the activation  --> -JUN-SESN2  --> response  --> TPT
+
+Furthermore, PTEN lies upstream of Akt kinase, a key enzyme in insulin signalling regulating glucose uptake and cell growth.
+[{'PTEN': ('nsubj', 'lies')}, {'Akt kinase': ('pobj', 'of')}, {'a key enzyme': ('nsubj', 'glucose')}, {'insulin': ('pobj', 'in')}, {'uptake': ('dobj', 'glucose')}, {'cell growth': ('conj', 'uptake')}]
+PTEN  --> Akt kinase a key enzyme  --> insulin  --> uptake and cell growth 
+
+After PTEN was down-regulated with shRNA, the expression of CCL2 and VEGF-A, which are definited to promote the formation of M2 macrophages, have a dramatically increase on the level of both gene and protein in co-cultured RAW 264.7 macrophages.
+[{'PTEN': ('nsubj', 'was')}, {'shRNA': ('pobj', 'with')}, {'the expression': ('nsubj', 'have')}, {'CCL2': ('pobj', 'of')}, {'VEGF-A': ('conj', 'CCL2')}, {'the formation': ('dobj', 'promote')}, {'M2 macrophages': ('pobj', 'of')}, {'a dramatically increase': ('dobj', 'have')}, {'the level': ('pobj', 'on')}, {'both gene': ('pobj', 'of')}, {'protein': ('conj', 'gene')}, {'co-cultured RAW 264.7 macrophages': ('pobj', 'in')}]
+PTEN  --> shRNA the expression  --> CCL2 and VEGF-A   --> the formation  --> M2 macrophages  --> a dramatically increase  --> the level  --> both gene and protein   --> co-cultured RAW 264.7 macrophages
+
+PTEN is known to be frequently mutated in uterine cancer and also dephosphorylates FAK.
+[{'PTEN': ('nsubjpass', 'known')}, {'uterine cancer': ('pobj', 'in')}, {'FAK': ('dobj', 'dephosphorylates')}]
+PTEN  --> uterine cancer  --> FAK
+
+Here, we show that glucagon induces cyclic ADP-ribose (cADPR) production and sustained Ca(2+) increases via CD38 in hepatocytes.
+[{'we': ('nsubj', 'show')}, {'glucagon': ('nsubj', 'induces')}, {'cyclic ADP-ribose (cADPR) production': ('dobj', 'induces')}, {'CD38': ('pobj', 'via')}, {'hepatocytes': ('pobj', 'in')}]
+we glucagon  --> cyclic ADP-ribose (cADPR) production  --> CD38  --> hepatocytes
+
+DOT1L recognizes SNAIL, ZEB1 and ZEB2 promoters via interacting with the c-Myc-p300 complex and facilitates lysine-79 methylation and acetylation towards histone H3, leading to the dissociation of HDAC1 and DNMT1 in the regions.
+[{'DOT1L': ('nsubj', 'recognizes')}, {'SNAIL, ZEB1 and ZEB2 promoters': ('dobj', 'recognizes')}, {'lysine-79 methylation': ('dobj', 'facilitates')}, {'acetylation': ('conj', 'methylation')}, {'histone H3': ('pobj', 'towards')}, {'the dissociation': ('pobj', 'to')}, {'HDAC1': ('pobj', 'of')}, {'the regions': ('pobj', 'in')}]
+DOT1L  --> SNAIL, ZEB1 and ZEB2 promoters  --> lysine-79 methylation and acetylation   --> histone H3  --> the dissociation  --> HDAC1  --> the regions
+
+These findings demonstrate that OTUD3 is an essential regulator of PTEN and that the OTUD3-PTEN signalling axis plays a critical role in tumour suppression.
+[{'These findings': ('nsubj', 'demonstrate')}, {'OTUD3': ('nsubj', 'is')}, {'an essential regulator': ('attr', 'is')}, {'PTEN': ('pobj', 'of')}, {'the OTUD3-PTEN': ('nsubj', 'plays')}, {'a critical role': ('dobj', 'plays')}, {'tumour suppression': ('pobj', 'in')}]
+These findings OTUD3   --> PTEN the OTUD3-PTEN  --> a critical role  --> tumour suppression
+
+CD36 is a key transporter involved in fatty acid (FA) uptake and contributes to the accumulation of FA in cardiomyocytes.
+[{'CD36': ('nsubj', 'is')}, {'a key transporter': ('attr', 'is')}, {'fatty acid (FA) uptake': ('pobj', 'in')}, {'the accumulation': ('pobj', 'to')}, {'FA': ('pobj', 'of')}, {'cardiomyocytes': ('pobj', 'in')}]
+CD36   --> fatty acid (FA) uptake  --> the accumulation  --> FA  --> cardiomyocytes
+
+DAT was more commonly positive among BO incompatible (21.5% in BO vs. 14.8% in AO, P=0.001) and black (18.8% in blacks vs. 10.8% in nonblacks, P=0.003) infants.
+[{'DAT': ('nsubj', 'was')}, {'BO incompatible (21.5%': ('pobj', 'among')}, {'BO': ('pobj', 'in')}, {'14.8%': ('pobj', 'vs.')}, {'AO': ('pobj', 'in')}, {'P=0.001': ('appos', 'AO')}, {'18.8%': ('appos', 'black')}, {'blacks': ('pobj', 'in')}, {'10.8%': ('pobj', 'vs.')}, {'P=0.003': ('appos', 'nonblacks')}]
+DAT  --> BO incompatible (21.5%  --> BO  --> 14.8%  --> AO    --> blacks  --> 10.8% 
+
+Together, we provide both genetic and biochemical evidence for a mechanism by which SETDB1 regulates cancer cell growth via methylation of p53.
+[{'we': ('nsubj', 'provide')}, {'both genetic and biochemical evidence': ('dobj', 'provide')}, {'a mechanism': ('pobj', 'for')}, {'SETDB1': ('nsubj', 'regulates')}, {'cancer cell growth': ('dobj', 'regulates')}, {'methylation': ('pobj', 'via')}, {'p53': ('pobj', 'of')}]
+we  --> both genetic and biochemical evidence  --> a mechanism SETDB1  --> cancer cell growth  --> methylation  --> p53
+
+ACAD9, a member of acyl-CoA dehydrogenase family, has high homology with VLCAD (very long-chain acyl-CoA dehydrogenase) and harbors a homodimer structure.
+[{'ACAD9': ('nsubj', 'has')}, {'a member': ('appos', 'ACAD9')}, {'acyl-CoA dehydrogenase family': ('pobj', 'of')}, {'high homology': ('dobj', 'has')}, {'VLCAD': ('pobj', 'with')}, {'very long-chain acyl-CoA dehydrogenase': ('appos', 'VLCAD')}, {'a homodimer structure': ('dobj', 'harbors')}]
+ACAD9   --> acyl-CoA dehydrogenase family  --> high homology  --> VLCAD   --> a homodimer structure
+
+Specifically, PTEN dephosphorylates MCM2 at serine 41 (S41) and restricts replication fork progression under replicative stress.
+[{'PTEN': ('nsubj', 'dephosphorylates')}, {'MCM2': ('dobj', 'dephosphorylates')}, {'serine': ('pobj', 'at')}, {'(S41': ('appos', 'serine')}, {'replication fork progression': ('dobj', 'restricts')}, {'replicative stress': ('pobj', 'under')}]
+PTEN  --> MCM2  --> serine   --> replication fork progression  --> replicative stress
+
+This study demonstrates that PTEN regulates DNA replication through MCM2 and loss of PTEN function leads to replication defects and genomic instability.
+[{'This study': ('nsubj', 'demonstrates')}, {'PTEN': ('nsubj', 'regulates')}, {'DNA replication': ('dobj', 'regulates')}, {'MCM2': ('pobj', 'through')}, {'loss': ('conj', 'MCM2')}, {'PTEN function': ('pobj', 'of')}, {'replication defects': ('pobj', 'to')}, {'genomic instability': ('conj', 'defects')}]
+This study PTEN  --> DNA replication  --> MCM2 and loss   --> PTEN function  --> replication defects and genomic instability 
+
+These data show that FIG4 plays a critical noncatalytic function in maintaining lysosomal membrane homeostasis, and that this function is disrupted by mutations that cause CMT4J and YVS.
+[{'These data': ('nsubj', 'show')}, {'FIG4': ('nsubj', 'plays')}, {'a critical noncatalytic function': ('dobj', 'plays')}, {'lysosomal membrane homeostasis': ('dobj', 'maintaining')}, {'this function': ('nsubjpass', 'disrupted')}, {'mutations': ('pobj', 'by')}, {'CMT4J': ('dobj', 'cause')}, {'YVS': ('conj', 'CMT4J')}]
+These data FIG4  --> a critical noncatalytic function  --> lysosomal membrane homeostasis this function  --> mutations  --> CMT4J and YVS 
+
+FUT1 and TAP1 have been identified as candidate genes that offer resistance against Escherichia coli F18 infection, with the AA genotype in FUT1 and the GG genotype in TAP1 conferring resistance.
+[{'FUT1': ('nsubjpass', 'identified')}, {'TAP1': ('conj', 'FUT1')}, {'candidate genes': ('pobj', 'as')}, {'resistance': ('dobj', 'offer')}, {'Escherichia coli F18 infection': ('pobj', 'against')}, {'the AA genotype': ('nsubj', 'conferring')}, {'FUT1': ('pobj', 'in')}, {'the GG genotype': ('conj', 'genotype')}, {'TAP1': ('pobj', 'in')}, {'resistance': ('dobj', 'conferring')}]
+FUT1 and TAP1   --> candidate genes  --> resistance  --> Escherichia coli F18 infection the AA genotype and the GG genotype  --> FUT1   --> TAP1  --> resistance
+
+SQLE encodes squalene epoxidase, a key enzyme in cholesterol synthesis.
+[{'SQLE': ('nsubj', 'encodes')}, {'squalene epoxidase': ('dobj', 'encodes')}, {'a key enzyme': ('appos', 'epoxidase')}, {'cholesterol synthesis': ('pobj', 'in')}]
+SQLE  --> squalene epoxidase   --> cholesterol synthesis
+
+BCAT1, which encodes a branched-chain amino acid transaminase, was identified as one of the target genes controlled by DOT1L through the regulation of H3K79 methylation.
+[{'BCAT1': ('nsubjpass', 'identified')}, {'a branched-chain amino acid transaminase': ('dobj', 'encodes')}, {'the target genes': ('pobj', 'of')}, {'DOT1L': ('pobj', 'by')}, {'the regulation': ('pobj', 'through')}, {'H3K79 methylation': ('pobj', 'of')}]
+BCAT1  --> a branched-chain amino acid transaminase  --> the target genes  --> DOT1L  --> the regulation  --> H3K79 methylation
+
+By contrast, SMYD3 displayed a weak activity toward a VEGFR1 peptide, and the location of the acceptor lysine in the folded kinase domain of VEGFR1 requires drastic conformational rearrangements for juxtaposition of the acceptor lysine with the enzymatic active site.
+[{'contrast': ('pobj', 'By')}, {'SMYD3': ('nsubj', 'displayed')}, {'a weak activity': ('dobj', 'displayed')}, {'a VEGFR1 peptide': ('pobj', 'toward')}, {'the location': ('nsubj', 'lysine')}, {'the acceptor': ('pobj', 'of')}, {'the folded kinase domain': ('pobj', 'in')}, {'VEGFR1': ('pobj', 'of')}, {'juxtaposition': ('pobj', 'for')}, {'the acceptor': ('pobj', 'of')}, {'the enzymatic active site': ('pobj', 'with')}]
+ --> contrast SMYD3  --> a weak activity  --> a VEGFR1 peptide the location  --> the acceptor  --> the folded kinase domain  --> VEGFR1  --> juxtaposition  --> the acceptor  --> the enzymatic active site
+
+CD36 also transduces intracellular signaling events that influence how the FA is utilized and mediate metabolic effects of FA in the heart.
+[{'CD36': ('nsubj', 'transduces')}, {'events': ('dobj', 'signaling')}, {'the FA': ('nsubjpass', 'utilized')}, {'metabolic effects': ('dobj', 'mediate')}, {'FA': ('pobj', 'of')}, {'the heart': ('pobj', 'in')}]
+CD36  --> events the FA  --> metabolic effects  --> FA  --> the heart
+
+LPL is a pivotal rate-limiting enzyme to catalyze the hydrolysis of TG in circulation, and plays a critical role in regulating lipid metabolism.
+[{'LPL': ('nsubj', 'is')}, {'a pivotal rate-limiting enzyme': ('attr', 'is')}, {'the hydrolysis': ('dobj', 'catalyze')}, {'TG': ('pobj', 'of')}, {'circulation': ('pobj', 'in')}, {'a critical role': ('dobj', 'plays')}, {'lipid metabolism': ('dobj', 'regulating')}]
+LPL   --> the hydrolysis  --> TG  --> circulation  --> a critical role  --> lipid metabolism
+
+Although other family members e.g., ABCA1 and ABCC7 have been shown to function as oligomers, the oligomerization state of ABCA3 is unknown.
+[{'other family members': ('nsubjpass', 'shown')}, {'ABCA1': ('nsubjpass', 'shown')}, {'oligomers': ('pobj', 'as')}, {'the oligomerization state': ('nsubj', 'is')}, {'ABCA3': ('pobj', 'of')}]
+other family members ABCA1  --> oligomers the oligomerization state  --> ABCA3
+
+PTEN can physically associate with PLK1 and reduce PLK1 phosphorylation in a phosphatase-dependent manner.
+[{'PTEN': ('nsubj', 'associate')}, {'PLK1': ('pobj', 'with')}, {'PLK1 phosphorylation': ('dobj', 'reduce')}, {'a phosphatase-dependent manner': ('pobj', 'in')}]
+PTEN  --> PLK1  --> PLK1 phosphorylation  --> a phosphatase-dependent manner
+
+Moreover, the expression levels of beta-catenin, cyclin D1, c-Myc, MMP-2, and FAK detected by western blotting were downregulated in SLC5A8-transfected HCC cells compared with control-transfected cells, indicating that SLC5A8 has a tumor-suppressive function that acts by interfering with Wnt/β-catenin signaling in HCC.
+[{'the expression levels': ('nsubjpass', 'downregulated')}, {'beta-catenin': ('pobj', 'of')}, {'cyclin D1': ('conj', 'catenin')}, {'c-Myc': ('conj', 'D1')}, {'MMP-2': ('appos', 'Myc')}, {'FAK': ('conj', 'Myc')}, {'western blotting': ('pobj', 'by')}, {'SLC5A8-transfected HCC cells': ('pobj', 'in')}, {'control-transfected cells': ('pobj', 'with')}, {'SLC5A8': ('nsubj', 'has')}, {'a tumor-suppressive function': ('dobj', 'has')}, {'Wnt/β-catenin': ('pobj', 'with')}, {'HCC': ('pobj', 'in')}]
+the expression levels  --> beta-catenin and cyclin D1  and c-Myc  and FAK    --> western blotting  --> SLC5A8-transfected HCC cells  --> control-transfected cells SLC5A8  --> a tumor-suppressive function  --> Wnt/β-catenin  --> HCC
+
+PTEN acts as a tumor suppressor primarily by antagonizing the PI3K/AKT signaling pathway.
+[{'PTEN': ('nsubj', 'acts')}, {'a tumor suppressor': ('pobj', 'as')}, {'PI3K': ('pobj', 'the')}, {'/AKT': ('ROOT', 'AKT')}, {'pathway': ('dobj', 'signaling')}]
+PTEN  --> a tumor suppressor  --> PI3K   --> pathway
+
+Our data suggest that SETDB2 is associated with transcriptional repression of WWOX and CADM1, and hence overexpression of SETDB2 may contribute to GC progression.
+[{'Our data': ('nsubj', 'suggest')}, {'SETDB2': ('nsubjpass', 'associated')}, {'transcriptional repression': ('pobj', 'with')}, {'WWOX': ('pobj', 'of')}, {'CADM1': ('conj', 'WWOX')}, {'hence overexpression': ('nsubj', 'contribute')}, {'SETDB2': ('pobj', 'of')}, {'GC progression': ('pobj', 'to')}]
+Our data SETDB2  --> transcriptional repression  --> WWOX and CADM1  hence overexpression  --> SETDB2  --> GC progression
+
+FAXDC2 also restores megakaryocytic differentiation in cells exposed to an ERK inhibitor or those expressing a dominant negative form of RUNX1.
+[{'FAXDC2': ('nsubj', 'restores')}, {'megakaryocytic differentiation': ('dobj', 'restores')}, {'cells': ('pobj', 'in')}, {'an ERK inhibitor': ('pobj', 'to')}, {'a dominant negative form': ('dobj', 'expressing')}, {'RUNX1': ('pobj', 'of')}]
+FAXDC2  --> megakaryocytic differentiation  --> cells  --> an ERK inhibitor  --> a dominant negative form  --> RUNX1
+
+We hypothesized that PTEN regulated by p53 might reduce CIA severity and inflammatory response via inhibiting STAT3 activation.
+[{'We': ('nsubj', 'hypothesized')}, {'PTEN': ('nsubj', 'reduce')}, {'p53': ('pobj', 'by')}, {'CIA severity': ('dobj', 'reduce')}, {'inflammatory response': ('conj', 'severity')}, {'STAT3 activation': ('dobj', 'inhibiting')}]
+We PTEN  --> p53  --> CIA severity and inflammatory response   --> STAT3 activation
+
+LPIN1 interacts with IRS1 in an insulin growth factor-1-dependent signalling pathway and inhibits its serine phosphorylation, and thereby eliminating ubiquitin-dependent degradation of IRS1 via proteasomal and lysosomal pathways.
+[{'LPIN1': ('nsubj', 'interacts')}, {'IRS1': ('pobj', 'with')}, {'an insulin growth factor-1-dependent': ('pobj', 'in')}, {'its serine phosphorylation': ('dobj', 'inhibits')}, {'ubiquitin-dependent degradation': ('dobj', 'eliminating')}, {'IRS1': ('pobj', 'of')}, {'proteasomal and lysosomal pathways': ('pobj', 'via')}]
+LPIN1  --> IRS1  --> an insulin growth factor-1-dependent  --> its serine phosphorylation  --> ubiquitin-dependent degradation  --> IRS1  --> proteasomal and lysosomal pathways
+
+Co-immunoprecipitation assay showed PTEN regulated poly(ADP-ribosyl)ation of Ku70 instead of directly interacting with Ku70, while PTEN promoted the poly(ADP-ribosyl)ation of PARP1 and induced the degradation of PARP1 in PTEN-WT cells exposed to DSB agents.
+[{'Co-immunoprecipitation assay': ('nsubj', 'showed')}, {'PTEN': ('nsubj', 'regulated')}, {'poly(ADP-ribosyl)ation': ('dobj', 'regulated')}, {'Ku70': ('pobj', 'of')}, {'Ku70': ('pobj', 'with')}, {'PTEN': ('nsubj', 'promoted')}, {'the poly(ADP-ribosyl)ation': ('dobj', 'promoted')}, {'PARP1': ('pobj', 'of')}, {'the degradation': ('dobj', 'induced')}, {'PARP1': ('pobj', 'of')}, {'PTEN-WT cells': ('pobj', 'in')}, {'DSB agents': ('pobj', 'to')}]
+Co-immunoprecipitation assay PTEN  --> poly(ADP-ribosyl)ation  --> Ku70  --> Ku70 PTEN  --> the poly(ADP-ribosyl)ation  --> PARP1  --> the degradation  --> PARP1  --> PTEN-WT cells  --> DSB agents
+
+AMPD1 is an adenosine monophosphate deaminase that catalyzes the deamination of AMP to IMP.
+[{'AMPD1': ('nsubj', 'is')}, {'an adenosine monophosphate deaminase': ('attr', 'is')}, {'the deamination': ('dobj', 'catalyzes')}, {'AMP': ('pobj', 'of')}, {'IMP': ('pobj', 'to')}]
+AMPD1   --> the deamination  --> AMP  --> IMP
+
+Taken together, our results indicate that beyond the generation of H3K9me3, SUV39H1 has additional roles in chromatin biology by direct stimulation of the establishment of H4K20me3 and the regulation of chromatin binding of RAG2.
+[{'our results': ('nsubj', 'indicate')}, {'the generation': ('pobj', 'beyond')}, {'H3K9me3': ('pobj', 'of')}, {'SUV39H1': ('nsubj', 'has')}, {'additional roles': ('dobj', 'has')}, {'chromatin biology': ('pobj', 'in')}, {'direct stimulation': ('pobj', 'by')}, {'the establishment': ('pobj', 'of')}, {'H4K20me3': ('pobj', 'of')}, {'the regulation': ('conj', 'roles')}, {'chromatin binding': ('pobj', 'of')}, {'RAG2': ('pobj', 'of')}]
+our results  --> the generation  --> H3K9me3 SUV39H1  --> additional roles and the regulation  --> chromatin biology  --> direct stimulation  --> the establishment  --> H4K20me3   --> chromatin binding  --> RAG2
+
+Additionally, p27 was shown to be markedly upregulated, whereas p-AKT and cyclin D1 were found to be pronouncedly downregulated after stable knockdown of PIK3CA.
+[{'p27': ('nsubjpass', 'shown')}, {'p-AKT and cyclin D1': ('nsubjpass', 'found')}, {'PIK3CA': ('pobj', 'of')}]
+p27 p-AKT and cyclin D1  --> PIK3CA
+
+However, the mechanism by which SPHK1 signaling promotes invasion and metastasis in HCC remains to be clarified.
+[{'the mechanism': ('nsubj', 'remains')}, {'SPHK1': ('nsubj', 'signaling')}, {'promotes invasion': ('dobj', 'signaling')}, {'metastasis': ('conj', 'invasion')}, {'HCC': ('pobj', 'in')}]
+the mechanism SPHK1  --> promotes invasion and metastasis   --> HCC
+
+Initially, we found that SPHK1 promoted cell migration and invasion and induced the EMT process through decreasing the expression of CDH1, which is an epithelial marker.
+[{'we': ('nsubj', 'found')}, {'SPHK1': ('nsubj', 'promoted')}, {'cell migration': ('dobj', 'promoted')}, {'invasion': ('conj', 'migration')}, {'the EMT process': ('dobj', 'induced')}, {'the expression': ('dobj', 'decreasing')}, {'CDH1': ('pobj', 'of')}, {'an epithelial marker': ('attr', 'is')}]
+we SPHK1  --> cell migration and invasion   --> the EMT process  --> the expression  --> CDH1 
+
+Furthermore, SPHK1 accelerated the lysosomal degradation of CDH1 to induce EMT, which depended on TRAF2 (TNF receptor associated factor 2)-mediated macroautophagy/autophagy activation.
+[{'SPHK1': ('nsubj', 'accelerated')}, {'the lysosomal degradation': ('dobj', 'accelerated')}, {'CDH1': ('pobj', 'of')}, {'EMT': ('dobj', 'induce')}, {'(TNF receptor associated factor 2)-mediated macroautophagy/autophagy activation': ('appos', 'TRAF2')}]
+SPHK1  --> the lysosomal degradation  --> CDH1  --> EMT 
+
+PTEN is the second most frequently mutated tumor suppresser gene in cancers after p53.
+[{'PTEN': ('nsubj', 'is')}, {'the second most frequently mutated tumor suppresser gene': ('attr', 'is')}, {'cancers': ('pobj', 'in')}, {'p53': ('pobj', 'after')}]
+PTEN   --> cancers  --> p53
+
+PTEN is a crucial downregulator of the pro-survival phosphoinositide 3-kinase/Akt/mammalian target of rapamycin pathway and also suppresses insulin signaling.
+[{'PTEN': ('nsubj', 'is')}, {'a crucial downregulator': ('attr', 'is')}, {'3-kinase/Akt/mammalian target': ('appos', 'phosphoinositide')}, {'rapamycin pathway': ('pobj', 'of')}, {'insulin': ('dobj', 'suppresses')}]
+PTEN    --> rapamycin pathway  --> insulin
+
+ABO and its paralogues, such as A3GALT2 and GGTA1, encoding α1,3-Gal(NAc) transferases, belong to the glycosyltransferase 6 (GT6) gene family.
+[{'ABO': ('nsubj', 'belong')}, {'its paralogues': ('conj', 'ABO')}, {'A3GALT2': ('pobj', 'as')}, {'GGTA1': ('conj', 'A3GALT2')}, {'transferases': ('appos', 'ABO')}, {'the glycosyltransferase': ('pobj', 'to')}, {'6 (GT6) gene family': ('appos', 'glycosyltransferase')}]
+ABO and its paralogues   --> A3GALT2 and GGTA1    --> the glycosyltransferase 
+
+Here, we report that SET8, a histone H4 lysine 20 monomethylase (H4K20me1), is highly induced during Mycobacterium tuberculosis infection that orchestrates immune evasion strategies through the induction of NQO1 and TRXR1 in vivo.
+[{'we': ('nsubj', 'report')}, {'SET8': ('nsubj', 'lysine')}, {'a histone H4': ('nsubj', 'lysine')}, {'20 monomethylase': ('dobj', 'lysine')}, {'H4K20me1': ('appos', 'monomethylase')}, {'Mycobacterium tuberculosis infection': ('pobj', 'during')}, {'immune evasion strategies': ('dobj', 'orchestrates')}, {'the induction': ('pobj', 'through')}, {'NQO1': ('pobj', 'of')}, {'vivo': ('pobj', 'in')}]
+we SET8 a histone H4  --> 20 monomethylase   --> Mycobacterium tuberculosis infection  --> immune evasion strategies  --> the induction  --> NQO1  --> vivo
+
+The role of CP-3(iv) in mediating cardioprotection was investigated because CD36 signaling leads to activation of peroxisome proliferator-activated receptor-γ, a transcriptional regulator of adiponectin.
+[{'The role': ('nsubjpass', 'investigated')}, {'CP-3(iv': ('pobj', 'of')}, {'cardioprotection': ('dobj', 'mediating')}, {'CD36': ('nsubj', 'signaling')}, {'activation': ('pobj', 'to')}, {'peroxisome proliferator-activated receptor-γ': ('pobj', 'of')}, {'a transcriptional regulator': ('appos', 'γ')}, {'adiponectin': ('pobj', 'of')}]
+The role  --> CP-3(iv  --> cardioprotection CD36  --> activation  --> peroxisome proliferator-activated receptor-γ   --> adiponectin
+
+In-depth analysis shows that GALNT14 regulates the stability of P-gp.
+[{'-depth': ('pobj', 'In')}, {'GALNT14': ('nsubj', 'regulates')}, {'the stability': ('dobj', 'regulates')}, {'P-gp': ('pobj', 'of')}]
+ --> -depth GALNT14  --> the stability  --> P-gp
+
+PTEN induced putative kinase 1 (PINK1), also known as PARK6, is causally linked to familial Parkinsonism, and heterozygous loss of PINK1 is a risk factor for sporadic Parkinson's disease.
+[{'PTEN': ('nsubj', 'induced')}, {'(PINK1': ('appos', 'kinase')}, {'PARK6': ('pobj', 'as')}, {'familial Parkinsonism': ('pobj', 'to')}, {'heterozygous loss': ('conj', 'Parkinsonism')}, {'PINK1': ('pobj', 'of')}, {'a risk factor': ('attr', 'is')}, {"sporadic Parkinson's disease": ('pobj', 'for')}]
+PTEN   --> PARK6  --> familial Parkinsonism and heterozygous loss   --> PINK1   --> sporadic Parkinson's disease
+
+We propose that, in conjunction with S1PR1, ABCA1 regulates expression levels of CCL8, CXCL10, and CXCL11; this may lead to changes in the immune function of trophoblastic cells.
+[{'We': ('nsubj', 'propose')}, {'conjunction': ('pobj', 'in')}, {'S1PR1': ('pobj', 'with')}, {'ABCA1': ('nsubj', 'regulates')}, {'expression levels': ('dobj', 'regulates')}, {'CCL8': ('pobj', 'of')}, {'CXCL11': ('conj', 'levels')}, {'changes': ('pobj', 'to')}, {'the immune function': ('pobj', 'in')}, {'trophoblastic cells': ('pobj', 'of')}]
+We  --> conjunction  --> S1PR1 ABCA1  --> expression levels and CXCL11  --> CCL8   --> changes  --> the immune function  --> trophoblastic cells
+
+ABCA4 is one of the main genes which mutations are associated with various inherited retinal diseases (IRD) such as Stargardt disease, cone dystrophy, cone-rod dystrophy, and retinitis pigmentosa.
+[{'ABCA4': ('nsubj', 'is')}, {'the main genes': ('pobj', 'of')}, {'which mutations': ('nsubjpass', 'associated')}, {'various inherited retinal diseases': ('pobj', 'with')}, {'(IRD': ('appos', 'diseases')}, {'Stargardt disease': ('pobj', 'as')}, {'cone dystrophy': ('conj', 'disease')}, {'cone-rod dystrophy': ('conj', 'dystrophy')}, {'retinitis pigmentosa': ('conj', 'dystrophy')}]
+ABCA4  --> the main genes which mutations  --> various inherited retinal diseases and cone dystrophy   --> Stargardt disease  and cone-rod dystrophy and retinitis pigmentosa  
+
+PNPLA3 and MTP genes have been associated with liver steatosis and chronic hepatitis C. We studied the influence of MTP and PNPLA3 polymorphisms in 114 Italian patients with chronic hepatitis C, evaluating the histological and clinical presentation of liver disease.
+[{'PNPLA3': ('nsubjpass', 'associated')}, {'MTP genes': ('nsubjpass', 'associated')}, {'liver steatosis': ('pobj', 'with')}, {'chronic hepatitis C. We': ('nsubj', 'studied')}, {'the influence': ('dobj', 'studied')}, {'MTP': ('pobj', 'of')}, {'114 Italian patients': ('pobj', 'in')}, {'chronic hepatitis C': ('pobj', 'with')}, {'the histological and clinical presentation': ('dobj', 'evaluating')}, {'liver disease': ('pobj', 'of')}]
+PNPLA3 MTP genes  --> liver steatosis chronic hepatitis C. We  --> the influence  --> MTP  --> 114 Italian patients  --> chronic hepatitis C  --> the histological and clinical presentation  --> liver disease
+
+ENPP1 (Ecto-nucleotide pyrophosphatase phosphodiesterase 1), a type II transmembrane glycoprotein, hydrolyzes ATP to produce AMP and diphosphate, thereby inhibiting bone mineralization.
+[{'ENPP1': ('nsubj', 'hydrolyzes')}, {'Ecto-nucleotide pyrophosphatase phosphodiesterase': ('appos', 'ENPP1')}, {'a type II transmembrane glycoprotein': ('appos', 'ENPP1')}, {'ATP': ('dobj', 'hydrolyzes')}, {'AMP': ('dobj', 'produce')}, {'diphosphate': ('conj', 'AMP')}, {'bone mineralization': ('dobj', 'inhibiting')}]
+ENPP1    --> ATP  --> AMP and diphosphate   --> bone mineralization
+
+PIK3CA is involved in the PI3K-PTEN-mTOR signalling pathway.
+[{'PIK3CA': ('nsubjpass', 'involved')}, {'PTEN': ('pobj', '-')}]
+PIK3CA  --> PTEN
+
+SMYD3 directly interacts with SMAD3 but it is unnecessary for SMAD2/3 phosphorylation and nuclear translocation.
+[{'SMYD3': ('nsubj', 'interacts')}, {'SMAD3': ('pobj', 'with')}, {'it': ('nsubj', 'is')}, {'phosphorylation': ('pobj', 'for')}, {'nuclear translocation': ('conj', 'phosphorylation')}]
+SMYD3  --> SMAD3 it  --> phosphorylation and nuclear translocation 
+
+ABCA4 is one of the main genes whose mutations are associated with various inherited retinal diseases (IRD) such as Stargardt disease, cone dystrophy, cone-rod dystrophy, and retinitis pigmentosa.
+[{'ABCA4': ('nsubj', 'is')}, {'the main genes': ('pobj', 'of')}, {'whose mutations': ('nsubjpass', 'associated')}, {'various inherited retinal diseases': ('pobj', 'with')}, {'(IRD': ('appos', 'diseases')}, {'Stargardt disease': ('pobj', 'as')}, {'cone dystrophy': ('conj', 'disease')}, {'cone-rod dystrophy': ('conj', 'dystrophy')}, {'retinitis pigmentosa': ('conj', 'dystrophy')}]
+ABCA4  --> the main genes whose mutations  --> various inherited retinal diseases and cone dystrophy   --> Stargardt disease  and cone-rod dystrophy and retinitis pigmentosa  
+
+PTEN is a phosphatase which metabolises PIP
+[{'PTEN': ('nsubj', 'is')}, {'a phosphatase': ('attr', 'is')}, {'PIP': ('dobj', 'metabolises')}]
+PTEN   --> PIP
+
+Residues corresponding to Gly-202 and Gly-214 in the related transporter SLC35A1 form a substrate-translocating channel, suggesting that a similar mechanism may be involved in SLC35A2.
+[{'Gly-214': ('conj', 'Gly-202')}, {'the related transporter': ('pobj', 'in')}, {'SLC35A1': ('nsubj', 'form')}, {'a substrate-translocating channel': ('dobj', 'form')}, {'a similar mechanism': ('nsubjpass', 'involved')}, {'SLC35A2': ('pobj', 'in')}]
+ and Gly-214  --> the related transporter SLC35A1  --> a substrate-translocating channel a similar mechanism  --> SLC35A2
+
+NME1 (also known as NM23-H1) was the first identified tumor metastasis suppressor, which has been reported to link with genomic stability maintenance and cancer.
+[{'NME1': ('nsubj', 'was')}, {'NM23-H1': ('pobj', 'as')}, {'the first identified tumor metastasis suppressor': ('attr', 'was')}, {'genomic stability maintenance': ('pobj', 'with')}, {'cancer': ('conj', 'maintenance')}]
+NME1  --> NM23-H1   --> genomic stability maintenance and cancer 
+
+CD38 on CD8 + T cells is considered a reliable marker of HIV disease progression.
+[{'CD38': ('nsubjpass', 'considered')}, {'CD8': ('pobj', 'on')}, {'T cells': ('conj', 'CD38')}, {'HIV disease progression': ('pobj', 'of')}]
+CD38 and T cells  --> CD8   --> HIV disease progression
+
+However, we show that in mice, PDE9A regulates a pool of cGMP that is independent of nNOS, specifically, and nitric oxide signaling in general.
+[{'we': ('nsubj', 'show')}, {'mice': ('pobj', 'in')}, {'PDE9A': ('nsubj', 'regulates')}, {'a pool': ('dobj', 'regulates')}, {'cGMP': ('pobj', 'of')}, {'nNOS': ('pobj', 'of')}]
+we  --> mice PDE9A  --> a pool  --> cGMP  --> nNOS
+
+Here, we report a PTEN-ARID4B-PI3K axis in which PTEN inhibits expression of ARID4B, while ARID4B is a transcriptional activator of the PI3K subunit genes PIK3CA and PIK3R2 that are crucial for activation of the PI3K/AKT pathway.
+[{'we': ('nsubj', 'report')}, {'a PTEN-ARID4B-PI3K axis': ('dobj', 'report')}, {'PTEN': ('nsubj', 'inhibits')}, {'expression': ('dobj', 'inhibits')}, {'ARID4B': ('pobj', 'of')}, {'ARID4B': ('nsubj', 'is')}, {'a transcriptional activator': ('attr', 'is')}, {'the PI3K subunit genes PIK3CA': ('pobj', 'of')}, {'PIK3R2': ('conj', 'PIK3CA')}, {'activation': ('pobj', 'for')}, {'the PI3K/AKT pathway': ('pobj', 'of')}]
+we  --> a PTEN-ARID4B-PI3K axis PTEN  --> expression  --> ARID4B ARID4B   --> the PI3K subunit genes PIK3CA and PIK3R2   --> activation  --> the PI3K/AKT pathway
+
+The CoIP assay result demonstrated that PYCR1 interacts directly with STAT3, and STAT3 overexpression partly reverses the effect of PYCR1 on proliferation, drug resistance and EMT of CRC cells.
+[{'The CoIP assay result': ('nsubj', 'demonstrated')}, {'PYCR1': ('nsubj', 'interacts')}, {'STAT3': ('pobj', 'with')}, {'STAT3 overexpression': ('nsubj', 'reverses')}, {'the effect': ('dobj', 'reverses')}, {'PYCR1': ('pobj', 'of')}, {'proliferation': ('pobj', 'on')}, {'drug resistance': ('conj', 'proliferation')}, {'EMT': ('conj', 'resistance')}, {'CRC cells': ('pobj', 'of')}]
+The CoIP assay result PYCR1  --> STAT3 STAT3 overexpression  --> the effect  --> PYCR1  --> proliferation and drug resistance  and EMT   --> CRC cells
+
+Mechanistically, P4HA2 promotes cervical cancer cell glycolysis through upregulation of PGK1 and LDHA.
+[{'P4HA2': ('nsubj', 'promotes')}, {'cervical cancer cell glycolysis': ('dobj', 'promotes')}, {'upregulation': ('pobj', 'through')}, {'PGK1': ('pobj', 'of')}, {'LDHA': ('conj', 'PGK1')}]
+P4HA2  --> cervical cancer cell glycolysis  --> upregulation  --> PGK1 and LDHA 
+
+UGT2B10 exhibits higher affinity than UGT1A4 for numerous substrates making it potentially the more important enzyme for these compounds in vivo.
+[{'UGT2B10': ('nsubj', 'exhibits')}, {'higher affinity': ('dobj', 'exhibits')}, {'UGT1A4': ('pobj', 'than')}, {'numerous substrates': ('pobj', 'for')}, {'it': ('dobj', 'making')}, {'the more important enzyme': ('dobj', 'making')}, {'these compounds': ('pobj', 'for')}, {'vivo': ('pobj', 'in')}]
+UGT2B10  --> higher affinity  --> UGT1A4  --> numerous substrates  --> it  --> the more important enzyme  --> these compounds  --> vivo
+
+185 relations

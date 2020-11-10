@@ -1,10 +1,12 @@
-import pandas as pd
 import os
 import gzip
-import spacy
-from pysbd.utils import PySBDFactory
-import re
 import pickle
+
+import pandas as pd
+
+import spacy
+from spacy import displacy
+from pysbd.utils import PySBDFactory
 
 
 def unzip(path):
@@ -39,59 +41,54 @@ def get_enzymes(path=None):
         return pd.read_csv(path, sep="\t")["Approved.symbol"].tolist()
 
 
-def get_abstracts(segmented=False):
+def get_abstracts(path=None, segmented=False):
     '''
     Returns a list containing abstracts from NCBI's database.
 
+    :param path: Optional - path to file containing abstracts. If not provided, data/abstracts is used.
     :param segmented: Boolean value to determine whether the segmented or unsegmented file is desired.
     Default value is False.
     :return: a list of abstracts
     '''
+    print("Getting abstracts...")
+    abstracts = pd.read_csv("data/abstracts/abstracts.tsv", sep="\t")["abstracts"].tolist()
+    if path is not None:
+        abstracts = pd.read_csv(path, sep="\t")["abstracts"].tolist()
+
     if segmented:
-        return pd.read_csv("data/abstracts/segmented_abstracts.tsv", sep="\t")["sentences"].tolist()
-    else:
-        return pd.read_csv("data/abstracts/abstracts.tsv", sep="\t")["abstracts"].tolist()
+        return segment_abstracts(abstracts)
+    return abstracts
 
 
-def write(curated_list=None):
-    '''
-    Writes abstracts to a .tsv file.
-
-    :param curated_list: Contents of curated_list will be used to write to a .tsv file.
-    :return:
-    '''
-    # generate a pandas dataframe
-    data_df = pd.DataFrame(curated_list)
-
-    data_df.to_csv(".data/abstracts.tsv", sep="\t", index=False)
-    print("Written abstracts to ../data/abstracts.tsv")
-    print(data_df)
-
-
-def segment_abstracts():
+def segment_abstracts(abstracts):
     '''
     Performs sentence boundary disambiguation (SBD) on existing abstracts.tsv to retrieve individual sentences
-    from each abstract. After SBD is applied, writes sentences to a .tsv file.
+    from each abstract. After SBD is applied, a list of sentences is returned.
 
-    :return: None
+    :return: A list of sentences post segmentation
     '''
-    segmented_abstracts_df = pd.DataFrame(columns=["sentences"])
-    abstracts = get_abstracts()
+    print("Segmenting abstracts...")
+    segmented_abstracts = []
+    # abstracts = get_abstracts()
     nlp = spacy.blank("en")
     nlp.add_pipe(PySBDFactory(nlp))
     for i, a in enumerate(abstracts):
         doc = nlp(a)
+        # print("abstract = " + a)
         for sent in list(doc.sents):
-            segmented_abstracts_df = segmented_abstracts_df.append({"sentences": sent}, ignore_index=True)
+            # print("\tsent = " + str(sent))
+            # df = df.append({"abstracts": str(sent)}, ignore_index=True)
+            segmented_abstracts.append(str(sent))
+        # print()
 
-        if i < 2:
-            print(list(doc.sents))
+    # option for writing data to disk
+    # df = pd.DataFrame(segmented_abstracts, columns=["abstracts"])
+    # print(df)
+    # write(df["abstracts"], name="segmented_abstracts")
+    return segmented_abstracts
 
-    print(segmented_abstracts_df)
-    segmented_abstracts_df.to_csv("data/segmented_abstracts.tsv", sep="\t", index=False)
 
-
-def convert_to_tsv(path):
+def pickler(path, name):
     '''
     Parses .xls file of enzyme symbols and their aliases. Stores a serialized mapping object of symbols --> aliases
     as a pickle file. Stores mapping as a .tsv file.
@@ -99,6 +96,7 @@ def convert_to_tsv(path):
     :param path: path to excel file containing symbols and aliases
     :return: None
     '''
+    # e.g. pickler("~/Desktop/data/aliases1.xlsx")
     enzymes_list = pd.read_excel(path)
     aliases = {}
 
@@ -112,7 +110,6 @@ def convert_to_tsv(path):
     for column_name in enzymes_list:
         if column_name != "Approved.symbol":
             # this column has already been processed above
-            print(column_name)
             for i, item in enumerate(enzymes_list[column_name]):
                 # retrieve symbol for this row
                 symbol = enzymes_list["Approved.symbol"][i]
@@ -135,16 +132,26 @@ def convert_to_tsv(path):
 
     # write to .tsv
     df = pd.DataFrame.from_dict(aliases, orient="index")
-    df.to_csv("data/enzymes_alias1.tsv", sep="\t", header=False)
+    df.to_csv("data/enzymes_symbols/enzymes_" + name + ".tsv", sep="\t", header=False)
 
     # pickle
-    pickle_file = open("data/enzyme_symbols/enzymes_alias1.pickle", mode="wb")
+    pickle_file = open("data/enzyme_symbols/enzymes_" + name + ".pickle", mode="wb")
     pickle.dump(aliases, pickle_file)
     pickle_file.close()
-    print(df)
+
+
+def visualize_dependency(sentence):
+    '''
+    Visualize the dependency of given sentence.
+
+    :param sentence: str
+    :return: None
+    '''
+    nlp = spacy.load('en_core_web_sm')
+    doc = nlp(sentence)
+    displacy.serve(doc, style='dep')
 
 
 if __name__ == "__main__":
-    convert_to_tsv("~/Desktop/data/aliases1.xlsx")
-
+    pickler("~/Desktop/data/aliases2.xlsx", name="alias2")
 

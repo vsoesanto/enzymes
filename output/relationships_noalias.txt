@@ -1,0 +1,89 @@
+UCP3 is an isoform of UCP1, expressed primarily in skeletal muscle.
+[{'UCP3': ('nsubj', 'is')}, {'an isoform': ('attr', 'is')}, {'UCP1': ('pobj', 'of')}, {'skeletal muscle': ('pobj', 'in')}]
+UCP3   --> UCP1  --> skeletal muscle
+
+UCP1 is more sensitive to tri- than diphosphate whereas in UCP3, the gradient is reverse.
+[{'UCP1': ('nsubj', 'is')}, {'UCP3': ('pobj', 'in')}, {'the gradient': ('nsubj', 'is')}]
+UCP1  --> UCP3 the gradient
+
+The findings suggested that PDE11A has a common ancestral gene with PDE5A and PDE6s, whereas PDE2A and PDE10A are generated separately from these three GAF-PDEs.
+[{'The findings': ('nsubj', 'suggested')}, {'PDE11A': ('nsubj', 'has')}, {'a common ancestral gene': ('dobj', 'has')}, {'PDE5A': ('pobj', 'with')}, {'PDE6s': ('conj', 'PDE5A')}, {'PDE10A': ('conj', 'PDE2A')}, {'these three GAF-PDEs': ('pobj', 'from')}]
+The findings PDE11A  --> a common ancestral gene  --> PDE5A and PDE6s   and PDE10A  --> these three GAF-PDEs
+
+These studies provide a mouse model for infantile neuronal ceroid lipofuscinosis and further suggest that PPT2 serves a role in the brain that is not carried out by PPT1.
+[{'These studies': ('nsubj', 'provide')}, {'a mouse model': ('dobj', 'provide')}, {'infantile neuronal ceroid lipofuscinosis': ('pobj', 'for')}, {'PPT2': ('nsubj', 'serves')}, {'a role': ('dobj', 'serves')}, {'the brain': ('pobj', 'in')}, {'PPT1': ('pobj', 'by')}]
+These studies  --> a mouse model  --> infantile neuronal ceroid lipofuscinosis PPT2  --> a role  --> the brain  --> PPT1
+
+In general, CYP1A2 was altered in the more meaningful way than CYP1A1 by isothiocyanates.
+[{'CYP1A2': ('nsubjpass', 'altered')}, {'the more meaningful way': ('pobj', 'in')}, {'CYP1A1': ('pobj', 'than')}, {'isothiocyanates': ('pobj', 'by')}]
+CYP1A2  --> the more meaningful way  --> CYP1A1  --> isothiocyanates
+
+Not surprisingly, CYP1A2 has a relatively small volume of the active site cavity of 375 A(3), which is 44.2% larger than that of CYP2A6 (260 A(3)), but much smaller than that of CYP3A4 (1385 A(3)) and 2C8 (1438 A(3)).
+[{'CYP1A2': ('nsubj', 'has')}, {'a relatively small volume': ('dobj', 'has')}, {'the active site cavity': ('pobj', 'of')}, {'375 A(3': ('pobj', 'of')}, {'CYP2A6': ('pobj', 'of')}, {'CYP3A4': ('pobj', 'of')}, {'A(3': ('appos', '2C8')}]
+CYP1A2  --> a relatively small volume  --> the active site cavity  --> 375 A(3  --> CYP2A6  --> CYP3A4 
+
+CYP2C19 converts the tricyclic antidepressant imipramine to its active metabolite desipramine, which is subsequently inactivated by CYP2D6.
+[{'CYP2C19': ('nsubj', 'converts')}, {'the tricyclic antidepressant imipramine': ('dobj', 'converts')}, {'its active metabolite desipramine': ('pobj', 'to')}, {'CYP2D6': ('pobj', 'by')}]
+CYP2C19  --> the tricyclic antidepressant imipramine  --> its active metabolite desipramine  --> CYP2D6
+
+Although IDO2 enzyme activity is weaker than IDO1, it is less sensitive to 1-MT inhibition than IDO1.
+[{'IDO2': ('nsubj', 'enzyme')}, {'activity': ('dobj', 'enzyme')}, {'it': ('nsubj', 'is')}, {'1-MT inhibition': ('pobj', 'to')}, {'IDO1': ('pobj', 'than')}]
+IDO2  --> activity it  --> 1-MT inhibition  --> IDO1
+
+ACE2 (angiotensin-converting enzyme 2) counterbalances the actions of ACE (angiotensin-converting enzyme) by metabolizing its catalytic product, the vasoactive and fibrogenic peptide AngII (angiotensin II), into Ang-(1-7) [angiotensin-(1-7)].
+[{'ACE2': ('nsubj', 'counterbalances')}, {'(angiotensin-converting enzyme': ('appos', 'ACE2')}, {'the actions': ('dobj', 'counterbalances')}, {'ACE': ('pobj', 'of')}, {'(angiotensin-converting enzyme': ('appos', 'ACE')}, {'its catalytic product': ('dobj', 'metabolizing')}, {'the vasoactive and fibrogenic peptide': ('appos', 'product')}, {'AngII': ('appos', 'peptide')}, {'(angiotensin II': ('appos', 'AngII')}]
+ACE2   --> the actions  --> ACE   --> its catalytic product   
+
+PIGF forms a heterodimer with either PIGG or PIGO, two enzymes that transfer an EtNP to the second or third mannoses of GPI respectively.
+[{'PIGF': ('nsubj', 'forms')}, {'a heterodimer': ('dobj', 'forms')}, {'either PIGG': ('pobj', 'with')}, {'PIGO': ('conj', 'PIGG')}, {'an EtNP': ('dobj', 'transfer')}, {'the second or third mannoses': ('pobj', 'to')}, {'GPI': ('pobj', 'of')}]
+PIGF  --> a heterodimer  --> either PIGG and PIGO   --> an EtNP  --> the second or third mannoses  --> GPI
+
+IDO2 is a relative of IDO1 implicated in tryptophan catabolism and immune modulation but its specific contributions to normal physiology and pathophysiology are not known.
+[{'IDO2': ('nsubj', 'is')}, {'a relative': ('nsubjpass', 'known')}, {'IDO1': ('pobj', 'of')}, {'tryptophan catabolism': ('pobj', 'in')}, {'immune modulation': ('conj', 'catabolism')}, {'its specific contributions': ('conj', 'catabolism')}, {'normal physiology': ('pobj', 'to')}, {'pathophysiology': ('conj', 'physiology')}]
+IDO2 a relative  --> IDO1  --> tryptophan catabolism and immune modulation and its specific contributions    --> normal physiology and pathophysiology 
+
+Evolutionary genetic studies suggest that IDO2 has a unique function ancestral to IDO1.
+[{'Evolutionary genetic studies': ('nsubj', 'suggest')}, {'IDO2': ('nsubj', 'has')}, {'a unique function': ('dobj', 'has')}, {'IDO1': ('pobj', 'to')}]
+Evolutionary genetic studies IDO2  --> a unique function  --> IDO1
+
+Gene expression studies indicate that IDO2 is a basally and more narrowly expressed gene than IDO1 and that IDO2 is uniquely regulated by AhR, which serves as a physiological receptor for the tryptophan catabolite kynurenine.
+[{'Gene expression studies': ('nsubj', 'indicate')}, {'IDO2': ('nsubj', 'is')}, {'a basally and more narrowly expressed gene': ('attr', 'is')}, {'IDO1': ('pobj', 'than')}, {'IDO2': ('nsubjpass', 'regulated')}, {'AhR': ('pobj', 'by')}, {'a physiological receptor': ('pobj', 'as')}, {'the tryptophan catabolite kynurenine': ('pobj', 'for')}]
+Gene expression studies IDO2   --> IDO1 IDO2  --> AhR  --> a physiological receptor  --> the tryptophan catabolite kynurenine
+
+We suggest that IDO2 may act in a distinct manner from IDO1 as a set-point for tolerance to "altered-self" antigens along the self-non-self continuum where immune challenges from cancer and autoimmunity may arise.
+[{'We': ('nsubj', 'suggest')}, {'IDO2': ('nsubj', 'act')}, {'a distinct manner': ('pobj', 'in')}, {'IDO1': ('pobj', 'from')}, {'a set-point': ('pobj', 'as')}, {'tolerance': ('pobj', 'for')}, {'"altered-self" antigens': ('pobj', 'to')}, {'the self-non-self continuum': ('pobj', 'along')}, {'immune challenges': ('nsubj', 'arise')}, {'cancer': ('pobj', 'from')}, {'autoimmunity': ('conj', 'cancer')}]
+We IDO2  --> a distinct manner  --> IDO1  --> a set-point  --> tolerance  --> "altered-self" antigens  --> the self-non-self continuum immune challenges  --> cancer and autoimmunity 
+
+PAPSS2 (PAPS synthase 2) provides the universal sulfate donor PAPS (3'-phospho-adenosine-5'-phosphosulfate) to all human sulfotransferases, including SULT2A1, responsible for sulfation of the crucial androgen precursor dehydroepiandrosterone (DHEA).
+[{'PAPSS2': ('nsubj', 'provides')}, {'PAPS synthase': ('appos', 'PAPSS2')}, {'the universal sulfate donor PAPS': ('dobj', 'provides')}, {"3'-phospho-adenosine-5'-phosphosulfate": ('appos', 'PAPS')}, {'all human sulfotransferases': ('pobj', 'to')}, {'SULT2A1': ('pobj', 'including')}, {'sulfation': ('pobj', 'for')}, {'the crucial androgen precursor': ('pobj', 'of')}, {'dehydroepiandrosterone': ('appos', 'precursor')}]
+PAPSS2   --> the universal sulfate donor PAPS   --> all human sulfotransferases  --> SULT2A1  --> sulfation  --> the crucial androgen precursor 
+
+BCAT1, which encodes a branched-chain amino acid transaminase, was identified as one of the target genes controlled by DOT1L through the regulation of H3K79 methylation.
+[{'BCAT1': ('nsubjpass', 'identified')}, {'a branched-chain amino acid transaminase': ('dobj', 'encodes')}, {'the target genes': ('pobj', 'of')}, {'DOT1L': ('pobj', 'by')}, {'the regulation': ('pobj', 'through')}, {'H3K79 methylation': ('pobj', 'of')}]
+BCAT1  --> a branched-chain amino acid transaminase  --> the target genes  --> DOT1L  --> the regulation  --> H3K79 methylation
+
+Although other family members e.g., ABCA1 and ABCC7 have been shown to function as oligomers, the oligomerization state of ABCA3 is unknown.
+[{'other family members': ('nsubjpass', 'shown')}, {'ABCA1': ('nsubjpass', 'shown')}, {'oligomers': ('pobj', 'as')}, {'the oligomerization state': ('nsubj', 'is')}, {'ABCA3': ('pobj', 'of')}]
+other family members ABCA1  --> oligomers the oligomerization state  --> ABCA3
+
+Our data suggest that SETDB2 is associated with transcriptional repression of WWOX and CADM1, and hence overexpression of SETDB2 may contribute to GC progression.
+[{'Our data': ('nsubj', 'suggest')}, {'SETDB2': ('nsubjpass', 'associated')}, {'transcriptional repression': ('pobj', 'with')}, {'WWOX': ('pobj', 'of')}, {'CADM1': ('conj', 'WWOX')}, {'hence overexpression': ('nsubj', 'contribute')}, {'SETDB2': ('pobj', 'of')}, {'GC progression': ('pobj', 'to')}]
+Our data SETDB2  --> transcriptional repression  --> WWOX and CADM1  hence overexpression  --> SETDB2  --> GC progression
+
+PIK3CA is involved in the PI3K-PTEN-mTOR signalling pathway.
+[{'PIK3CA': ('nsubjpass', 'involved')}, {'PTEN': ('pobj', '-')}]
+PIK3CA  --> PTEN
+
+Residues corresponding to Gly-202 and Gly-214 in the related transporter SLC35A1 form a substrate-translocating channel, suggesting that a similar mechanism may be involved in SLC35A2.
+[{'Gly-214': ('conj', 'Gly-202')}, {'the related transporter': ('pobj', 'in')}, {'SLC35A1': ('nsubj', 'form')}, {'a substrate-translocating channel': ('dobj', 'form')}, {'a similar mechanism': ('nsubjpass', 'involved')}, {'SLC35A2': ('pobj', 'in')}]
+ and Gly-214  --> the related transporter SLC35A1  --> a substrate-translocating channel a similar mechanism  --> SLC35A2
+
+Mechanistically, P4HA2 promotes cervical cancer cell glycolysis through upregulation of PGK1 and LDHA.
+[{'P4HA2': ('nsubj', 'promotes')}, {'cervical cancer cell glycolysis': ('dobj', 'promotes')}, {'upregulation': ('pobj', 'through')}, {'PGK1': ('pobj', 'of')}, {'LDHA': ('conj', 'PGK1')}]
+P4HA2  --> cervical cancer cell glycolysis  --> upregulation  --> PGK1 and LDHA 
+
+UGT2B10 exhibits higher affinity than UGT1A4 for numerous substrates making it potentially the more important enzyme for these compounds in vivo.
+[{'UGT2B10': ('nsubj', 'exhibits')}, {'higher affinity': ('dobj', 'exhibits')}, {'UGT1A4': ('pobj', 'than')}, {'numerous substrates': ('pobj', 'for')}, {'it': ('dobj', 'making')}, {'the more important enzyme': ('dobj', 'making')}, {'these compounds': ('pobj', 'for')}, {'vivo': ('pobj', 'in')}]
+UGT2B10  --> higher affinity  --> UGT1A4  --> numerous substrates  --> it  --> the more important enzyme  --> these compounds  --> vivo
+
+22 relations
