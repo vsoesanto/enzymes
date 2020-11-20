@@ -1,4 +1,5 @@
 import os
+import csv
 import gzip
 import pickle
 
@@ -100,13 +101,15 @@ def pickler(path, name):
     enzymes_list = pd.read_excel(path)
     aliases = {}
 
+    # initialize approved symbols as keys
     for symbol in enzymes_list["Approved.symbol"]:
         if symbol not in aliases:
             if isinstance(symbol, str):
                 aliases[symbol] = []
-        else:
-            print(symbol + " already exists")
+        # else:
+        #     print(symbol + " already exists")
 
+    # add aliases of each enzyme symbol to mapping
     for column_name in enzymes_list:
         if column_name != "Approved.symbol":
             # this column has already been processed above
@@ -118,7 +121,7 @@ def pickler(path, name):
                 if isinstance(symbol, str) and isinstance(item, str):
                     if column_name == "Alias.names":
                         for x in item.split('", "'):
-                            print("\t after split: " + x)
+                            # print("\t after split: " + x)
                             aliases[symbol].append(x.strip('"'))
                     elif column_name == "Alias.symbols" or column_name == "Previous.symbols":
                         for x in item.split(", "):
@@ -130,9 +133,9 @@ def pickler(path, name):
     # for symbol in aliases:
     #     print(symbol + ": " + str(aliases[symbol]))
 
-    # write to .tsv
-    df = pd.DataFrame.from_dict(aliases, orient="index")
-    df.to_csv("data/enzymes_symbols/enzymes_" + name + ".tsv", sep="\t", header=False)
+    # write to .csv
+    df = pd.DataFrame.from_dict(aliases, orient="index",)
+    df.to_csv(path_or_buf="data/enzyme_symbols/enzymes_" + name + ".csv", header=False, na_rep=None)
 
     # pickle
     pickle_file = open("data/enzyme_symbols/enzymes_" + name + ".pickle", mode="wb")
@@ -153,5 +156,5 @@ def visualize_dependency(sentence):
 
 
 if __name__ == "__main__":
+    pickler("~/Desktop/data/aliases1.xlsx", name="alias1")
     pickler("~/Desktop/data/aliases2.xlsx", name="alias2")
-

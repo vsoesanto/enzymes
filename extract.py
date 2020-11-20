@@ -1,6 +1,10 @@
 import spacy
 import util
 import pickle
+import numpy as np
+
+from sklearn.metrics.pairwise import cosine_similarity, euclidean_distances
+from embeddings import SentenceEmbedder
 
 '''
 Author: Vincent Soesanto
@@ -61,34 +65,6 @@ def chunk_hunter_v1(sent):
     return s_chunks
 
 
-def check_aliases(alias, enzyme_file):
-    ''''
-    Finds alias in the mapping of symbols to aliases
-
-    :param alias: possible alias of an enzyme
-    :param enzyme_file: mapping of enzyme symbols to aliases
-    :return: Boolean value. True = enzyme alias found; False = enzyme alias not found
-    '''
-    for ef_sym in enzyme_file:
-        if alias in enzyme_file[ef_sym]:
-            return True
-    return False
-
-
-def item_hunter(nchunk, enzymes_file, patterns):
-    '''
-    Hunts for subject in given enzymes_file
-
-    :param nchunk: noun chunk from dependency parsing
-    :param enzymes_file: mapping of enzyme symbols to aliases
-    :return:
-    '''
-    if nchunk.root.dep_ in patterns and nchunk.text in enzymes_file:
-        return True
-    else:
-        return check_aliases(nchunk.text, enzymes_file)
-
-
 def chunk_hunter_v2(sent):
     '''
     Finds two enzyme symbols from two different lists in given spacy.load() object.
@@ -110,13 +86,13 @@ def chunk_hunter_v2(sent):
     for nchunk in sent.noun_chunks:
         # get subject
         if not subj_found:
-            subj_found = item_hunter(nchunk, enzymes1, subj_patterns)
+            subj_found = symbol_hunter(nchunk, enzymes1, subj_patterns)
             if subj_found:
                 subj = nchunk.text
                 subj_loc = 1
 
         if not subj_found:
-            subj_found = item_hunter(nchunk, enzymes2, subj_patterns)
+            subj_found = symbol_hunter(nchunk, enzymes2, subj_patterns)
             if subj_found:
                 subj = nchunk.text
                 subj_loc = 2
@@ -124,12 +100,12 @@ def chunk_hunter_v2(sent):
         # get object
         if subj_found and nchunk.text != subj:
             if subj_loc == 1:
-                obj_found = item_hunter(nchunk, enzymes2, obj_patterns)
+                obj_found = symbol_hunter(nchunk, enzymes2, obj_patterns)
                 if obj_found:
                     obj_loc = 2
                     obj = nchunk.text
             elif subj_loc == 2:
-                obj_found = item_hunter(nchunk, enzymes1, obj_patterns)
+                obj_found = symbol_hunter(nchunk, enzymes1, obj_patterns)
                 if obj_found:
                     obj_loc = 1
                     obj = nchunk.text
@@ -147,6 +123,34 @@ def chunk_hunter_v2(sent):
             s_chunks.append({nchunk.text: (nchunk.root.dep_, nchunk.root.head.text)})
 
     return s_chunks, info
+
+
+def check_aliases(alias, enzymes):
+    ''''
+    Finds alias in the mapping of symbols to aliases
+
+    :param alias: possible alias of an enzyme
+    :param enzymes: mapping of enzyme symbols to aliases
+    :return: Boolean value. True = enzyme alias found; False = enzyme alias not found
+    '''
+    for e_sym in enzymes:
+        if alias in enzymes[e_sym]:
+            return True
+    return False
+
+
+def symbol_hunter(nchunk, enzymes_file, patterns):
+    '''
+    Hunts for subject in given enzymes_file
+
+    :param nchunk: noun chunk from dependency parsing
+    :param enzymes_file: mapping of enzyme symbols to aliases
+    :return:
+    '''
+    if nchunk.root.dep_ in patterns and nchunk.text in enzymes_file:
+        return True
+    else:
+        return check_aliases(nchunk.text, enzymes_file)
 
 
 def main():
@@ -194,6 +198,7 @@ def write(relations, original, source):
         out.write(str(r) + "\n")
         for s in source[i]:
             out.write(s + "\n")
+        out.write("\n")
 
     print(str(len(relations)) + " relations")
     out.write("\n\n" + str(len(relations)) + " relations")
@@ -202,3 +207,17 @@ def write(relations, original, source):
 
 # DRIVER
 main()
+
+# sent1 = get_embedding(["X directly interacts with Y but it is unnecessary for X or Y phosphorylation and nuclear translocation."])
+# sent2 = get_embedding(["Mechanistically, X promotes cervical cancer cell glycolysis through upregulation of Y and Z."])
+# print("euclidean  for sentences labeled 1 and 1: ", euclidean_distances(sent1, sent2))
+#
+# sent3 = get_embedding(["X is the second most frequently mutated tumor suppresser gene in cancers after Y."])
+# print("euclidean sim for sentences labeled 1 and 0: ", euclidean_distances(sent1, sent3))
+# print("euclidean sim for sentences labeled 1 and 0: ", euclidean_distances(sent2, sent3))
+
+# SUGGESTIONS
+# try removing stopwords
+# try un-censoring enzymes
+# look for embedders trained on biosciences data
+
